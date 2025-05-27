@@ -1,0 +1,62 @@
+.produto_equivalente {
+  margin: 0 auto;
+  width: 610px;
+}
+
+.produto_equivalente table {
+  text-align: center;
+}
+
+.produto_equivalente table th {
+  box-shadow: 2px 1px 5px gray;
+  background-color: rgb(125, 206, 243);
+  height: 30px;
+}
+
+.produto_equivalente table td {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-shadow: 2px 1px 5px gray;
+}
+
+#ref {
+  width: 150px;
+  font-size: .9em;
+}
+
+#des {
+  width: 400px;
+  font-size: .9em;
+}
+
+#val {
+  width: 50px;
+  font-size: .9em;
+}
+
+#op {
+  width: 50px;
+  height: 30px;
+  font-size: .9em;
+}
+
+.produto_equivalente h2 span {
+  color: blue;
+}
+
+.bAdic { 
+  background: url("../img/+.png"); 
+  cursor:pointer; 
+  width: 25px; 
+  height: 25px; 
+  border: none; 
+  font-size:0%;
+ }
+
+ .bRem { 
+  background: url("../img/-.png"); 
+  cursor:pointer; 
+  width: 25px; 
+  height: 25px; 
+  border: none; 
+  font-size:0%;
+ }

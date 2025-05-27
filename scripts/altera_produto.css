@@ -1,0 +1,73 @@
+.geral {
+  width: 100vw;
+  height: 100vh;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.erro {
+  text-align: center;
+  font-family: cursive;
+  width: 200px;
+  height: auto;
+}
+
+.erro p, h1, h2 {
+  color: #000;
+}
+
+.altera {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 95%;
+  height: auto;
+}
+
+.altera p {
+  color: #000;
+}
+
+.pesquisa input[type="submit"] {
+  width: 100px;
+  cursor: pointer;
+  color: white;
+  background: -webkit-linear-gradient(top, #088fad 20%, #00d5ff 100%);
+  margin-bottom: 5px;
+}
+
+.altera input[type="checkbox"] {
+  height: 15px;
+  margin-right: 25px;
+}
+
+.pesquisa hr {
+  margin: 15px;
+}
+
+.pesquisa input {
+  height: 27px;
+}
+
+.resultado label {
+  font: .8em Arial;
+}
+
+.resultado input {
+  height: 27px;
+}
+
+.resultado table {
+  text-align: center;
+  border-collapse: collapse;
+  /*border: 2px solid rgb(140 140 140);*/
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+.resultado table tr, td {
+  width: 200px;
+}

@@ -1,0 +1,70 @@
+.existe {
+  margin: 20px auto;
+  width: 900px;
+  display: flex;
+}
+
+.existente {
+  margin-left: 20px;
+  width: 150px;
+  box-shadow: 3px 1px 5px gray;
+}
+
+.existente_vazio {
+  margin-left: 20px;
+  width: 150px;
+}
+
+.centro {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%); 
+}
+
+.detalhe p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  margin-top: 2px;
+}
+
+.detalhe_st p {
+  font-size: 0.9em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.colunas p {
+  color: white;
+}
+
+.nome {
+  font-family: cursive;
+}
+
+.descricao {
+  height: 75px;
+}
+
+.separador {
+  margin: 0 auto;
+  width: 100px;
+  height: 1px;
+  background-color: gray;
+}
+
+.separador_st {
+  margin: 2px auto;
+  width: 130px;
+  height: 2px;
+  background-color: gray;
+}
+
+.tabsia, td, tr {
+	width: 100px;
+	margin: 20px auto;
+	border: 1px solid;
+	border-color: gray;
+	border-collapse: collapse;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.95em;
+}

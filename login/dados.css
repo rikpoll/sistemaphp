@@ -1,0 +1,81 @@
+.meusdados {
+	width: 600px;
+	padding: 20px;
+}
+
+.centro {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%); 
+}
+
+.painel {
+	display: flex;
+}
+
+.titulo {
+	background-color: lightgray;
+}
+
+.titulo p {
+	width: 200px;
+	color: black;
+	height: 30px;
+	line-height: 30px;
+	text-align: right;
+	padding-right: 20px;
+}
+
+.valores {
+	background-color: yellow;
+}
+
+.valores p {
+	width: 390px;
+	font-family: Arial;
+	height: 30px;
+	line-height: 30px;
+	color: black;
+	margin-left: 10px;
+	font-size: 1.1em;
+}
+
+.valores a {
+	text-decoration: none;
+	color: black;
+	font-size: 0.9em;
+}
+
+.permisso {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.permisso p {
+	width: 380px;
+	border-radius: 5px;
+	line-height: 15px;
+	height: 15px;
+}
+
+.permisso p:hover {
+	font-weight: bold;
+}
+
+.meusdados form input[type=submit] {
+	background-color: lightblue;
+  border: none;
+  color: white;
+  padding: 8px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+	width: 620px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.meusdados form input[type=submit]:hover {
+	background-color: darkblue;
+	transition: 800ms;
+}

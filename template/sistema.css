@@ -1,0 +1,18 @@
+.sistema {
+  width: 100vw;
+  height: 100vh;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.entrada {
+  font-family: cursive;
+  width: 500px;
+  height: auto;
+  text-shadow: 0 -50px 100px, 0 0 2px, 0 0 1em #00afb3, 0 0 0.5em #008d93, 0 0 0.1em #00abff, 0 10px 5px #000;
+  color: #a5f7fa;
+}
+  

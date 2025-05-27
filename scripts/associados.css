@@ -1,0 +1,53 @@
+.assoc {
+  margin: 20px auto;
+  width: 900px;
+  font: .9em sans-serif;
+}
+
+.assoc img {
+  width: 20px;
+}
+
+.assoc table {
+  text-align: center;
+  box-shadow: 2px 1px 5px gray;
+}
+
+.assoc input[type="number"] {
+  width: 30px;
+}
+
+.assoc table th {
+  background-color: rgb(125, 206, 243);
+}
+
+#ref {
+  width: 250px;
+}
+
+#des {
+  width: 400px;
+  font-size: .8em;
+}
+
+#peq {
+  width: 50px;
+}
+
+.bAdic { 
+  background: url("../img/+.png"); 
+  cursor:pointer; 
+  width: 25px; 
+  height: 25px; 
+  border: none; 
+  font-size:0%;
+ }
+
+ .bRem { 
+  background: url("../img/-.png"); 
+  cursor:pointer; 
+  width: 25px; 
+  height: 25px; 
+  border: none; 
+  font-size:0%;
+ }

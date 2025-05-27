@@ -1,0 +1,19 @@
+.vendedor {
+	padding: 20px 20px 20px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.linhaf, .linhar {
+	color: black;
+}
+
+.linhaf spam {
+	font-family: Times, serif;
+	color: blue;
+	font-weight: bold;
+}
+
+.linhar spam {
+	font-family: Times, serif;
+	font-weight: bold;
+}

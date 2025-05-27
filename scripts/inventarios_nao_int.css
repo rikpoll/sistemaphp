@@ -1,0 +1,65 @@
+.inventario {
+	padding: 20px 20px 20px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+	margin-bottom: 20px;
+}
+
+.listagem table, th, td {
+  border: 1px solid;
+	border-collapse: collapse;
+	background-color: #FFFACD;
+}
+
+.listagem table {
+  width: 700px;
+	margin-top: 20px;
+}
+
+.listagem table caption {
+  background-color: #1E90FF;
+	font-weight: bold;
+	color: white;
+	height: 30px;
+	padding-top: 10px;
+}
+
+.listagem table tfoot {
+	height: 30px;
+	padding-top: 10px;
+}
+
+#cell_center {
+	text-align: center;
+}
+
+.listagem a {
+	display: inline-block; /* Para que o botão tenha largura e altura definidas */
+  padding: 10px; /* Espaçamento interno */
+  background-color: #87CEFA; /* Cor de fundo */
+  color: Blue; /* Cor do texto */
+  text-decoration: none; /* Remover o sublinhado padrão */
+  /*border: 2px solid #4CAF50; /* Borda (opcional) */
+  /*border-radius: 5px; /* Arredondar as bordas (opcional) */
+  cursor: pointer; /* Cursor para indicar que é um botão */
+	width: 680px;
+	height:20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+/* Estilos adicionais para o hover */
+.listagem a:hover {
+  background-color: #FF0000;
+  border-color: #3e8e41;
+	color: white;
+}
+
+/* Estilos adicionais para o estado clicado */
+.listagem a:active {
+  background-color: #8B0000;
+  border-color: #255027;
+	color: white;
+}
