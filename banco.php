@@ -345,6 +345,24 @@ function vendedor_busca($conn, $ano, $diario, $num) {
   return $dados;
 }
 
+function vendedor_busca_cliente($conn, $ano, $diario, $num) {
+	$sql = "select poca_enti, enti_nome
+					from gia_fment
+					where ano={$ano} and
+								diario='{$diario}' and
+								num_doc={$num}";
+	
+	$result=$conn->query($sql);
+
+  $dados = array();
+
+  foreach($result->fetchAll(PDO::FETCH_OBJ) as $dado) {
+    $dados[] = $dado;
+  }
+
+  return $dados;
+}
+
 function vendedor_listaNomes ($conn) {
 	$sql="select distinct campo_aux20 colab
 				from gia_fment_linhas

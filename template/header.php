@@ -38,7 +38,7 @@
 				
 				<?php
 					if ($userAcesso==1) {
-						echo "<p><a style=\"color: red;\" href=\"../login/config.php\"><b>Configurações</b></a></p>";
+						echo "<p><a style=\"color: red;\" href=\"../login/configurar.php\"><b>Configurações</b></a></p>";
 					}
 				?>
       </div>

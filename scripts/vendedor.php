@@ -60,18 +60,30 @@ log1($connect, $_COOKIE['login'], "Acesso", "Altera Vendedor", "");
 			if ($diario=='' or $num=='') {			
 			  echo "Preencha os dados corretamente.";
 			} else {
-				echo "<p class=\"linhaf\">Fatura: <spam>{$ano} {$diario}/{$num}</spam>.";
+				echo "<div class=\"fatura\">";
+				echo "<div class=\"cabeca\">";
+				echo "<p class=\"linhaf\">Fatura: <spam>{$ano} {$diario}/{$num}</spam>.</p>";
+				$result = vendedor_busca_cliente($fbConexaoLL,$ano,$diario,$num);
+				foreach($result as $i) {
+					print("<p class=\"linhaf\">Cliente: {$i->POCA_ENTI} - <spam>{$i->ENTI_NOME}</spam>.</p>");
+				}
+				echo "</div>"; //cabeca
+				echo "<div class=\"linhas\">";
+				echo "<table><tr><th>Referência</th><th>Quantidade</th><th>Valor</th><th>Operador</th><th>Vendedor</th></tr>";
 				$result = vendedor_busca($fbConexaoLL,$ano,$diario,$num);
 				foreach($result as $i) {
-          print("<p class=\"linhar\">Referencia: <spam>{$i->REFERENCIA} ({$i->QTD})</spam>, Valor: <spam>{$i->VALOR}€</spam>, Operador: <spam>{$i->OPERADOR}</spam>, Vendedor: <b>{$i->NOME}</b></p>");
+          print("<tr><td>{$i->REFERENCIA}</td><td>{$i->QTD}</td><td>{$i->VALOR}€</td><td>{$i->OPERADOR}</td><td>{$i->NOME}</td></tr>");
 				}
-			
+				echo "</table>";
+				echo "</div>"; //linhas
+				echo "<div class=\"lista\">";			
 		?>
-			<p class="linhaf">Alterar Vendedor para:
+			<p>
 				<form method="POST" action="vendedor_altera.php">
 					<input type="hidden" name="ano" value="<?php echo $ano; ?>">
 					<input type="hidden" name="diario" value="<?php echo $diario; ?>">
 					<input type="hidden" name="num" value="<?php echo $num; ?>">
+					<label for="vendedor">Alterar Vendedor para:</label>
 					<select name="vendedor" id="vendedor">
 						<?php
 							$result = vendedor_listaNomes($fbConexaoLL);
@@ -84,7 +96,9 @@ log1($connect, $_COOKIE['login'], "Acesso", "Altera Vendedor", "");
 				</form>
 			</p>
 	<?php
-	    } //fecha else
+			echo "</div>"; //lista
+			echo "</div>"; //fatura  
+			} //fecha else
 		} // fecha if
   ?>
 

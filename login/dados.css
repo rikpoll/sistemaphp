@@ -79,3 +79,16 @@
 	background-color: darkblue;
 	transition: 800ms;
 }
+
+.alterado {
+	background-color: lightgreen;
+	width: 620px;
+}
+
+.alterado p {
+	
+	color: black;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}

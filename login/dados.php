@@ -26,7 +26,7 @@ $pag_atual="Meus Dados";
 <link rel="stylesheet" href="./dados.css" type="text/css" />
 
 <div class="meusdados">
-	<form>
+	<form method="POST">
 		<div class="painel">
 			<div class="titulo">
 				<p>Utilizador</p>
@@ -50,6 +50,7 @@ $pag_atual="Meus Dados";
 					$userNC = $row['nome_completo'];
 					$userEmail = $row['email'];
 					$userAcesso = $row['acesso'];
+					$userPass = $row['pass'];
 				}
 				
 				  $permissao_select= mysqli_query($connect, "SELECT GROUP_CONCAT(valor)p FROM config where user={$userId} and tipo='permissao'");
@@ -64,12 +65,13 @@ $pag_atual="Meus Dados";
 					$vendedor=array_search('vendedor',$permissoes);
 					$tecdoc=array_search('tecdoc',$permissoes);
 			?>
-					<p><input type="text" value="<?php print($userLogin); ?>"></p>
-					<p><input type="text" value="<?php print($userNome); ?>"></p>
-					<p><input type="text" value="<?php print($userApelido); ?>"></p>
-					<p><input type="text" value="<?php print($userNC); ?>"></p>
-					<p><input type="text" value="<?php print($userEmail); ?>"></p>
-					<p><input type="password" value="<?php print("*************"); ?>"></p>
+					<input type="hidden" name="id" value="<?php print($userId); ?>">
+					<p><?php print($userLogin); ?></p>
+					<p><input type="text" name="nome" value="<?php print($userNome); ?>"></p>
+					<p><input type="text" name="apelido" value="<?php print($userApelido); ?>"></p>
+					<p><input type="text" name="nc" value="<?php print($userNC); ?>"></p>
+					<p><input type="text" name="mail" value="<?php print($userEmail); ?>"></p>
+					<p><input type="password" name="pass" value="<?php print('********'); ?>"></p>
 					<div class="permisso">
 					<?php
 						if ($alterar>-1) {
@@ -105,8 +107,35 @@ $pag_atual="Meus Dados";
 			</div>
 		</div>
 		
-		<input type="submit" value="Alterar">
+		<input type="submit" name="alterar" value="Alterar">
 	</form>
+	<?php
+		if (isset($_POST["alterar"])) {
+			$id = $_POST["id"];
+			$insNome = $_POST["nome"];
+			$insApelido = $_POST["apelido"];
+			$insNC = $_POST["nc"];
+			$insEmail = $_POST["mail"];
+			if ($_POST["pass"]!=='********' && $_POST["pass"]!=='') {
+			  $insPass = md5($_POST["pass"]);
+				$sql="update utilizadores set nome='{$insNome}', apelido='{$insApelido}', nome_completo='{$insNC}',
+			                              email='{$insEmail}', pass='{$insPass}'
+			        where id={$id}";
+							header("Location:./dados.php?alterado=1");
+		  } else {
+				$sql="update utilizadores set nome='{$insNome}', apelido='{$insApelido}',
+				                              nome_completo='{$insNC}', email='{$insEmail}'
+			        where id={$id}";
+							header("Location:./dados.php?alterado=1");
+		  }
+      $result=$connect->query($sql);
+		} 
+	?>
+<?php if (isset($_GET['alterado'])) { ?>
+	<div class="alterado">
+		<p>Alterado com sucesso.</p>
+	</div>
+<?php } ?>
 </div>
 
 <?php include '../template/footer.php'; ?>

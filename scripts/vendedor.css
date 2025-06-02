@@ -3,7 +3,8 @@
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-.linhaf, .linhar {
+.vendedor p {
+	font-family: Arial, Helvetica, sans-serif;
 	color: black;
 }
 
@@ -13,7 +14,30 @@
 	font-weight: bold;
 }
 
-.linhar spam {
-	font-family: Times, serif;
-	font-weight: bold;
+.fatura {
+	margin-top: 20px;
+	width: 650px;
+}
+
+.cabeca {
+  text-align: center;
+	font-size: 1.3em;
+	margin-bottom: 20px;
+}
+
+.linhas {
+	margin-bottom: 20px;
+}
+
+.linhas table {
+	width: 100%;
+	background-color: antiquewhite;
+}
+
+.linhas table td {
+	text-align: center;
+}
+
+.lista {
+	text-align: center;
 }

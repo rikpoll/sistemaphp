@@ -72,7 +72,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
 			</tbody>
 			<tfoot>
 				<tr>
-					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=LL">Cancelar</a></th>
+					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=LL" onclick="return confirm('Tem a certeza que deseja cancelar os inventários?')">Cancelar</a></th>
 				</tr>
 			</tfoot>
 		</table>
@@ -114,7 +114,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
 			</tbody>
 			<tfoot>
 				<tr>
-					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=EM">Cancelar</a></th>
+					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=EM" onclick="return confirm('Tem a certeza que deseja cancelar os inventários?')">Cancelar</a></th>
 				</tr>
 			</tfoot>
 		</table>
@@ -157,7 +157,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
 			</tbody>
 			<tfoot>
 				<tr>
-					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=VA">Cancelar</a></th>
+					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=VA" onclick="return confirm('Tem a certeza que deseja cancelar os inventários?')">Cancelar</a></th>
 				</tr>
 			</tfoot>
 		</table>
@@ -200,7 +200,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
 			</tbody>
 			<tfoot>
 				<tr>
-					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=BP">Cancelar</a></th>
+					<th scope="row" colspan="5"><a href="inventarios_ni_cancela.php?loja=BP" onclick="return confirm('Tem a certeza que deseja cancelar os inventários?')">Cancelar</a></th>
 				</tr>
 			</tfoot>
 		</table>
