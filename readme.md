@@ -2,9 +2,10 @@
 
 ## Sistema criado em PHP para agilizar tarefas cotidianas.
 
-Na situação atual da empresa é:
+A situação atual da empresa é:
 São 4 empresas, cada uma com sua Base Firebird, mas é 1 portal único, que utiliza o cadastro da empresa principal.
 Como os itens devem ser criados e alterados na base principal a qual as outras empresas não tem acesso, o sistema foi criado para facilitar essas alterações.
+O Portal e o WMS, embora fazem consultas ao Firebird, utilizam SQLServer.
 
 Há uma consulta de produtos, que traz o cadastro em cada base, com estoque no firebird e no sistema WMS, com sua localização.
 
@@ -22,6 +23,7 @@ Um relatório de Código Tecdoc em mais um produto.
 
 1.  PHP
 2.  Firebird
+3.	SQLServer
 3.  MySql
 
 ## Uso
