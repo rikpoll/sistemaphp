@@ -62,9 +62,9 @@ $pag_atual="Meus Dados";
       echo "<td>{$userEmail}</td>";
       echo "<td>{$userAcesso}</td>";
       echo "<td>
-              <button onclick=\"showOpt('pass', " . ++$rowid . ")\"><img src=\"../img/redefinir-senha.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
-              <button onclick=\"showOpt('edita', " . $rowid . ")\"><img src=\"../img/editar-dados.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
-              <button onclick=\"showOpt('opcoes', " . $rowid . ")\"><img src=\"../img/opcoes.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
+              <button onclick=\"showOpt('pass', " . ++$rowid . ")\" title=\"Alterar Senha\"><img src=\"../img/redefinir-senha.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
+              <button onclick=\"showOpt('edita', " . $rowid . ")\" title=\"Alterar Dados\"><img src=\"../img/editar-dados.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
+              <button onclick=\"showOpt('opcoes', " . $rowid . ")\" title=\"Opções\"><img src=\"../img/opcoes.png\"  style=\"max-widht:32px; max-height:32px;\"></button>
             </td></tr>";
       echo "<tr style=\"visibility: collapse;\" class=\"pass\"><td colspan=\"8\"><div class=\"opt\">";
             include "configurar_pass.php";
