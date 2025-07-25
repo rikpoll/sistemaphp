@@ -58,7 +58,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Vendas Cruzadas", "");
 
       <br /><br />
 
-      <input type="submit" name="buscar" value="Buscar">
+      <input type="submit" class="input" name="buscar" value="Buscar">
     </form>
 		<br /><br />
   </div>

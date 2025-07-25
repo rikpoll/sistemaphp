@@ -31,12 +31,12 @@ log1($connect, $_COOKIE['login'], "Acesso", "Palete", "");
 <div class="paletes">
 
 	<div class="titulo">
-		<h1>Criar Palete</h1>
-		<h3>Insira o Tipo de documento (TA/TL) e o número da transferência.<br>
-				Será criada uma Palete na Leirilis para entrada do material do Funchal.</h3>
+		<h2>Criar Palete</h2>
+		<h4>Insira o Tipo de documento (TA/TL) e o número da transferência.<br>
+				Será criada uma Palete na Leirilis para entrada do material do Funchal.</h4>
 	</div>
 
-	<div class="dados">
+	<div class="palete">
 		<form method="POST">
 			<label for="tipo">Tipo:</label>
 			<select name="tipo" id="tipo">

@@ -25,17 +25,9 @@ $pag_atual="Meus Dados";
 
 <link rel="stylesheet" href="./configurar.css" type="text/css" />
 
-
-
 <div class="principal">
   <h1>Configurações</h1>
-
-  <div class="menu">
-    <button class="botao selected" onclick="openTab(event,'Utilizadores')">Utilizadores</button>
-    <button class="botao" onclick="openTab(event,'Novo')">Novo</button>
-  </div><!--menu-->
-
-  <div id="Utilizadores" class="tab">
+  <div id="Utilizadores">
     <table id="myTable">
       <thead>
         <tr>
@@ -94,52 +86,11 @@ $pag_atual="Meus Dados";
       </tbody>
     </table>
   </div><!--Utilizadores-->
-  
-  <div id="Novo" class="tab">
-    <div>
-      <div class="novo">
-        <div class="info">
-          <p>login</p>
-          <p>Nome</p>
-          <p>Apelido</p>
-          <p>Nome Completo</p>
-          <p>Email</p>
-        </div><!--info-->
-          
-        <div class="inserir">
-          <form>
-            <p><input type="text" class="inserir_campo" name="login" placeholder="login"></p>
-            <p><input type="text" class="inserir_campo" name="nome" placeholder="Nome"></p>
-            <p><input type="text" class="inserir_campo" name="apelido" placeholder="Apelido"></p>
-            <p><input type="text" class="inserir_campo" name="nome_completo" placeholder="Nome Completo"></p>
-            <p><input type="text" class="inserir_campo" name="email" placeholder="Email"></p>
-        </div><!--inserir-->
-      </div><!--novo-->
-    </div>
-          <button class="input2" type="submit">Criar</button>
-        </form>
-      
-    
-  </div><!--tabNovo-->
-
+  <div id="Novo">
+  </div><!--Novo-->
 </div> <!--principal-->
 
 <script>
-  function openTab(evt, tabName) {
-  var i, x, tab;
-  x = document.getElementsByClassName("tab");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-
-  tab = document.getElementsByClassName("botao");
-  for (i = 0; i < x.length; i++) {
-    tab[i].className = tab[i].className.replace(" selected", "");
-  }
-  document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " selected";
-}
-
   function showOpt(classe, id) {
     var rows = document.getElementsByClassName(classe);
     

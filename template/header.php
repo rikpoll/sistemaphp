@@ -53,6 +53,7 @@
 				$inventario=array_search('inventario',$permissao);
 				$vendedor=array_search('vendedor',$permissao);
 				$tecdoc=array_search('tecdoc',$permissao);
+				$artigos_data=array_search('artigos_data',$permissao);
 				
 				if ($alterar>-1 or $userAcesso==1) {
 			    echo "<p><a href=\"../scripts/altera_produto.php\">Alterar Produtos</a></p>";
@@ -80,7 +81,10 @@
 				
 				if ($tecdoc>-1 or $userAcesso==1) {
 				  echo "<p><a href=\"../scripts/tecdoc.php\">TecDoc Duplicado</a></p>";
-				}	
+				}
+				if ($artigos_data>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/artigos_criados.php\">Artigos a Data</a></p>";
+				}				
 			?>
       </div>
       <?php else : ?>

@@ -31,8 +31,8 @@ log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
 <div class="inventario">
 
 	<div class="titulo">
-		<h1>Inventários Não Integrados</h1>
-		<h3>Listagem dos Inventários com problemas de integração para cancelamento, até ontem.</h3>
+		<h2>Inventários Não Integrados</h2>
+		<h4>Listagem dos Inventários com problemas de integração para cancelamento, até ontem.</h4>
 	</div>
 	
 	<div class="listagem">

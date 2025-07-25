@@ -36,7 +36,8 @@ log1($connect, $_COOKIE['login'], "Acesso", "TecDoc", "");
     <form method="POST">
       <label for="ref">Código TecDoc</label>
       <input type="text" name="ref" id="ref">
-      <input type="submit" name="buscar" value="Pesquisa TecDoc">
+			<br />
+      <input type="submit" class="input" name="buscar" value="Pesquisa TecDoc">
     </form>
   </div>
   

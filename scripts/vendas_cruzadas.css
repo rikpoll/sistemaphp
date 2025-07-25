@@ -1,8 +1,7 @@
 .vendas {
-  width: 100%;
-  height: 100%;
-  padding: 5px;
-  text-align: center;
+  margin: 20px 20px ;
+  
+  /*text-align: center;*/
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -14,4 +13,22 @@ table, tr, td, th {
 	border: 1px solid;
 	/*border-collapse: collapse;*/
 	border-color: gray;
+}
+
+.input {
+  width: 500px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.input:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
 }

@@ -156,3 +156,81 @@ button {
   margin: 0 20px;
 }
 
+.menu {
+  display: flex;
+}
+
+.botao {
+  background-color: gray;
+  width: 350px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  margin: 0 0 10px 0;
+  border: 1px solid lightblue;
+  cursor: pointer;
+  font-weight: bold;
+  color: white;
+  padding-top: 6px;
+}
+
+#Novo {
+  display: none;
+}
+
+.selected {
+  background-color: #088fad;
+}
+
+.novo {
+  display: flex;
+  width: 700px;
+}
+
+.info {
+  width: 200px;
+  border: 1px solid lightgray;
+}
+
+.info p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: right;
+  height: 30px;
+  padding-top: 13px;
+  padding-right: 10px;
+  border: 1px solid lightgray;
+  font-size: .8em;
+}
+
+.inserir {
+  width: 500px;
+  border: 1px solid lightgray;
+}
+
+.inserir p {
+  border: 1px solid lightgray;
+}
+
+.inserir_campo {
+  width: 480px;
+  border: none;
+  height: 30px;
+  margin: 6px 0 7px 10px;
+}
+
+.input2 {
+  width: 700px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+}
+
+.input2:hover {
+  background-color: #065d70;
+}

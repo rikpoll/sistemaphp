@@ -1,55 +1,60 @@
 .paletes {
-	padding: 20px 20px 20px 20px;
+	padding: 20px 20px;
 	font-family:Arial, Helvetica, sans-serif;
 }
 
-.paletes H1 {
+.paletes h2 {
 	margin-bottom: 20px;
 }
 
-.dados {
+.palete {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
 
-.dados form {
+.palete form {
 	/*background-color: #E0FFFF;*/
 	padding: 10px 10px 10px 10px;
 }
 
-.dados form label {
+.palete form label {
 	color: #4682B4;
   font-weight: bold;
 	width: 100px;
 	float: left;
 }
 
-.dados form select {
+.palete form select {
 	background-color: #AFEEEE;
 	width: 100px;
 	height: 30px;
 	margin-bottom: 10px;
 }
 
-.dados form input {
+.palete form input {
 	width: 195px;
 	height: 30px;
 	border-radius: 5px;
 	margin-bottom: 10px;
 }
 
-.dados form input[type="submit"] {
-  padding: 10px;
-  border: 1px solid gray;
+.palete form input[type="submit"] {
+  padding: 5px;
+  border: none;
   background-color:#088fad;
   border-radius: 5px;
   font: inherit;
 	font-weight: bold;
-	width: 300px;
-	height: 50px;
+	width: 500px;
+	height: 30px;
 	color: white;
 }
 
-.dados form input[type="submit"]:hover {
+.palete form input[type="submit"]:hover {
   cursor: pointer;
+	background-color: #07758d;
+  font-size: 1.1em;
 }
+
+
+

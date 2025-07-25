@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./existe.css" type="text/css" />
-<link rel="stylesheet" href="./altera_produto.css" type="text/css" />
+
 
 <?php
 include '../config.php';
@@ -20,23 +20,23 @@ if (!isset($_COOKIE['login'])) :
     <p>Faça <a href="../login/login.php">login</a> para aceder.<p>
     <p>Obrigado.</p>
   <div>
-</div> 
+</div> <!--geral-->
 
 <?php die();
 endif; ?>
 
-<div class="geral">
-  <div class="altera">
+
+  <div class="consulta">
     <div class="pesquisa">
       <h2>Consulta de Produtos</h2>
-      <hr>  
+      <hr />  
       <form method="POST">
         <label for="freferencia">Referência:</label>
         <input type="text" id="freferencia" name="freferencia" autofocus>
-        <input type="submit" value="Pesquisar" name="pesquisar">
+        <input type="submit" class="input" value="Pesquisar" name="pesquisar"><br />
       </form>
-      <hr>
-    </div>
+      <br />
+    </div><!--pesquisa-->
 
 <?php
 
@@ -74,7 +74,7 @@ if (isset($_POST["pesquisar"])) {
   $wms=existe_wms($connWMS,$artigo);
   //se existe no portal
   ?>
-	<div>
+	<div class="artigocentro">
 		<h4>Dados do Artigo: </h4><h2><?php echo $artigo; ?><h2>
 	</div>
   <div class="existe">
@@ -83,7 +83,7 @@ if (isset($_POST["pesquisar"])) {
       <hr>
       <div class="descricao">
         <p>Descrição</p>
-      </div>
+      </div><!--descricao-->
       <div class="detalhe">
         <div class="separador"></div><p>Família</p>
         <div class="separador"></div><p>Grupo</p>
@@ -99,8 +99,8 @@ if (isset($_POST["pesquisar"])) {
 				<div class="separador"></div><p>Mov Stock</p>
 				<div class="separador"></div><p>Data Abertura</p>
 				<div class="separador"></div><p>Dt Últ Alteração</p>
-      </div>
-    </div>
+      </div><!--detalhe-->
+    </div><!--existente-->
 
     <div class="existente">
       <p class="nome">Leirilis
@@ -296,24 +296,24 @@ if (isset($_POST["pesquisar"])) {
 						}
 				  ?>
 				</p>
-      </div>
-      <div class="detalhe">
-        <div class="separador"></div><p><?php echo ($i["cod_familia"]==null) ? '&nbsp;' : $i["cod_familia"]; ?></p>
-        <div class="separador"></div><p><?php echo ($i["cod_grupo"]==null) ? '&nbsp;' : $i["cod_grupo"]; ?></p>
-        <div class="separador"></div><p><?php echo ($i["cod_marca_leirilis"]==null) ? '&nbsp;' : $i["cod_marca_leirilis"]; ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco1"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco2"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco3"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco4"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco5"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco6"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["preco_custo"]); ?></p>
-        <div class="separador"></div><p><?php printf('%5.3f',$i["custo_medio"]); ?></p>
-				<div class="separador"></div><p><?php print('&nbsp;'); ?></p>
-        <?php } ?>
-      </div>
+    </div><!--existente-->
+    <div class="detalhe">
+      <div class="separador"></div><p><?php echo ($i["cod_familia"]==null) ? '&nbsp;' : $i["cod_familia"]; ?></p>
+      <div class="separador"></div><p><?php echo ($i["cod_grupo"]==null) ? '&nbsp;' : $i["cod_grupo"]; ?></p>
+      <div class="separador"></div><p><?php echo ($i["cod_marca_leirilis"]==null) ? '&nbsp;' : $i["cod_marca_leirilis"]; ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco1"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco2"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco3"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco4"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco5"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco6"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["preco_custo"]); ?></p>
+      <div class="separador"></div><p><?php printf('%5.3f',$i["custo_medio"]); ?></p>
+      <div class="separador"></div><p><?php print('&nbsp;'); ?></p>
+      <?php } ?>
+    </div><!--detalhe-->
     </div>
-  </div>
+  </div><!--existe-->
 	
 	<!--Segunda DIV para estoques SIA -->
 	<div class="existe">
@@ -321,7 +321,7 @@ if (isset($_POST["pesquisar"])) {
 		<!-- Título -->
 		<div class="existente">
 		  <p class="centro">Stocks<br><strong>SIA</strong></p>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Leirilis -->
 		<div class="existente">
@@ -334,7 +334,7 @@ if (isset($_POST["pesquisar"])) {
 					}
 				?>
 			</table>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Varidauto -->
 		<div class="existente">
@@ -347,7 +347,7 @@ if (isset($_POST["pesquisar"])) {
 					}
 				?>
 			</table>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Biapeças -->
 		<div class="existente">
@@ -360,7 +360,7 @@ if (isset($_POST["pesquisar"])) {
 						}
 				?>
 			</table>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Empório -->
 		<div class="existente">
@@ -373,13 +373,13 @@ if (isset($_POST["pesquisar"])) {
 							}
 					?>
 			</table>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Div vazia para manter layout -->
 		<div class="existente_vazio">
 		  <p></p>
-		</div>
-	</div>
+		</div><!--existente_vazio-->
+	</div><!--existe-->
 	
 	<!--Segunda DIV para estoques WMS -->
 	<div class="existe">
@@ -387,7 +387,7 @@ if (isset($_POST["pesquisar"])) {
 		<!-- Título -->
 		<div class="existente">
 		  <p class="centro">Stocks<br><strong>WMS</strong></p>
-		</div>
+		</div><!--existente-->
 		
 		<!-- Leirilis -->
 		<div class="existente">
@@ -402,8 +402,8 @@ if (isset($_POST["pesquisar"])) {
 						 ?></p>
 					<div class="separador_st"></div>
 				<?php } ?>
-			</div>	
-		</div>
+			</div>	<!--detalhe_st-->
+		</div><!--existente-->
 		
 		<!-- Varidauto -->
 		<div class="existente">
@@ -418,8 +418,8 @@ if (isset($_POST["pesquisar"])) {
 						 ?></p>
 					<div class="separador_st"></div>
 				<?php } ?>
-			</div>	
-		</div>
+			</div><!--detalhe_st-->
+		</div><!--existente-->
 		
 		<!-- Biepecas -->
 		<div class="existente">
@@ -434,8 +434,8 @@ if (isset($_POST["pesquisar"])) {
 						 ?></p>
 					<div class="separador_st"></div>
 				<?php } ?>
-			</div>	
-		</div>
+			</div><!--detalhe_st-->	
+		</div><!--existente-->
 		
 		<!-- Emporio -->
 		<div class="existente">
@@ -450,16 +450,16 @@ if (isset($_POST["pesquisar"])) {
 						 ?></p>
 					<div class="separador_st"></div>
 				<?php } ?>
-			</div>	
-		</div>
+			</div>	<!--detalhe_st-->
+		</div><!--existente-->
 		
 		<!-- Div vazia para manter layout -->
 		<div class="existente_vazio">
 		  <p></p>
-		</div>
-	</div>
+		</div><!--existente_vazio-->
+	</div><!--existe-->
 	
-	
+</div> <!--fim consulta-->
 
 <?php
 }

@@ -74,3 +74,30 @@ details {
 	width: 232px;
 }
 
+.input {
+  width: 543px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 10px 10px 10px 10px;
+}
+
+.input:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.pesquisa input[type="text"] {
+  width: 280px;
+}
+
+.tecdoc hr {
+	margin-bottom: 20px;
+}
+

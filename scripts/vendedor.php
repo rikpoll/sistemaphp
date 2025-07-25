@@ -43,8 +43,8 @@ log1($connect, $_COOKIE['login'], "Acesso", "Altera Vendedor", "");
       <input type="text" name="diario" id="diario">
       <label for="numero">Número:</label>
       <input type="number" name="numero" id="numero">
-
-      <input type="submit" name="buscar" value="Buscar Fatura">
+			<br />
+      <input type="submit" class="input" name="buscar" value="Buscar Fatura">
     </form>
   </div>
   
@@ -92,7 +92,8 @@ log1($connect, $_COOKIE['login'], "Acesso", "Altera Vendedor", "");
 							}
 						?>
 					</select>
-					<input type="submit" name="alterar" value="Alterar Vendedor"> 
+					<br />
+					<input type="submit" class="input" name="alterar" value="Alterar Vendedor"> 
 				</form>
 			</p>
 	<?php

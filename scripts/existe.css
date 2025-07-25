@@ -1,13 +1,38 @@
+.consulta {
+  margin: 20px 20px;
+  width: 950px;
+  
+}
+
 .existe {
-  margin: 20px auto;
-  width: 900px;
   display: flex;
 }
 
+.pesquisa {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.artigocentro {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.existe p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  text-align: center;
+}
+
 .existente {
-  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
   width: 150px;
   box-shadow: 3px 1px 5px gray;
+}
+
+.nome {
+  font-weight: bold;
 }
 
 .existente_vazio {
@@ -25,6 +50,8 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9em;
   margin-top: 2px;
+  color: black;
+  text-align: center;
 }
 
 .detalhe_st p {
@@ -36,12 +63,10 @@
   color: white;
 }
 
-.nome {
-  font-family: cursive;
-}
-
 .descricao {
-  height: 75px;
+  width: 130px;
+  height: 110px;
+  word-wrap: break-word;
 }
 
 .separador {
@@ -67,4 +92,27 @@
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
   font-size: 0.95em;
+}
+
+.input {
+  width: 543px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 10px 10px 10px 10px;
+}
+
+.input:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.pesquisa input[type="text"] {
+  width: 280px;
 }

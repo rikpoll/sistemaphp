@@ -10,6 +10,7 @@
   $inventario=array_search('inventario',$permissoes);
   $vendedor=array_search('vendedor',$permissoes);
   $tecdoc=array_search('tecdoc',$permissoes);
+	$artigos_data=array_search('artigos_data',$permissoes);
 ?>
 
 <div class="linha">
@@ -42,6 +43,9 @@
     <div class="seleciona">
       <input type="checkbox" name="tecdoc" value="tecdoc" <?php if ($tecdoc>-1) {echo "checked";} ?> /><label for="tecdoc">TecDoc Duplicado</label><br>
     </div>
+		<div class="seleciona">
+      <input type="checkbox" name="artigos_data" value="artigos_data" <?php if ($artigos_data>-1) {echo "checked";} ?> /><label for="artigos_data">Artigos Criados a Data</label><br>
+    </div>
     <div class="seleciona">
       <input type="submit" name="alterarpermissao" class="input" value="Alterar">
     </div>
@@ -62,6 +66,7 @@
     $inventario=array_search('inventario',$permissoes);
     $vendedor=array_search('vendedor',$permissoes);
     $tecdoc=array_search('tecdoc',$permissoes);
+		$artigos_data=array_search('artigos_data',$permissoes);
 
     if ($alterarprod>-1) {   
       if (!isset($_POST['alterarprod'])) {
@@ -143,6 +148,18 @@
     } else {
       if (isset($_POST['tecdoc'])) {
           $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'tecdoc')";
+          $result=$connect->query($sql);
+      } 
+    }
+		
+		if ($artigos_data>-1) {   
+      if (!isset($_POST['artigos_data'])) {
+        $sql="delete from config where tipo='permissao' and user={$_POST['id']} and valor='artigos_data'";
+        $result=$connect->query($sql);
+      }
+    } else {
+      if (isset($_POST['artigos_data'])) {
+          $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'artigos_data')";
           $result=$connect->query($sql);
       } 
     }
