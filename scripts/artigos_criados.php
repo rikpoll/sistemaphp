@@ -98,6 +98,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 				<th>Varidauto</th>
 				<th>Biapeças</th>
 				<th>Empório</th>
+				<th>UNO</th>
 				<th>WMS</th>
 				<th>Portal</th>
 				<th>Sincronizar</th>
@@ -109,6 +110,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 				$va=verificarReferencia($fbConexaoVA,$ref);
 				$bp=verificarReferencia($fbConexaoBP,$ref);
 				$em=verificarReferencia($fbConexaoEM,$ref);
+				$uno=verificarReferencia($fbConexaoUNO,$ref);
 				$wms=verificarRefWMS($connWMS,$ref);
 				$dp=verificarRefPortal($connPortal,$ref);
 				$linha=1;
@@ -120,6 +122,8 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					echo (!$bp==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo "</td><td>";
 					echo (!$em==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
+					echo '</td><td>';
+					echo (!$uno==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo '</td><td>';
 					echo (!$wms==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo '</td><td>';
@@ -139,6 +143,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					$va=verificarReferencia($fbConexaoVA,$i->REFERENCIA);
 					$bp=verificarReferencia($fbConexaoBP,$i->REFERENCIA);
 					$em=verificarReferencia($fbConexaoEM,$i->REFERENCIA);
+					$uno=verificarReferencia($fbConexaoUNO,$i->REFERENCIA);
 					$wms=verificarRefWMS($connWMS,$i->REFERENCIA);
 					$dp=verificarRefPortal($connPortal,$i->REFERENCIA);
 					echo (!$va==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
@@ -146,6 +151,8 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					echo (!$bp==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo "</td><td>";
 					echo (!$em==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
+					echo "</td><td>";
+					echo (!$uno==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo "</td><td>";
 					echo (!$wms==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo "</td><td>";

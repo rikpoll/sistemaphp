@@ -150,7 +150,8 @@ function existe($conn, $ref) {
                LPAD(EXTRACT(YEAR FROM dt_abertura), 4, '0') dt_abertura,
 							 LPAD(EXTRACT(DAY FROM dt_ult_alteracao), 2, '0') || '/' ||
                LPAD(EXTRACT(MONTH FROM dt_ult_alteracao), 2, '0') || '/' ||
-               LPAD(EXTRACT(YEAR FROM dt_ult_alteracao), 4, '0') dt_ult_alteracao
+               LPAD(EXTRACT(YEAR FROM dt_ult_alteracao), 4, '0') dt_ult_alteracao,
+							 absoleto, mono, cod_situacao, tempo_entrega
         from artigo where codigo_arm='2' and referencia='" . $ref . "'";
   
   $result=$conn->query($sql);
@@ -418,6 +419,25 @@ function tecdoc_busca($conn, $cod) {
 
   foreach($result->fetchAll(PDO::FETCH_OBJ) as $dado) {
     $dados[] = $dado;
+  }
+
+  return $dados;
+}
+
+function verificarRefPortal($conn, $ref){
+  $sql="select distinct ni.ItemId, ni.ProductRef, ni.ProductName, ni.Visible,
+               nb.XMLData.value('(genxml/checkbox/chkishidden)[1]','varchar(30)') Hidden,
+	             nb.XMLData.value('(genxml/checkbox/chkdisable)[1]','varchar(30)') Disable
+				from NBrightBuyIdx ni
+				left join NBrightBuy nb on nb.itemid=ni.ItemId
+				where ProductRef ='$ref'";
+	
+	$result = sqlsrv_query($conn, $sql);
+
+  $dados = array();
+
+  while($dado = sqlsrv_fetch_array($result, SQLSRV_FETCH_ASSOC)) {
+    $dados[]=$dado;
   }
 
   return $dados;

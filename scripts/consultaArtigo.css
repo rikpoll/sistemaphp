@@ -1,0 +1,118 @@
+.consulta {
+  margin: 20px 20px;
+  width: 1200px;
+  
+}
+
+.existe {
+  display: flex;
+}
+
+.pesquisa {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.artigocentro {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.existe p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+.existente {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 150px;
+  box-shadow: 3px 1px 5px gray;
+}
+
+.nome {
+  font-weight: bold;
+}
+
+.existente_vazio {
+  margin-left: 20px;
+  width: 150px;
+}
+
+.centro {
+	position: relative;
+  top: 50%;
+  transform: translateY(-50%); 
+}
+
+.detalhe p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  margin-top: 2px;
+  color: black;
+  text-align: center;
+}
+
+.detalhe_st p {
+  font-size: 0.9em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.colunas p {
+  color: white;
+}
+
+.descricao {
+  width: 130px;
+  height: 110px;
+  word-wrap: break-word;
+}
+
+.separador {
+  margin: 0 auto;
+  width: 100px;
+  height: 1px;
+  background-color: gray;
+}
+
+.separador_st {
+  margin: 2px auto;
+  width: 130px;
+  height: 2px;
+  background-color: gray;
+}
+
+.tabsia, td, tr {
+	width: 100px;
+	margin: 20px auto;
+	border: 1px solid;
+	border-color: gray;
+	border-collapse: collapse;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.95em;
+}
+
+.input {
+  width: 543px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 10px 10px 10px 10px;
+}
+
+.input:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.pesquisa input[type="text"] {
+  width: 280px;
+}

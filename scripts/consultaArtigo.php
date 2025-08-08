@@ -1,15 +1,12 @@
-<link rel="stylesheet" href="./existe.css" type="text/css" />
-
-
 <?php
 include '../config.php';
 include '../banco.php';
-$pag_atual="Consulta de Produtos/Estoque";
+$pag_atual="Consulta de Artigos e Stocks";
 include '../template/header.php';
 
 if (!isset($_COOKIE['login'])) : 
 
-  log1($connect, $_COOKIE['login'], "Erro", "Consulta Produtos/Estoque", "Erro de acesso.");
+  log1($connect, $_COOKIE['login'], "Erro", $pag_atual, "Erro de acesso.");
 
 ?>
 
@@ -25,14 +22,15 @@ if (!isset($_COOKIE['login'])) :
 <?php die();
 endif; ?>
 
+<link rel="stylesheet" href="./consultaArtigo.css" type="text/css" />
 
   <div class="consulta">
     <div class="pesquisa">
-      <h2>Consulta de Produtos</h2>
+      <h2>Consulta de Artigos com Estoque e Localizações</h2>
       <hr />  
       <form method="POST">
         <label for="freferencia">Referência:</label>
-        <input type="text" id="freferencia" name="freferencia" onkeyup="this.value=this.value.toUpperCase()" autofocus>
+        <input type="text" id="freferencia" name="freferencia" autofocus>
         <input type="submit" class="input" value="Pesquisar" name="pesquisar"><br />
       </form>
       <br />
@@ -40,7 +38,7 @@ endif; ?>
 
 <?php
 
-log1($connect, $_COOKIE['login'], "Acesso", "Consulta Produtos/Estoque", "");
+log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 
 if (isset($_POST["pesquisar"])) {
   
@@ -49,6 +47,7 @@ if (isset($_POST["pesquisar"])) {
   $VA=array();
   $BP=array();
   $EM=array();
+	$UNO=array();
   $portal=array();
   $wms=array();
 
@@ -57,11 +56,13 @@ if (isset($_POST["pesquisar"])) {
   $VA=existe($fbConexaoVA,$artigo);
   $BP=existe($fbConexaoBP,$artigo);
   $EM=existe($fbConexaoEM,$artigo);
+	$UNO=existe($fbConexaoUNO,$artigo);
 	
 	$LLs=estoques($fbConexaoLL,$artigo);
 	$VAs=estoques($fbConexaoVA,$artigo);
   $BPs=estoques($fbConexaoBP,$artigo);
   $EMs=estoques($fbConexaoEM,$artigo);
+	$UNOs=estoques($fbConexaoUNO,$artigo);
 	
 	//estoque e localizacao WMS
 	$wms_stLL=estoque_wms($connWMS,$artigo, 'LL');
@@ -73,9 +74,22 @@ if (isset($_POST["pesquisar"])) {
   //se existe no wms
   $wms=existe_wms($connWMS,$artigo);
   //se existe no portal
+	$portal=verificarRefPortal($connPortal,$artigo);
   ?>
 	<div class="artigocentro">
 		<h4>Dados do Artigo: </h4><h2><?php echo $artigo; ?><h2>
+		
+		<?php
+		  if ($portal==null) {
+				echo '<h5 style="color: red;">Não está cadastrado no Portal</h5>';
+			} else {
+				foreach($portal as $i) {
+          echo '<h5 style="color: blue;">Cadastrada no Portal | Visible: ';
+          echo $i["Visible"]==0 ? 'False' : 'True' . ' | Hidden: ' . $i["Hidden"] . ' | Disable: ' . $i["Disable"] . '</h5>';
+			  }
+			}
+		?>
+		
 	</div>
   <div class="existe">
     <div class="existente">
@@ -95,9 +109,14 @@ if (isset($_POST["pesquisar"])) {
         <div class="separador"></div><p>Preço 5</p>
         <div class="separador"></div><p>Preço 6</p>
         <div class="separador"></div><p>Preço de Custo</p>
+        <div class="separador"></div><p>Custo Médio</p>
 				<div class="separador"></div><p>Mov Stock</p>
 				<div class="separador"></div><p>Data Abertura</p>
+				<div class="separador"></div><p>Dt Últ Alteração</p>
 				<div class="separador"></div><p>Obsoleto</p>
+				<div class="separador"></div><p>Mono</p>
+				<div class="separador"></div><p>Cód Situação</p>
+				<div class="separador"></div><p>Tempo de Entrega</p>
       </div><!--detalhe-->
     </div><!--existente-->
 
@@ -135,9 +154,14 @@ if (isset($_POST["pesquisar"])) {
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO5); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO6); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO_CUSTO); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->CUSTO_MEDIO); ?></p>
 				<div class="separador"></div><p><?php print($i->MOV_STOCKS); ?></p>
 				<div class="separador"></div><p><?php print($i->DT_ABERTURA); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ULT_ALTERACAO); ?></p>
 				<div class="separador"></div><p><?php print($i->ABSOLETO); ?></p>
+				<div class="separador"></div><p><?php print($i->MONO); ?></p>
+				<div class="separador"></div><p><?php print(($i->COD_SITUACAO=='' || $i->COD_SITUACAO==null) ? '&nbsp;' : $i->COD_SITUACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->TEMPO_ENTREGA); ?></p>
         <?php } ?>
 				<br>
       </div>
@@ -177,9 +201,14 @@ if (isset($_POST["pesquisar"])) {
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO5); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO6); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO_CUSTO); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->CUSTO_MEDIO); ?></p>
 				<div class="separador"></div><p><?php print($i->MOV_STOCKS); ?></p>
 				<div class="separador"></div><p><?php print($i->DT_ABERTURA); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ULT_ALTERACAO); ?></p>
 				<div class="separador"></div><p><?php print($i->ABSOLETO); ?></p>
+				<div class="separador"></div><p><?php print($i->MONO); ?></p>
+				<div class="separador"></div><p><?php print(($i->COD_SITUACAO=='' || $i->COD_SITUACAO==null) ? '&nbsp;' : $i->COD_SITUACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->TEMPO_ENTREGA); ?></p>
         <?php } ?>
 				<br>
       </div>
@@ -219,9 +248,14 @@ if (isset($_POST["pesquisar"])) {
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO5); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO6); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO_CUSTO); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->CUSTO_MEDIO); ?></p>
 				<div class="separador"></div><p><?php print($i->MOV_STOCKS); ?></p>
 				<div class="separador"></div><p><?php print($i->DT_ABERTURA); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ULT_ALTERACAO); ?></p>
 				<div class="separador"></div><p><?php print($i->ABSOLETO); ?></p>
+				<div class="separador"></div><p><?php print($i->MONO); ?></p>
+				<div class="separador"></div><p><?php print(($i->COD_SITUACAO=='' || $i->COD_SITUACAO==null) ? '&nbsp;' : $i->COD_SITUACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->TEMPO_ENTREGA); ?></p>
         <?php } ?>
 				<br>
       </div>
@@ -261,9 +295,61 @@ if (isset($_POST["pesquisar"])) {
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO5); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO6); ?></p>
         <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO_CUSTO); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->CUSTO_MEDIO); ?></p>
 				<div class="separador"></div><p><?php print($i->MOV_STOCKS); ?></p>
 				<div class="separador"></div><p><?php print($i->DT_ABERTURA); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ULT_ALTERACAO); ?></p>
 				<div class="separador"></div><p><?php print($i->ABSOLETO); ?></p>
+				<div class="separador"></div><p><?php print($i->MONO); ?></p>
+				<div class="separador"></div><p><?php print(($i->COD_SITUACAO=='' || $i->COD_SITUACAO==null) ? '&nbsp;' : $i->COD_SITUACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->TEMPO_ENTREGA); ?></p>
+        <?php } ?>
+				<br>
+      </div>
+    </div>
+		
+		<div class="existente">
+      <p class="nome">UNO
+      <?php
+        if ($EM==null) {
+          echo '<img src="../img/x.png" alt="Possui Stock" width=30 height=30>';
+        } else {
+          echo '<img src="../img/v.jpg" alt="Possui Stock" width=30 height=30>';
+        }
+      ?>
+      </p>
+      <hr>
+      <div class="descricao">
+      <?php foreach($UNO as $i) { ?>
+        <p>
+				  <?php
+					  if (strlen($i->DESIGNACAO1)>58) {
+						  echo substr($i->DESIGNACAO1,0,58)."...";
+						} else {
+							echo $i->DESIGNACAO1;
+						}
+				  ?>
+				</p>
+      </div>
+      <div class="detalhe">
+        <div class="separador"></div><p><?php echo ($i->COD_FAMILIA==null) ? '&nbsp;' : $i->COD_FAMILIA; ?></p>
+        <div class="separador"></div><p><?php echo ($i->COD_GRUPO==null) ? '&nbsp;' : $i->COD_GRUPO; ?></p>
+        <div class="separador"></div><p><?php echo ($i->COD_MARCA==null) ? '&nbsp;' : $i->COD_MARCA; ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO1); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO2); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO3); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO4); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO5); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO6); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->PRECO_CUSTO); ?></p>
+        <div class="separador"></div><p><?php printf('%5.3f',$i->CUSTO_MEDIO); ?></p>
+				<div class="separador"></div><p><?php print($i->MOV_STOCKS); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ABERTURA); ?></p>
+				<div class="separador"></div><p><?php print($i->DT_ULT_ALTERACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->ABSOLETO); ?></p>
+				<div class="separador"></div><p><?php print($i->MONO); ?></p>
+				<div class="separador"></div><p><?php print(($i->COD_SITUACAO=='' || $i->COD_SITUACAO==null) ? '&nbsp;' : $i->COD_SITUACAO); ?></p>
+				<div class="separador"></div><p><?php print($i->TEMPO_ENTREGA); ?></p>
         <?php } ?>
 				<br>
       </div>
@@ -309,6 +395,15 @@ if (isset($_POST["pesquisar"])) {
     </div><!--detalhe-->
     </div>
   </div><!--existe-->
+
+
+
+
+
+
+
+
+
 	
 	<!--Segunda DIV para estoques SIA -->
 	<div class="existe">
@@ -374,9 +469,112 @@ if (isset($_POST["pesquisar"])) {
 		<div class="existente_vazio">
 		  <p></p>
 		</div><!--existente_vazio-->
+		
+		<!-- Div vazia para manter layout -->
+		<div class="existente_vazio">
+		  <p></p>
+		</div><!--existente_vazio-->
 	</div><!--existe-->
 	
-	<!--Segunda DIV para estoques WMS -->
+	
+	
+	
+	
+	
+	<!--Terceira DIV para estoques UNO -->
+	<div class="existe">
+		
+		<!-- Título -->
+		<div class="existente">
+		  <p class="centro">Stocks<br><strong>UNO</strong></p>
+		</div><!--existente-->
+		
+		<!-- Leirilis -->
+		<div class="existente">
+			<table class="tabsia">
+				<?php 
+					foreach($UNOs as $i) {
+						$loc=$i->COD_LOCALIZACAO;
+						$qtd=$i->STOCK_ACTUAL;
+						if ($loc > 1 and $loc < 10) {
+						  printf("<tr><td>Loja {$loc}</td><td>%d</td></tr>", $qtd);
+						}
+					}
+				?>
+			</table>
+		</div><!--existente-->
+		
+		<!-- Varidauto -->
+		<div class="existente">
+			<table class="tabsia">
+				<?php 
+					foreach($UNOs as $i) {
+						$loc=$i->COD_LOCALIZACAO;
+						$qtd=$i->STOCK_ACTUAL;
+						if ($loc > 19 and $loc < 30) {
+						  printf("<tr><td>Loja {$loc}</td><td>%d</td></tr>", $qtd);
+						}
+					}
+				?>
+			</table>
+		</div><!--existente-->
+		
+		<!-- Biapeças -->
+		<div class="existente">
+		  <table class="tabsia">
+				<?php 
+					foreach($UNOs as $i) {
+							$loc=$i->COD_LOCALIZACAO;
+							$qtd=$i->STOCK_ACTUAL;
+							if ($loc > 29 and $loc < 40) {
+							  printf("<tr><td>Loja {$loc}</td><td>%d</td></tr>", $qtd);
+							}
+						}
+				?>
+			</table>
+		</div><!--existente-->
+		
+		<!-- Empório -->
+		<div class="existente">
+		  <table class="tabsia">
+					<?php 
+						foreach($UNOs as $i) {
+								$loc=$i->COD_LOCALIZACAO;
+								$qtd=$i->STOCK_ACTUAL;
+								if ($loc > 9 and $loc < 20) {
+								  printf("<tr><td>Loja {$loc}</td><td>%d</td></tr>", $qtd);
+								}
+							}
+					?>
+			</table>
+		</div><!--existente-->
+		
+		<!-- Div vazia para manter layout -->
+		<div class="existente_vazio">
+		  <p></p>
+		</div><!--existente_vazio-->
+		
+		<!-- Div vazia para manter layout -->
+		<div class="existente_vazio">
+		  <p></p>
+		</div><!--existente_vazio-->
+	</div><!--existe-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--Quarta DIV para estoques WMS -->
 	<div class="existe">
 		
 		<!-- Título -->
