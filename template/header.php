@@ -55,6 +55,7 @@
 				$tecdoc=array_search('tecdoc',$permissao);
 				$artigos_data=array_search('artigos_data',$permissao);
 				$cons_artigo=array_search('cons_artigo',$permissao);
+				$pendentes=array_search('pendentes',$permissao);
 				
 				if ($alterar>-1 or $userAcesso==1) {
 			    echo "<p><a href=\"../scripts/altera_produto.php\">Alterar Produtos</a></p>";
@@ -88,7 +89,10 @@
 				}				
 				if ($cons_artigo>-1 or $userAcesso==1) {
 				  echo "<p><a href=\"../scripts/consultaArtigo.php\">Consulta Art/Estoque</a></p>";
-				}		
+				}	
+				if ($pendentes>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/pendentes.php\">Sync Pendentes</a></p>";
+				}						
 			?>
       </div>
       <?php else : ?>
