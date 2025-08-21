@@ -129,8 +129,20 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 				}
 				echo "</table>";
 				
-				//Este botão deveria fazer a lista inteira acima, mas ainda estou a pensar nisso
+				//Synca só os diferentes
 				//echo '<button onclick="apaga_refs_portal('. $linha .', \''. $d[1] .'\')" class="input">Sincronizar Portal</button>';
+				echo '<form method="POST">';
+				echo '<input type="submit" class="input" name="syncPortal" value="Sincronizar Portal">';
+				echo '</form>';
+				
+				if (isset($_POST['syncPortal'])) {
+					foreach($diff as $d) {
+						$sql="delete from dp_pendentes_ei where localizacao='$d[0]' and referencia='$d[1]';";
+						//echo $sql . "<br>";
+						$result=$fbConexaoUNO->exec($sql);
+					}
+					echo "<p>Sync finalizado.</p>";
+				}
 			}
 			
 			//procura diferencas na Leirilis
@@ -167,6 +179,21 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					}
 					echo '</td><td><div id="resultadoll' . $linha . '"></div></td><tr>';
 					$linha++;
+				}
+				echo "</table>";
+				
+				//Synca só os diferentes
+				echo '<form method="POST">';
+				echo '<input type="submit" class="input" name="syncLL" value="Sincronizar da Leirilis">';
+				echo '</form>';
+				
+				if (isset($_POST['syncLL'])) {
+					foreach($diffLL as $d) {
+						$sql="insert into dp_pendentes_ei(localizacao, referencia, quantidade) values ('$d[0]', '$d[1]', $d[2]);";
+						//echo $sql . "<br>";
+						$result=$fbConexaoUNO->exec($sql);
+					}
+					echo "<p>Sync finalizado.</p>";
 				}
 			}
 		?>
