@@ -1,7 +1,7 @@
 <?php
 include_once '../config.php';
 //include_once '../banco.php';
-$pag_atual="Artigos Criados a Data";
+$pag_atual="Sincronizar Encomendas Pendentes";
 include_once '../template/header.php';
 
 /*if (!isset($_COOKIE['login'])) : 

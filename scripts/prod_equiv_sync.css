@@ -1,0 +1,112 @@
+.prod_equiv {
+	width: 680px;
+	padding: 20px 20px 20px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.prod_equiv hr {
+	margin-bottom: 20px;
+}
+
+.prod_equiv p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+
+.bt_sync {
+  width: 150px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.bt_sync:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.totais {
+	display: flex;
+}
+
+.total {
+	width: 210px;
+	height: 120px;
+	border: solid 1px white;
+	margin-right: 20px;
+  margin-bottom: 20px;
+  box-shadow: 3px 1px 5px gray;
+	text-align: center;
+}
+
+.empresa_nome {
+	margin-top: 10px;
+	font: italic bold 16px Arial, sans-serif;
+}
+
+.empresa_total {
+  margin-top: 10px;
+	font: bold 25px Arial, sans-serif;
+}
+
+.botao_sync {
+  width: 30px;
+	height: 30px;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+  background-image:url("../img/s1.png");
+}
+			
+.botao_sync:hover {
+  background-image:url("../img/s2.png");
+}
+
+.botao_del {
+  width: 30px;
+	height: 30px;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+  background-image:url("../img/del1.png");
+	background-repeat: no-repeat;
+}
+
+.botao_del:hover {
+	background-image:url("../img/del2.png");
+}
+
+.botao_add {
+  width: 30px;
+	height: 30px;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+  background-image:url("../img/add1.png");
+	background-repeat: no-repeat;
+}
+
+.botao_add:hover {
+	background-image:url("../img/add2.png");
+}
+
+.diff {
+	width: 650px;
+	text-align: center;
+	border-collapse: collapse;
+	margin-left: 10px;
+}
+
+.diff tr, td, th {
+	border: solid 1px gray;
+}
+
+.diff caption {
+	font: bold 25px Arial, sans-serif;
+}

@@ -56,6 +56,7 @@
 				$artigos_data=array_search('artigos_data',$permissao);
 				$cons_artigo=array_search('cons_artigo',$permissao);
 				$pendentes=array_search('pendentes',$permissao);
+				$sync_equiv=array_search('equivalentes',$permissao);
 				
 				if ($alterar>-1 or $userAcesso==1) {
 			    echo "<p><a href=\"../scripts/altera_produto.php\">Alterar Produtos</a></p>";
@@ -93,6 +94,9 @@
 				if ($pendentes>-1 or $userAcesso==1) {
 				  echo "<p><a href=\"../scripts/pendentes.php\">Sync Pendentes</a></p>";
 				}						
+				if ($sync_equiv>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/prod_equiv_sync.php\">Sync Equivalentes</a></p>";
+				}		
 			?>
       </div>
       <?php else : ?>
