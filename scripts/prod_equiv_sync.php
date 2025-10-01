@@ -124,7 +124,8 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					$ref=$dadosVA[$i]['REFERENCIA'];
 					$equiv=$dadosVA[$i]['REFERENCIA_EQUIV'];
 					$linha=$dadosVA[$i]['N_LINHA'];
-				
+					
+					logMe($ref . " - " . $equiv);
 					insere($fbConexaoUNO,$ref,$equiv);
 				}
 			} else {
@@ -140,7 +141,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 			echo "<h3>Sincronização Empório em andamento.</h3>";
 			echo "<p>Data e hora de início: " . date("Y-m-d H:i:s") . "</p>";
 			
-			if (count($diffVA) != 0) {
+			if (count($diffEM) != 0) {
 				//$dadosUno = dados( $fbConexaoUNO );
 				$dadosEM = dados( $fbConexaoEM );
 				$diffEM=array_diff(array_column($dadosEM,0,'id'), array_column($dadosUno,0,'id'));
@@ -150,6 +151,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					$equiv=$dadosEM[$i]['REFERENCIA_EQUIV'];
 					$linha=$dadosEM[$i]['N_LINHA'];
 					
+					logMe($ref . " - " . $equiv);
 					insere($fbConexaoUNO,$ref,$equiv);
 				}
 			} else {
@@ -175,6 +177,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					$equiv=$dadosBI[$i]['REFERENCIA_EQUIV'];
 					$linha=$dadosBI[$i]['N_LINHA'];
 					
+					logMe($ref . " - " . $equiv);
 					insere($fbConexaoUNO,$ref,$equiv);
 				}
 			} else {
@@ -193,6 +196,18 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 <?php include_once '../template/footer.php'; ?>
 
 <?php
+function logMe($msg){
+	$dia = date("Ymd");
+
+	$arquivo = fopen("../log/" . $dia . " - Equivalentes.log", "a");
+
+	$dataHora = date("Y-m-d H:i:s");
+
+	$escreve = fwrite($arquivo, $dataHora . ' - ' . $msg . "\n");
+
+	fclose($arquivo);
+}
+
 function dados($conn) {
 	$sql = "select referencia, referencia_equiv, n_linha
 	        from gia_produto_equivalente

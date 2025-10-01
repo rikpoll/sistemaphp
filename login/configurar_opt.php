@@ -11,7 +11,12 @@
   $vendedor=array_search('vendedor',$permissoes);
   $tecdoc=array_search('tecdoc',$permissoes);
 	$artigos_data=array_search('artigos_data',$permissoes);
-	$cons_artigo=array_search('cons_artigo',$permissao);
+	$cons_artigo=array_search('cons_artigo',$permissoes);
+  $busca=array_search('busca',$permissoes);
+  $pendentes=array_search('pendentes',$permissoes);
+	$sync_equiv=array_search('equivalentes',$permissoes);
+  $deleta=array_search('deleta',$permissoes);
+  $caixa=array_search('caixa',$permissoes);
 ?>
 
 <div class="linha">
@@ -51,6 +56,15 @@
       <input type="checkbox" name="cons_artigo" value="cons_artigo" <?php if ($cons_artigo>-1) {echo "checked";} ?> /><label for="cons_artigo">Consulta Artigos/Estoque</label><br>
     </div>
     <div class="seleciona">
+      <input type="checkbox" name="busca" value="busca" <?php if ($busca>-1) {echo "checked";} ?> /><label for="busca">Busca</label><br>
+    </div>
+    <div class="seleciona">
+      <input type="checkbox" name="deleta" value="deleta" <?php if ($deleta>-1) {echo "checked";} ?> /><label for="deleta">Apagar Artigos</label><br>
+    </div>
+    <div class="seleciona">
+      <input type="checkbox" name="caixa" value="caixa" <?php if ($deleta>-1) {echo "checked";} ?> /><label for="caixa">Caixas WMS</label><br>
+    </div>
+    <div class="seleciona">
       <input type="submit" name="alterarpermissao" class="input" value="Alterar">
     </div>
   </form>
@@ -71,7 +85,12 @@
     $vendedor=array_search('vendedor',$permissoes);
     $tecdoc=array_search('tecdoc',$permissoes);
 		$artigos_data=array_search('artigos_data',$permissoes);
-		$cons_artigo=array_search('cons_artigo',$permissao);
+		$cons_artigo=array_search('cons_artigo',$permissoes);
+    $busca=array_search('busca',$permissoes);
+    $pendentes=array_search('pendentes',$permissoes);
+	  $sync_equiv=array_search('equivalentes',$permissoes);
+    $deleta=array_search('deleta',$permissoes);
+    $caixa=array_search('caixa',$permissoes);
 
     if ($alterarprod>-1) {   
       if (!isset($_POST['alterarprod'])) {
@@ -177,6 +196,42 @@
     } else {
       if (isset($_POST['cons_artigo'])) {
           $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'cons_artigo')";
+          $result=$connect->query($sql);
+      } 
+    }
+
+    if ($busca>-1) {   
+      if (!isset($_POST['busca'])) {
+        $sql="delete from config where tipo='permissao' and user={$_POST['id']} and valor='busca'";
+        $result=$connect->query($sql);
+      }
+    } else {
+      if (isset($_POST['busca'])) {
+          $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'busca')";
+          $result=$connect->query($sql);
+      } 
+    }
+
+    if ($deleta>-1) {   
+      if (!isset($_POST['deleta'])) {
+        $sql="delete from config where tipo='permissao' and user={$_POST['id']} and valor='deleta'";
+        $result=$connect->query($sql);
+      }
+    } else {
+      if (isset($_POST['deleta'])) {
+          $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'deleta')";
+          $result=$connect->query($sql);
+      } 
+    }
+
+    if ($caixa>-1) {   
+      if (!isset($_POST['caixa'])) {
+        $sql="delete from config where tipo='permissao' and user={$_POST['id']} and valor='caixa'";
+        $result=$connect->query($sql);
+      }
+    } else {
+      if (isset($_POST['caixa'])) {
+          $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'caixa')";
           $result=$connect->query($sql);
       } 
     }

@@ -39,7 +39,7 @@
   text-shadow: #fc0 1px 0 10px;
 }
 
-.dados a:hover {
+.dados_user a:hover {
 	text-shadow: #fc0 1px 0 10px;
 	font-weight: bold;
 }

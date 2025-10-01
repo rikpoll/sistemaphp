@@ -1,0 +1,48 @@
+.caixa_container {
+  margin: 20px 20px;
+  width: 960px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.caixa_container p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+.botao {
+  width: 960px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 10px 0 10px 0;
+}
+
+.botao:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.trtabela {
+  width: 960px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.trtabela tr, td, th {
+  border: solid 1px gray;
+}
+
+.trtitulo {
+  color: #ffffff;
+  background-color: #816507;
+}
+
+.trcabeca {
+  background-color: lightgray;
+}

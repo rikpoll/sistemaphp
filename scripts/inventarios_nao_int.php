@@ -6,7 +6,7 @@ include '../template/header.php';
 
 if (!isset($_COOKIE['login'])) : 
   
-  log1($connect, $_COOKIE['login'], "Erro", "Paletes", "Erro de acesso.");
+  log1($connect, '', "Erro", $pag_atual, "Erro de acesso.");
 
 ?>
 
@@ -22,7 +22,7 @@ if (!isset($_COOKIE['login'])) :
 <?php die();
 endif; 
 
-log1($connect, $_COOKIE['login'], "Acesso", "Inventários", "Não Integrados");
+log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 
 ?>
 

@@ -14,7 +14,7 @@
       <img src="../img/logo.png" width="130px">
       <br>
       <?php if (isset($_COOKIE['login'])) : ?>
-      <div class='dados'>
+      <div class='dados_user'>
 				<?php
 					$sqli = mysqli_connect("localhost","root","", "dp-servicos");
 					$user = mysqli_query($sqli, "SELECT * FROM utilizadores WHERE login ='{$_COOKIE['login']}'");
@@ -57,6 +57,9 @@
 				$cons_artigo=array_search('cons_artigo',$permissao);
 				$pendentes=array_search('pendentes',$permissao);
 				$sync_equiv=array_search('equivalentes',$permissao);
+				$busca=array_search('busca',$permissao);
+        $deleta=array_search('deleta',$permissao);
+        $caixa=array_search('caixa',$permissao);
 				
 				if ($alterar>-1 or $userAcesso==1) {
 			    echo "<p><a href=\"../scripts/altera_produto.php\">Alterar Produtos</a></p>";
@@ -96,6 +99,15 @@
 				}						
 				if ($sync_equiv>-1 or $userAcesso==1) {
 				  echo "<p><a href=\"../scripts/prod_equiv_sync.php\">Sync Equivalentes</a></p>";
+				}
+				if ($busca>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/busca.php\">Procurar Artigos</a></p>";
+				}	
+        if ($deleta>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/deleta.php\">Apagar Artigos</a></p>";
+				}		
+        if ($caixa>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/caixa.php\">Caixas WMS</a></p>";
 				}		
 			?>
       </div>

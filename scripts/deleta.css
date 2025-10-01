@@ -1,0 +1,37 @@
+.deleta_container {
+  margin: 20px 20px;
+  width: 950px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.deleta_container p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+.info_ref {
+  display: flex;
+  text-align: center;
+}
+
+.info_nome {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.info_desig {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 3px;
+}
+
+.info_loja {
+  border-radius: 7px;
+  width: 150px;
+  box-shadow: 3px 1px 5px gray;
+  margin-right: 10px;
+}
+
+.info_loja p {
+  margin-bottom: 2px;
+}

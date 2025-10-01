@@ -8,35 +8,55 @@
 	color: black;
 }
 
+.pesquisa {
+	width: 620px;
+}
+
+.listar {
+	width: 600px;
+	margin-left: 10px;
+}
+
 .linha {
 	display: flex;
-	width: 520px;
+	width: 600px;
 }
 
 .codigo {
-	width: 150px; 
+	width: 140px; 
 	border: 1px solid lightgray;
 }
 
 .codigo p {
 	position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+	top: 50%;
+	transform: translateY(-50%);
 }
 
 .marca {
-	width: 70px;
+	width: 60px;
 	border: 1px solid lightgray;
 }
 
 .marca p {
 	position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.marcadesc {
+	width: 160px;
+	border: 1px solid lightgray;
+}
+
+.marcadesc p {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
 }
 
 .ref {
-	width: 300px;
+	width: 240px;
 	border: 1px solid lightgray;
 }
 
@@ -75,7 +95,7 @@ details {
 }
 
 .input {
-  width: 543px;
+  width: 600px;
   height: 30px;
   justify-content: center;
   cursor: pointer;

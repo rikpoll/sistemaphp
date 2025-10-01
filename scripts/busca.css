@@ -1,0 +1,56 @@
+.busca {
+  margin: 20px 20px ;
+  
+  /*text-align: center;*/
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.busca p {
+  color: black;
+}
+
+.dados_container {
+  display: flex;
+}
+
+.dados {
+  padding: 15px 15px 15px 0;
+}
+
+.escolha {
+  padding: 15px 15px 0 0;
+}
+
+.botao {
+  width: 360px;
+  height: 30px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #088fad;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.botao:hover {
+  background-color: #07758d;
+  font-size: 1.1em;
+}
+
+.resultados {
+  background-color: rgb(247, 244, 231);
+  border-collapse: collapse;
+}
+
+.resultados tr, td, th {
+  border: solid 1px #07758d;
+  text-align: center;
+  padding: 2px 10px 2px 10px;
+}
+
+.resultados th {
+  color: aliceblue;
+  background-color: #088fad;
+}

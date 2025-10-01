@@ -1,0 +1,3320 @@
+2025-09-10 09:45:21 - ***************************************************************
+2025-09-10 09:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 09:45:21 - Carregar dados Leirilis - Início
+2025-09-10 09:45:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 09:45:21 - Carregar dados Portal - Início
+2025-09-10 09:45:21 - Carregar dados Portal - Fim (8080)
+2025-09-10 09:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 09:45:25 - Procurar diferenças Portal/Leirilis - Fim (173)
+2025-09-10 09:45:25 - 1 . Deletado 2 - 0451103276(1.000000)
+2025-09-10 09:45:25 - 2 . Deletado 2 - 0986025510C(1.000000)
+2025-09-10 09:45:25 - 3 . Deletado 2 - 0986046440(1.000000)
+2025-09-10 09:45:25 - 4 . Deletado 2 - 0986046440C(1.000000)
+2025-09-10 09:45:25 - 5 . Deletado 2 - 0986424988(1.000000)
+2025-09-10 09:45:25 - 6 . Deletado 2 - 0986479171(2.000000)
+2025-09-10 09:45:25 - 7 . Deletado 2 - 0986479408(2.000000)
+2025-09-10 09:45:25 - 8 . Deletado 2 - 0986494263(1.000000)
+2025-09-10 09:45:25 - 9 . Deletado 2 - 0986494293(1.000000)
+2025-09-10 09:45:25 - 10 . Deletado 2 - 0986628597(1.000000)
+2025-09-10 09:45:25 - 11 . Deletado 2 - 1457433094(1.000000)
+2025-09-10 09:45:25 - 12 . Deletado 2 - 1457433590(1.000000)
+2025-09-10 09:45:25 - 13 . Deletado 2 - 0986435249(4.000000)
+2025-09-10 09:45:25 - 14 . Deletado 2 - 0986435249C(4.000000)
+2025-09-10 09:45:25 - 15 . Deletado 2 - F026407067(2.000000)
+2025-09-10 09:45:25 - 16 . Deletado 2 - P08 AH319(4.000000)
+2025-09-10 09:45:25 - 17 . Deletado 2 - 0250212009(6.000000)
+2025-09-10 09:45:25 - 18 . Deletado 2 - 0986424371(1.000000)
+2025-09-10 09:45:25 - 19 . Deletado 2 - 0281002177(1.000000)
+2025-09-10 09:45:25 - 20 . Deletado 2 - 0281002735(1.000000)
+2025-09-10 09:45:25 - 21 . Deletado 2 - P08 A1406(4.000000)
+2025-09-10 09:45:25 - 22 . Deletado 2 - 0986479C91(2.000000)
+2025-09-10 09:45:25 - 23 . Deletado 2 - 1987301079(1.000000)
+2025-09-10 09:45:26 - 24 . Deletado 2 - 0986452062(1.000000)
+2025-09-10 09:45:26 - 25 . Deletado 2 - 0986080410(1.000000)
+2025-09-10 09:45:26 - 26 . Deletado 2 - 0986494704(1.000000)
+2025-09-10 09:45:26 - 27 . Deletado 2 - 0986FA1170(1.000000)
+2025-09-10 09:45:26 - 28 . Deletado 2 - 1457433086(1.000000)
+2025-09-10 09:45:26 - 29 . Deletado 2 - 0332011007(2.000000)
+2025-09-10 09:45:26 - 30 . Deletado 2 - 0450907016(1.000000)
+2025-09-10 09:45:26 - 31 . Deletado 2 - 0986019361(1.000000)
+2025-09-10 09:45:26 - 32 . Deletado 2 - 1987432062(1.000000)
+2025-09-10 09:45:26 - 33 . Deletado 2 - 0986019361C(1.000000)
+2025-09-10 09:45:26 - 34 . Deletado 2 - 1987432549(3.000000)
+2025-09-10 09:45:26 - 35 . Deletado 2 - 0986080410C(1.000000)
+2025-09-10 09:45:26 - 36 . Deletado 2 - 1987946943(1.000000)
+2025-09-10 09:45:26 - 37 . Deletado 2 - LE GDB2063(1.000000)
+2025-09-10 09:45:26 - 38 . Deletado 2 - 3397014536(1.000000)
+2025-09-10 09:45:26 - 39 . Deletado 2 - F026402835(3.000000)
+2025-09-10 09:45:26 - 40 . Deletado 2 - 0986494384(1.000000)
+2025-09-10 09:45:26 - 41 . Deletado 2 - P08 AH725-2(1.000000)
+2025-09-10 09:45:26 - 42 . Deletado 2 - 0986494092(1.000000)
+2025-09-10 09:45:26 - 43 . Deletado 2 - LE GIC242(1.000000)
+2025-09-10 09:45:26 - 44 . Deletado 2 - P08 A1130(1.000000)
+2025-09-10 09:45:26 - 45 . Deletado 2 - 1987432173(1.000000)
+2025-09-10 09:45:26 - 46 . Deletado 2 - 1457429197(1.000000)
+2025-09-10 09:45:26 - 47 . Deletado 2 - P08 AH140(1.000000)
+2025-09-10 09:45:26 - 48 . Deletado 2 - SX 311410(2.000000)
+2025-09-10 09:45:26 - 49 . Deletado 2 - F026407123(7.000000)
+2025-09-10 09:45:26 - 50 . Deletado 2 - SX 316950(2.000000)
+2025-09-10 09:45:26 - 51 . Deletado 2 - 0242145555(6.000000)
+2025-09-10 09:45:26 - 52 . Deletado 2 - 0273014060(1.000000)
+2025-09-10 09:45:26 - 53 . Deletado 2 - 0281002976(1.000000)
+2025-09-10 09:45:26 - 54 . Deletado 2 - 0986344082(1.000000)
+2025-09-10 09:45:26 - 55 . Deletado 2 - 0986017060(1.000000)
+2025-09-10 09:45:26 - 56 . Deletado 2 - 0986017060C(1.000000)
+2025-09-10 09:45:26 - 57 . Deletado 2 - 0986356343(1.000000)
+2025-09-10 09:45:26 - 58 . Deletado 2 - 0986357208(1.000000)
+2025-09-10 09:45:27 - 59 . Deletado 2 - 1987302201(70.000000)
+2025-09-10 09:45:27 - 60 . Deletado 2 - 0986424611(1.000000)
+2025-09-10 09:45:27 - 61 . Deletado 2 - F026402200(1.000000)
+2025-09-10 09:45:27 - 62 . Deletado 2 - 0986479A58(2.000000)
+2025-09-10 09:45:27 - 63 . Deletado 2 - 0986494047(1.000000)
+2025-09-10 09:45:27 - 64 . Deletado 2 - 0986494163(1.000000)
+2025-09-10 09:45:27 - 65 . Deletado 2 - 0986280433(1.000000)
+2025-09-10 09:45:27 - 66 . Deletado 2 - 0986494303(1.000000)
+2025-09-10 09:45:27 - 67 . Deletado 2 - 0986424456(1.000000)
+2025-09-10 09:45:27 - 68 . Deletado 2 - 0986494818(1.000000)
+2025-09-10 09:45:27 - 69 . Deletado 2 - 0986435125(1.000000)
+2025-09-10 09:45:27 - 70 . Deletado 2 - 0986435125C(1.000000)
+2025-09-10 09:45:27 - 71 . Deletado 2 - 1457429269(1.000000)
+2025-09-10 09:45:27 - 72 . Deletado 2 - 3397008934(6.000000)
+2025-09-10 09:45:27 - 73 . Deletado 2 - P08 LS350(1.000000)
+2025-09-10 09:45:27 - 74 . Deletado 2 - 1457433099(3.000000)
+2025-09-10 09:45:27 - 75 . Deletado 2 - 3397014242(1.000000)
+2025-09-10 09:45:27 - 76 . Deletado 2 - 1457433531(1.000000)
+2025-09-10 09:45:27 - 77 . Deletado 2 - F026400235(1.000000)
+2025-09-10 09:45:27 - 78 . Deletado 2 - 1457434329(1.000000)
+2025-09-10 09:45:27 - 79 . Deletado 2 - 1457434440(1.000000)
+2025-09-10 09:45:27 - 80 . Deletado 2 - 1457437002(1.000000)
+2025-09-10 09:45:27 - 81 . Deletado 2 - 1986A00572(1.000000)
+2025-09-10 09:45:27 - 82 . Deletado 2 - F026407024(1.000000)
+2025-09-10 09:45:27 - 83 . Deletado 2 - 1987302241(10.000000)
+2025-09-10 09:45:27 - 84 . Deletado 2 - 0986494153(1.000000)
+2025-09-10 09:45:27 - 85 . Deletado 2 - 1987432409(1.000000)
+2025-09-10 09:45:27 - 86 . Deletado 2 - F026400634(2.000000)
+2025-09-10 09:45:27 - 87 . Deletado 2 - 3397008005(1.000000)
+2025-09-10 09:45:27 - 88 . Deletado 2 - 3397009893(1.000000)
+2025-09-10 09:45:27 - 89 . Deletado 2 - 3397014123(1.000000)
+2025-09-10 09:45:27 - 90 . Deletado 2 - 3397014248(1.000000)
+2025-09-10 09:45:27 - 91 . Deletado 2 - 3397014543(3.000000)
+2025-09-10 09:45:27 - 92 . Deletado 2 - 3397118976(1.000000)
+2025-09-10 09:45:27 - 93 . Deletado 2 - B07 AD06R963(1.000000)
+2025-09-10 09:45:28 - 94 . Deletado 2 - 0986486503(1.000000)
+2025-09-10 09:45:28 - 95 . Deletado 2 - 1987474574(2.000000)
+2025-09-10 09:45:28 - 96 . Deletado 2 - B07 ADN18060(2.000000)
+2025-09-10 09:45:28 - 97 . Deletado 2 - 0986479273(2.000000)
+2025-09-10 09:45:28 - 98 . Deletado 2 - 3397006827(2.000000)
+2025-09-10 09:45:28 - 99 . Deletado 2 - 3397007294(1.000000)
+2025-09-10 09:45:28 - 100 . Deletado 2 - SX 3000951092(1.000000)
+2025-09-10 09:45:28 - 101 . Deletado 2 - F026400024(1.000000)
+2025-09-10 09:45:28 - 102 . Deletado 2 - F026400050(1.000000)
+2025-09-10 09:45:28 - 103 . Deletado 2 - F026400101(1.000000)
+2025-09-10 09:45:28 - 104 . Deletado 2 - F026402280(1.000000)
+2025-09-10 09:45:28 - 105 . Deletado 2 - F026402356(1.000000)
+2025-09-10 09:45:28 - 106 . Deletado 2 - 0986479F65(2.000000)
+2025-09-10 09:45:28 - 107 . Deletado 2 - 0986494118(1.000000)
+2025-09-10 09:45:28 - 108 . Deletado 2 - 0986494272(1.000000)
+2025-09-10 09:45:28 - 109 . Deletado 2 - F026407074(2.000000)
+2025-09-10 09:45:28 - 110 . Deletado 2 - LE GDB1500(1.000000)
+2025-09-10 09:45:28 - 111 . Deletado 2 - LE GDB1920(2.000000)
+2025-09-10 09:45:28 - 112 . Deletado 2 - LE GDB1932(2.000000)
+2025-09-10 09:45:28 - 113 . Deletado 2 - 0986494799(1.000000)
+2025-09-10 09:45:28 - 114 . Deletado 2 - LE GDB2016(1.000000)
+2025-09-10 09:45:28 - 115 . Deletado 2 - LE GDB3467(1.000000)
+2025-09-10 09:45:28 - 116 . Deletado 2 - P08 L508(1.000000)
+2025-09-10 09:45:28 - 117 . Deletado 2 - S13 10916869(1.000000)
+2025-09-10 09:45:28 - 118 . Deletado 2 - S13 62916827(1.000000)
+2025-09-10 09:45:28 - 119 . Deletado 2 - V01 837408(1.000000)
+2025-09-10 09:45:28 - 120 . Deletado 2 - V01 850596(1.000000)
+2025-09-10 09:45:28 - 121 . Deletado 2 - 1004336598(1.000000)
+2025-09-10 09:45:28 - 122 . Deletado 2 - 1457431724(2.000000)
+2025-09-10 09:45:28 - 123 . Deletado 2 - 1987429405(1.000000)
+2025-09-10 09:45:28 - 124 . Deletado 2 - 1987474966(4.000000)
+2025-09-10 09:45:28 - 125 . Deletado 2 - 1987302213(40.000000)
+2025-09-10 09:45:28 - 126 . Deletado 2 - B07 ADC48612(1.000000)
+2025-09-10 09:45:28 - 127 . Deletado 2 - B07 ADL142104(1.000000)
+2025-09-10 09:45:28 - 128 . Deletado 2 - B07 ADN18225(1.000000)
+2025-09-10 09:45:29 - 129 . Deletado 2 - SX 317337(2.000000)
+2025-09-10 09:45:29 - 130 . Deletado 2 - B07 ADZ92218(1.000000)
+2025-09-10 09:45:29 - 131 . Deletado 2 - 1987432064(1.000000)
+2025-09-10 09:45:29 - 132 . Deletado 2 - V01 850855(1.000000)
+2025-09-10 09:45:29 - 133 . Deletado 2 - F026407070(2.000000)
+2025-09-10 09:45:29 - 134 . Deletado 2 - B07 ADN12509(1.000000)
+2025-09-10 09:45:29 - 135 . Deletado 2 - D06 KTBWP5920(1.000000)
+2025-09-10 09:45:29 - 136 . Deletado 2 - F00099C602(1.000000)
+2025-09-10 09:45:29 - 137 . Deletado 2 - F026400223(1.000000)
+2025-09-10 09:45:29 - 138 . Deletado 2 - F026400255(1.000000)
+2025-09-10 09:45:29 - 139 . Deletado 2 - F026400324(1.000000)
+2025-09-10 09:45:29 - 140 . Deletado 2 - F026402220(1.000000)
+2025-09-10 09:45:29 - 141 . Deletado 2 - F026407027(1.000000)
+2025-09-10 09:45:29 - 142 . Deletado 2 - LE 83386(1.000000)
+2025-09-10 09:45:29 - 143 . Deletado 2 - LE SKF6303-2RS(2.000000)
+2025-09-10 09:45:29 - 144 . Deletado 2 - LE 405462(1.000000)
+2025-09-10 09:45:29 - 145 . Deletado 2 - P08 A1045(1.000000)
+2025-09-10 09:45:29 - 146 . Deletado 2 - LE GIC341(1.000000)
+2025-09-10 09:45:29 - 147 . Deletado 2 - P08 AH269(1.000000)
+2025-09-10 09:45:29 - 148 . Deletado 2 - P08 AH280(1.000000)
+2025-09-10 09:45:29 - 149 . Deletado 2 - P08 AHC277(1.000000)
+2025-09-10 09:45:29 - 150 . Deletado 2 - P08 AHC722(1.000000)
+2025-09-10 09:45:29 - 151 . Deletado 2 - P08 L1127(1.000000)
+2025-09-10 09:45:29 - 152 . Deletado 2 - P08 LS206(1.000000)
+2025-09-10 09:45:29 - 153 . Deletado 2 - P08 LS1081(1.000000)
+2025-09-10 09:45:29 - 154 . Deletado 2 - S05 VKJA3166(1.000000)
+2025-09-10 09:45:29 - 155 . Deletado 2 - S05 VKDS342009(1.000000)
+2025-09-10 09:45:29 - 156 . Deletado 2 - 1987946920(1.000000)
+2025-09-10 09:45:29 - 157 . Deletado 2 - S13 30944377(1.000000)
+2025-09-10 09:45:29 - 158 . Deletado 2 - SX 3000990214(1.000000)
+2025-09-10 09:45:29 - 159 . Deletado 2 - SX 313378(2.000000)
+2025-09-10 09:45:29 - 160 . Deletado 2 - T06 42-09139(1.000000)
+2025-09-10 09:45:30 - 161 . Deletado 2 - V01 850348(1.000000)
+2025-09-10 09:45:30 - 162 . Deletado 2 - 0250404007(6.000000)
+2025-09-10 09:45:30 - 163 . Deletado 2 - 0281002832(1.000000)
+2025-09-10 09:45:30 - 164 . Deletado 2 - F026402836(2.000000)
+2025-09-10 09:45:30 - 165 . Deletado 2 - F026402838(1.000000)
+2025-09-10 09:45:30 - 166 . Deletado 2 - LE 83840(1.000000)
+2025-09-10 09:45:30 - 167 . Deletado 2 - LE GDB1789(1.000000)
+2025-09-10 09:45:30 - 168 . Deletado 2 - P08 A1617(1.000000)
+2025-09-10 09:45:30 - 169 . Deletado 2 - P08 AH106(1.000000)
+2025-09-10 09:45:30 - 170 . Deletado 2 - S13 30550002(1.000000)
+2025-09-10 09:45:30 - 171 . Deletado 2 - S13 62916716(4.000000)
+2025-09-10 09:45:30 - 172 . Deletado 2 - SX 2290601074(1.000000)
+2025-09-10 09:45:30 - 173 . Deletado 2 - SX 6283600112(1.000000)
+2025-09-10 09:45:30 - Portal/Leirilis Atualizado.
+2025-09-10 09:45:30 - Sincroniza Leirilis->Portal
+2025-09-10 09:45:30 - Procurar diferenças - Início
+2025-09-10 09:45:34 - Procurar diferenças - Fim (0)
+2025-09-10 09:45:34 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 09:45:34 - Processo finalizado.
+2025-09-10 09:50:21 - ***************************************************************
+2025-09-10 09:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 09:50:21 - Carregar dados Leirilis - Início
+2025-09-10 09:50:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 09:50:21 - Carregar dados Portal - Início
+2025-09-10 09:50:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 09:50:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 09:50:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 09:50:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 09:50:23 - Sincroniza Leirilis->Portal
+2025-09-10 09:50:23 - Procurar diferenças - Início
+2025-09-10 09:50:26 - Procurar diferenças - Fim (0)
+2025-09-10 09:50:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 09:50:26 - Processo finalizado.
+2025-09-10 09:55:21 - ***************************************************************
+2025-09-10 09:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 09:55:21 - Carregar dados Leirilis - Início
+2025-09-10 09:55:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 09:55:21 - Carregar dados Portal - Início
+2025-09-10 09:55:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 09:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 09:55:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 09:55:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 09:55:24 - Sincroniza Leirilis->Portal
+2025-09-10 09:55:24 - Procurar diferenças - Início
+2025-09-10 09:55:26 - Procurar diferenças - Fim (0)
+2025-09-10 09:55:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 09:55:26 - Processo finalizado.
+2025-09-10 10:00:24 - ***************************************************************
+2025-09-10 10:00:24 - Sincroniza Portal->Leirilis
+2025-09-10 10:00:24 - Carregar dados Leirilis - Início
+2025-09-10 10:00:24 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:00:24 - Carregar dados Portal - Início
+2025-09-10 10:00:24 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:00:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:00:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:00:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:00:28 - Sincroniza Leirilis->Portal
+2025-09-10 10:00:28 - Procurar diferenças - Início
+2025-09-10 10:00:30 - Procurar diferenças - Fim (0)
+2025-09-10 10:00:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:00:30 - Processo finalizado.
+2025-09-10 10:05:21 - ***************************************************************
+2025-09-10 10:05:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:05:21 - Carregar dados Leirilis - Início
+2025-09-10 10:05:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:05:21 - Carregar dados Portal - Início
+2025-09-10 10:05:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:05:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:05:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:05:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:05:24 - Sincroniza Leirilis->Portal
+2025-09-10 10:05:24 - Procurar diferenças - Início
+2025-09-10 10:05:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:05:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:05:26 - Processo finalizado.
+2025-09-10 10:10:22 - ***************************************************************
+2025-09-10 10:10:22 - Sincroniza Portal->Leirilis
+2025-09-10 10:10:22 - Carregar dados Leirilis - Início
+2025-09-10 10:10:22 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:10:22 - Carregar dados Portal - Início
+2025-09-10 10:10:22 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:10:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:10:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:10:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:10:24 - Sincroniza Leirilis->Portal
+2025-09-10 10:10:24 - Procurar diferenças - Início
+2025-09-10 10:10:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:10:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:10:26 - Processo finalizado.
+2025-09-10 10:15:21 - ***************************************************************
+2025-09-10 10:15:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:15:21 - Carregar dados Leirilis - Início
+2025-09-10 10:15:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:15:21 - Carregar dados Portal - Início
+2025-09-10 10:15:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:15:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:15:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:15:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:15:23 - Sincroniza Leirilis->Portal
+2025-09-10 10:15:23 - Procurar diferenças - Início
+2025-09-10 10:15:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:15:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:15:26 - Processo finalizado.
+2025-09-10 10:20:25 - ***************************************************************
+2025-09-10 10:20:25 - Sincroniza Portal->Leirilis
+2025-09-10 10:20:25 - Carregar dados Leirilis - Início
+2025-09-10 10:20:25 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:20:25 - Carregar dados Portal - Início
+2025-09-10 10:20:25 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:20:25 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:20:27 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:20:27 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:20:27 - Sincroniza Leirilis->Portal
+2025-09-10 10:20:27 - Procurar diferenças - Início
+2025-09-10 10:20:30 - Procurar diferenças - Fim (0)
+2025-09-10 10:20:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:20:30 - Processo finalizado.
+2025-09-10 10:25:21 - ***************************************************************
+2025-09-10 10:25:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:25:21 - Carregar dados Leirilis - Início
+2025-09-10 10:25:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:25:21 - Carregar dados Portal - Início
+2025-09-10 10:25:22 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:25:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:25:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:25:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:25:24 - Sincroniza Leirilis->Portal
+2025-09-10 10:25:24 - Procurar diferenças - Início
+2025-09-10 10:25:27 - Procurar diferenças - Fim (0)
+2025-09-10 10:25:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:25:27 - Processo finalizado.
+2025-09-10 10:30:29 - ***************************************************************
+2025-09-10 10:30:29 - Sincroniza Portal->Leirilis
+2025-09-10 10:30:29 - Carregar dados Leirilis - Início
+2025-09-10 10:30:29 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:30:29 - Carregar dados Portal - Início
+2025-09-10 10:30:29 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:30:29 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:30:33 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:30:33 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:30:33 - Sincroniza Leirilis->Portal
+2025-09-10 10:30:33 - Procurar diferenças - Início
+2025-09-10 10:30:36 - Procurar diferenças - Fim (0)
+2025-09-10 10:30:36 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:30:36 - Processo finalizado.
+2025-09-10 10:35:21 - ***************************************************************
+2025-09-10 10:35:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:35:21 - Carregar dados Leirilis - Início
+2025-09-10 10:35:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:35:21 - Carregar dados Portal - Início
+2025-09-10 10:35:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:35:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:35:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:35:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:35:24 - Sincroniza Leirilis->Portal
+2025-09-10 10:35:24 - Procurar diferenças - Início
+2025-09-10 10:35:28 - Procurar diferenças - Fim (0)
+2025-09-10 10:35:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:35:28 - Processo finalizado.
+2025-09-10 10:40:21 - ***************************************************************
+2025-09-10 10:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:40:21 - Carregar dados Leirilis - Início
+2025-09-10 10:40:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:40:21 - Carregar dados Portal - Início
+2025-09-10 10:40:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:40:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:40:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:40:23 - Sincroniza Leirilis->Portal
+2025-09-10 10:40:23 - Procurar diferenças - Início
+2025-09-10 10:40:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:40:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:40:26 - Processo finalizado.
+2025-09-10 10:45:21 - ***************************************************************
+2025-09-10 10:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:45:21 - Carregar dados Leirilis - Início
+2025-09-10 10:45:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:45:21 - Carregar dados Portal - Início
+2025-09-10 10:45:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:45:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:45:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:45:23 - Sincroniza Leirilis->Portal
+2025-09-10 10:45:23 - Procurar diferenças - Início
+2025-09-10 10:45:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:45:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:45:26 - Processo finalizado.
+2025-09-10 10:50:22 - ***************************************************************
+2025-09-10 10:50:22 - Sincroniza Portal->Leirilis
+2025-09-10 10:50:22 - Carregar dados Leirilis - Início
+2025-09-10 10:50:22 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:50:22 - Carregar dados Portal - Início
+2025-09-10 10:50:22 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:50:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:50:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:50:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:50:24 - Sincroniza Leirilis->Portal
+2025-09-10 10:50:24 - Procurar diferenças - Início
+2025-09-10 10:50:27 - Procurar diferenças - Fim (0)
+2025-09-10 10:50:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:50:27 - Processo finalizado.
+2025-09-10 10:55:21 - ***************************************************************
+2025-09-10 10:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 10:55:21 - Carregar dados Leirilis - Início
+2025-09-10 10:55:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 10:55:21 - Carregar dados Portal - Início
+2025-09-10 10:55:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 10:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 10:55:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 10:55:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 10:55:23 - Sincroniza Leirilis->Portal
+2025-09-10 10:55:23 - Procurar diferenças - Início
+2025-09-10 10:55:26 - Procurar diferenças - Fim (0)
+2025-09-10 10:55:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 10:55:26 - Processo finalizado.
+2025-09-10 11:00:21 - ***************************************************************
+2025-09-10 11:00:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:00:21 - Carregar dados Leirilis - Início
+2025-09-10 11:00:21 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 11:00:21 - Carregar dados Portal - Início
+2025-09-10 11:00:21 - Carregar dados Portal - Fim (7907)
+2025-09-10 11:00:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:00:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:00:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:00:24 - Sincroniza Leirilis->Portal
+2025-09-10 11:00:24 - Procurar diferenças - Início
+2025-09-10 11:00:26 - Procurar diferenças - Fim (0)
+2025-09-10 11:00:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:00:26 - Processo finalizado.
+2025-09-10 11:05:27 - ***************************************************************
+2025-09-10 11:05:27 - Sincroniza Portal->Leirilis
+2025-09-10 11:05:27 - Carregar dados Leirilis - Início
+2025-09-10 11:05:27 - Carregar dados Leirilis - Fim (7907)
+2025-09-10 11:05:27 - Carregar dados Portal - Início
+2025-09-10 11:05:27 - Carregar dados Portal - Fim (7907)
+2025-09-10 11:05:27 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:05:29 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:05:29 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:05:29 - Sincroniza Leirilis->Portal
+2025-09-10 11:05:29 - Procurar diferenças - Início
+2025-09-10 11:05:31 - Procurar diferenças - Fim (0)
+2025-09-10 11:05:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:05:31 - Processo finalizado.
+2025-09-10 11:10:27 - ***************************************************************
+2025-09-10 11:10:27 - Sincroniza Portal->Leirilis
+2025-09-10 11:10:27 - Carregar dados Leirilis - Início
+2025-09-10 11:10:27 - Carregar dados Leirilis - Fim (7903)
+2025-09-10 11:10:27 - Carregar dados Portal - Início
+2025-09-10 11:10:27 - Carregar dados Portal - Fim (7907)
+2025-09-10 11:10:27 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:10:29 - Procurar diferenças Portal/Leirilis - Fim (7)
+2025-09-10 11:10:29 - 1 . Deletado 2 - 0986450508(1.000000)
+2025-09-10 11:10:29 - 2 . Deletado 2 - P08 AH256(1.000000)
+2025-09-10 11:10:29 - 3 . Deletado 2 - P08 L461(1.000000)
+2025-09-10 11:10:29 - 4 . Deletado 2 - 1987948485(3.000000)
+2025-09-10 11:10:29 - 5 . Deletado 2 - SX 315295(2.000000)
+2025-09-10 11:10:29 - 6 . Deletado 2 - 0242229799(6.000000)
+2025-09-10 11:10:30 - 7 . Deletado 2 - F026400036(4.000000)
+2025-09-10 11:10:30 - Portal/Leirilis Atualizado.
+2025-09-10 11:10:30 - Sincroniza Leirilis->Portal
+2025-09-10 11:10:30 - Procurar diferenças - Início
+2025-09-10 11:10:33 - Procurar diferenças - Fim (3)
+2025-09-10 11:10:33 - 1 . Inserido 2 - 1987948485(1.000000)
+2025-09-10 11:10:33 - 2 . Inserido 2 - F026400036(1.000000)
+2025-09-10 11:10:33 - 3 . Inserido 2 - SX 315295(1.000000)
+2025-09-10 11:10:33 - Leirilis/Portal Atualizado.
+2025-09-10 11:10:33 - Processo finalizado.
+2025-09-10 11:20:21 - ***************************************************************
+2025-09-10 11:20:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:20:21 - Carregar dados Leirilis - Início
+2025-09-10 11:20:21 - Carregar dados Leirilis - Fim (7903)
+2025-09-10 11:20:21 - Carregar dados Portal - Início
+2025-09-10 11:20:21 - Carregar dados Portal - Fim (7903)
+2025-09-10 11:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:20:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:20:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:20:24 - Sincroniza Leirilis->Portal
+2025-09-10 11:20:24 - Procurar diferenças - Início
+2025-09-10 11:20:27 - Procurar diferenças - Fim (0)
+2025-09-10 11:20:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:20:27 - Processo finalizado.
+2025-09-10 11:25:21 - ***************************************************************
+2025-09-10 11:25:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:25:21 - Carregar dados Leirilis - Início
+2025-09-10 11:25:21 - Carregar dados Leirilis - Fim (7896)
+2025-09-10 11:25:21 - Carregar dados Portal - Início
+2025-09-10 11:25:21 - Carregar dados Portal - Fim (7903)
+2025-09-10 11:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:25:23 - Procurar diferenças Portal/Leirilis - Fim (8)
+2025-09-10 11:25:23 - 1 . Deletado 2 - 0242129529(6.000000)
+2025-09-10 11:25:23 - 2 . Deletado 2 - 0986494096(1.000000)
+2025-09-10 11:25:23 - 3 . Deletado 2 - 0986495113(1.000000)
+2025-09-10 11:25:23 - 4 . Deletado 2 - F026407085(1.000000)
+2025-09-10 11:25:23 - 5 . Deletado 2 - F032134660(1.000000)
+2025-09-10 11:25:23 - 6 . Deletado 2 - LE GDB1761(1.000000)
+2025-09-10 11:25:24 - 7 . Deletado 2 - SX 311645(2.000000)
+2025-09-10 11:25:24 - 8 . Deletado 2 - F026400631(2.000000)
+2025-09-10 11:25:24 - Portal/Leirilis Atualizado.
+2025-09-10 11:25:24 - Sincroniza Leirilis->Portal
+2025-09-10 11:25:24 - Procurar diferenças - Início
+2025-09-10 11:25:26 - Procurar diferenças - Fim (1)
+2025-09-10 11:25:26 - 1 . Inserido 2 - F026400631(1.000000)
+2025-09-10 11:25:26 - Leirilis/Portal Atualizado.
+2025-09-10 11:25:26 - Processo finalizado.
+2025-09-10 11:30:21 - ***************************************************************
+2025-09-10 11:30:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:30:21 - Carregar dados Leirilis - Início
+2025-09-10 11:30:21 - Carregar dados Leirilis - Fim (7895)
+2025-09-10 11:30:21 - Carregar dados Portal - Início
+2025-09-10 11:30:22 - Carregar dados Portal - Fim (7896)
+2025-09-10 11:30:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:30:24 - Procurar diferenças Portal/Leirilis - Fim (1)
+2025-09-10 11:30:24 - 1 . Deletado 2 - 0986479218(2.000000)
+2025-09-10 11:30:24 - Portal/Leirilis Atualizado.
+2025-09-10 11:30:24 - Sincroniza Leirilis->Portal
+2025-09-10 11:30:24 - Procurar diferenças - Início
+2025-09-10 11:30:27 - Procurar diferenças - Fim (0)
+2025-09-10 11:30:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:30:27 - Processo finalizado.
+2025-09-10 11:35:21 - ***************************************************************
+2025-09-10 11:35:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:35:21 - Carregar dados Leirilis - Início
+2025-09-10 11:35:22 - Carregar dados Leirilis - Fim (7895)
+2025-09-10 11:35:22 - Carregar dados Portal - Início
+2025-09-10 11:35:22 - Carregar dados Portal - Fim (7895)
+2025-09-10 11:35:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:35:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:35:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:35:25 - Sincroniza Leirilis->Portal
+2025-09-10 11:35:25 - Procurar diferenças - Início
+2025-09-10 11:35:27 - Procurar diferenças - Fim (0)
+2025-09-10 11:35:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:35:27 - Processo finalizado.
+2025-09-10 11:40:21 - ***************************************************************
+2025-09-10 11:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:40:21 - Carregar dados Leirilis - Início
+2025-09-10 11:40:21 - Carregar dados Leirilis - Fim (7895)
+2025-09-10 11:40:21 - Carregar dados Portal - Início
+2025-09-10 11:40:21 - Carregar dados Portal - Fim (7895)
+2025-09-10 11:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:40:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:40:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:40:23 - Sincroniza Leirilis->Portal
+2025-09-10 11:40:23 - Procurar diferenças - Início
+2025-09-10 11:40:26 - Procurar diferenças - Fim (0)
+2025-09-10 11:40:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:40:26 - Processo finalizado.
+2025-09-10 11:45:21 - ***************************************************************
+2025-09-10 11:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:45:21 - Carregar dados Leirilis - Início
+2025-09-10 11:45:21 - Carregar dados Leirilis - Fim (7894)
+2025-09-10 11:45:21 - Carregar dados Portal - Início
+2025-09-10 11:45:21 - Carregar dados Portal - Fim (7895)
+2025-09-10 11:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:45:23 - Procurar diferenças Portal/Leirilis - Fim (2)
+2025-09-10 11:45:23 - 1 . Deletado 2 - SX 3000951468(1.000000)
+2025-09-10 11:45:23 - 2 . Deletado 2 - SX 3000951097(9.000000)
+2025-09-10 11:45:23 - Portal/Leirilis Atualizado.
+2025-09-10 11:45:23 - Sincroniza Leirilis->Portal
+2025-09-10 11:45:23 - Procurar diferenças - Início
+2025-09-10 11:45:26 - Procurar diferenças - Fim (1)
+2025-09-10 11:45:26 - 1 . Inserido 2 - SX 3000951097(2.000000)
+2025-09-10 11:45:26 - Leirilis/Portal Atualizado.
+2025-09-10 11:45:26 - Processo finalizado.
+2025-09-10 11:50:21 - ***************************************************************
+2025-09-10 11:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:50:21 - Carregar dados Leirilis - Início
+2025-09-10 11:50:22 - Carregar dados Leirilis - Fim (7893)
+2025-09-10 11:50:22 - Carregar dados Portal - Início
+2025-09-10 11:50:22 - Carregar dados Portal - Fim (7894)
+2025-09-10 11:50:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:50:25 - Procurar diferenças Portal/Leirilis - Fim (3)
+2025-09-10 11:50:25 - 1 . Deletado 2 - B07 ADN18105(2.000000)
+2025-09-10 11:50:25 - 2 . Deletado 2 - B07 ADBP700098(1.000000)
+2025-09-10 11:50:26 - 3 . Deletado 2 - B07 ADC44251(3.000000)
+2025-09-10 11:50:26 - Portal/Leirilis Atualizado.
+2025-09-10 11:50:26 - Sincroniza Leirilis->Portal
+2025-09-10 11:50:26 - Procurar diferenças - Início
+2025-09-10 11:50:29 - Procurar diferenças - Fim (2)
+2025-09-10 11:50:29 - 1 . Inserido 2 - B07 ADC44251(2.000000)
+2025-09-10 11:50:29 - 2 . Inserido 2 - B07 ADN18105(1.000000)
+2025-09-10 11:50:29 - Leirilis/Portal Atualizado.
+2025-09-10 11:50:29 - Processo finalizado.
+2025-09-10 11:55:21 - ***************************************************************
+2025-09-10 11:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 11:55:21 - Carregar dados Leirilis - Início
+2025-09-10 11:55:21 - Carregar dados Leirilis - Fim (7893)
+2025-09-10 11:55:21 - Carregar dados Portal - Início
+2025-09-10 11:55:21 - Carregar dados Portal - Fim (7893)
+2025-09-10 11:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 11:55:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 11:55:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 11:55:24 - Sincroniza Leirilis->Portal
+2025-09-10 11:55:24 - Procurar diferenças - Início
+2025-09-10 11:55:26 - Procurar diferenças - Fim (0)
+2025-09-10 11:55:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 11:55:26 - Processo finalizado.
+2025-09-10 12:00:25 - ***************************************************************
+2025-09-10 12:00:25 - Sincroniza Portal->Leirilis
+2025-09-10 12:00:25 - Carregar dados Leirilis - Início
+2025-09-10 12:00:25 - Carregar dados Leirilis - Fim (7893)
+2025-09-10 12:00:25 - Carregar dados Portal - Início
+2025-09-10 12:00:26 - Carregar dados Portal - Fim (7893)
+2025-09-10 12:00:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:00:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:00:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:00:28 - Sincroniza Leirilis->Portal
+2025-09-10 12:00:28 - Procurar diferenças - Início
+2025-09-10 12:00:31 - Procurar diferenças - Fim (0)
+2025-09-10 12:00:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:00:31 - Processo finalizado.
+2025-09-10 12:05:23 - ***************************************************************
+2025-09-10 12:05:23 - Sincroniza Portal->Leirilis
+2025-09-10 12:05:23 - Carregar dados Leirilis - Início
+2025-09-10 12:05:23 - Carregar dados Leirilis - Fim (7891)
+2025-09-10 12:05:23 - Carregar dados Portal - Início
+2025-09-10 12:05:23 - Carregar dados Portal - Fim (7893)
+2025-09-10 12:05:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:05:26 - Procurar diferenças Portal/Leirilis - Fim (3)
+2025-09-10 12:05:26 - 1 . Deletado 2 - SX 3000951097(2.000000)
+2025-09-10 12:05:26 - 2 . Deletado 2 - SX 3000317001(1.000000)
+2025-09-10 12:05:26 - 3 . Deletado 2 - SX 3000950870(6.000000)
+2025-09-10 12:05:26 - Portal/Leirilis Atualizado.
+2025-09-10 12:05:26 - Sincroniza Leirilis->Portal
+2025-09-10 12:05:26 - Procurar diferenças - Início
+2025-09-10 12:05:28 - Procurar diferenças - Fim (1)
+2025-09-10 12:05:28 - 1 . Inserido 2 - SX 3000950870(1.000000)
+2025-09-10 12:05:28 - Leirilis/Portal Atualizado.
+2025-09-10 12:05:28 - Processo finalizado.
+2025-09-10 12:10:28 - ***************************************************************
+2025-09-10 12:10:28 - Sincroniza Portal->Leirilis
+2025-09-10 12:10:28 - Carregar dados Leirilis - Início
+2025-09-10 12:10:29 - Carregar dados Leirilis - Fim (7891)
+2025-09-10 12:10:29 - Carregar dados Portal - Início
+2025-09-10 12:10:29 - Carregar dados Portal - Fim (7891)
+2025-09-10 12:10:29 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:10:31 - Procurar diferenças Portal/Leirilis - Fim (1)
+2025-09-10 12:10:31 - 1 . Deletado 2 - S05 VKJA5345(2.000000)
+2025-09-10 12:10:31 - Portal/Leirilis Atualizado.
+2025-09-10 12:10:31 - Sincroniza Leirilis->Portal
+2025-09-10 12:10:31 - Procurar diferenças - Início
+2025-09-10 12:10:34 - Procurar diferenças - Fim (1)
+2025-09-10 12:10:34 - 1 . Inserido 2 - S05 VKJA5345(1.000000)
+2025-09-10 12:10:34 - Leirilis/Portal Atualizado.
+2025-09-10 12:10:34 - Processo finalizado.
+2025-09-10 12:15:21 - ***************************************************************
+2025-09-10 12:15:21 - Sincroniza Portal->Leirilis
+2025-09-10 12:15:21 - Carregar dados Leirilis - Início
+2025-09-10 12:15:21 - Carregar dados Leirilis - Fim (7891)
+2025-09-10 12:15:21 - Carregar dados Portal - Início
+2025-09-10 12:15:21 - Carregar dados Portal - Fim (7891)
+2025-09-10 12:15:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:15:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:15:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:15:24 - Sincroniza Leirilis->Portal
+2025-09-10 12:15:24 - Procurar diferenças - Início
+2025-09-10 12:15:27 - Procurar diferenças - Fim (0)
+2025-09-10 12:15:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:15:27 - Processo finalizado.
+2025-09-10 12:20:22 - ***************************************************************
+2025-09-10 12:20:22 - Sincroniza Portal->Leirilis
+2025-09-10 12:20:22 - Carregar dados Leirilis - Início
+2025-09-10 12:20:22 - Carregar dados Leirilis - Fim (7891)
+2025-09-10 12:20:22 - Carregar dados Portal - Início
+2025-09-10 12:20:22 - Carregar dados Portal - Fim (7891)
+2025-09-10 12:20:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:20:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:20:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:20:25 - Sincroniza Leirilis->Portal
+2025-09-10 12:20:25 - Procurar diferenças - Início
+2025-09-10 12:20:27 - Procurar diferenças - Fim (0)
+2025-09-10 12:20:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:20:27 - Processo finalizado.
+2025-09-10 12:25:21 - ***************************************************************
+2025-09-10 12:25:21 - Sincroniza Portal->Leirilis
+2025-09-10 12:25:21 - Carregar dados Leirilis - Início
+2025-09-10 12:25:21 - Carregar dados Leirilis - Fim (7891)
+2025-09-10 12:25:21 - Carregar dados Portal - Início
+2025-09-10 12:25:21 - Carregar dados Portal - Fim (7891)
+2025-09-10 12:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:25:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:25:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:25:23 - Sincroniza Leirilis->Portal
+2025-09-10 12:25:23 - Procurar diferenças - Início
+2025-09-10 12:25:26 - Procurar diferenças - Fim (0)
+2025-09-10 12:25:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:25:26 - Processo finalizado.
+2025-09-10 12:30:24 - ***************************************************************
+2025-09-10 12:30:24 - Sincroniza Portal->Leirilis
+2025-09-10 12:30:24 - Carregar dados Leirilis - Início
+2025-09-10 12:30:24 - Carregar dados Leirilis - Fim (7890)
+2025-09-10 12:30:24 - Carregar dados Portal - Início
+2025-09-10 12:30:24 - Carregar dados Portal - Fim (7891)
+2025-09-10 12:30:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:30:27 - Procurar diferenças Portal/Leirilis - Fim (1)
+2025-09-10 12:30:27 - 1 . Deletado 2 - B07 ADN18105(1.000000)
+2025-09-10 12:30:27 - Portal/Leirilis Atualizado.
+2025-09-10 12:30:27 - Sincroniza Leirilis->Portal
+2025-09-10 12:30:27 - Procurar diferenças - Início
+2025-09-10 12:30:29 - Procurar diferenças - Fim (0)
+2025-09-10 12:30:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:30:29 - Processo finalizado.
+2025-09-10 12:35:22 - ***************************************************************
+2025-09-10 12:35:22 - Sincroniza Portal->Leirilis
+2025-09-10 12:35:22 - Carregar dados Leirilis - Início
+2025-09-10 12:35:22 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 12:35:22 - Carregar dados Portal - Início
+2025-09-10 12:35:22 - Carregar dados Portal - Fim (7890)
+2025-09-10 12:35:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:35:25 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 12:35:25 - 1 . Deletado 2 - 0250203002(6.000000)
+2025-09-10 12:35:25 - 2 . Deletado 2 - 1987435026(26.000000)
+2025-09-10 12:35:25 - 3 . Deletado 2 - 1987435016(2.000000)
+2025-09-10 12:35:25 - 4 . Deletado 2 - 0986460143(1.000000)
+2025-09-10 12:35:25 - 5 . Deletado 2 - SX 2294002491(4.000000)
+2025-09-10 12:35:25 - 6 . Deletado 2 - SX 3000990505(1.000000)
+2025-09-10 12:35:25 - 7 . Deletado 2 - 1987435168(1.000000)
+2025-09-10 12:35:25 - 8 . Deletado 2 - SX 3000950115(3.000000)
+2025-09-10 12:35:25 - 9 . Deletado 2 - SX 3000970079(2.000000)
+2025-09-10 12:35:25 - 10 . Deletado 2 - P08 L991(9.000000)
+2025-09-10 12:35:25 - Portal/Leirilis Atualizado.
+2025-09-10 12:35:25 - Sincroniza Leirilis->Portal
+2025-09-10 12:35:25 - Procurar diferenças - Início
+2025-09-10 12:35:27 - Procurar diferenças - Fim (6)
+2025-09-10 12:35:27 - 1 . Inserido 2 - 1987435016(1.000000)
+2025-09-10 12:35:27 - 2 . Inserido 2 - 1987435026(13.000000)
+2025-09-10 12:35:28 - 3 . Inserido 2 - P08 L991(6.000000)
+2025-09-10 12:35:28 - 4 . Inserido 2 - SX 2294002491(3.000000)
+2025-09-10 12:35:28 - 5 . Inserido 2 - SX 3000950115(2.000000)
+2025-09-10 12:35:28 - 6 . Inserido 2 - SX 3000970079(1.000000)
+2025-09-10 12:35:28 - Leirilis/Portal Atualizado.
+2025-09-10 12:35:28 - Processo finalizado.
+2025-09-10 12:40:21 - ***************************************************************
+2025-09-10 12:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 12:40:21 - Carregar dados Leirilis - Início
+2025-09-10 12:40:21 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 12:40:21 - Carregar dados Portal - Início
+2025-09-10 12:40:21 - Carregar dados Portal - Fim (7886)
+2025-09-10 12:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:40:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:40:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:40:23 - Sincroniza Leirilis->Portal
+2025-09-10 12:40:23 - Procurar diferenças - Início
+2025-09-10 12:40:26 - Procurar diferenças - Fim (0)
+2025-09-10 12:40:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:40:26 - Processo finalizado.
+2025-09-10 12:45:20 - ***************************************************************
+2025-09-10 12:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 12:45:20 - Carregar dados Leirilis - Início
+2025-09-10 12:45:21 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 12:45:21 - Carregar dados Portal - Início
+2025-09-10 12:45:21 - Carregar dados Portal - Fim (7886)
+2025-09-10 12:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:45:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:45:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:45:23 - Sincroniza Leirilis->Portal
+2025-09-10 12:45:23 - Procurar diferenças - Início
+2025-09-10 12:45:25 - Procurar diferenças - Fim (0)
+2025-09-10 12:45:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:45:25 - Processo finalizado.
+2025-09-10 12:50:21 - ***************************************************************
+2025-09-10 12:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 12:50:21 - Carregar dados Leirilis - Início
+2025-09-10 12:50:21 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 12:50:21 - Carregar dados Portal - Início
+2025-09-10 12:50:21 - Carregar dados Portal - Fim (7886)
+2025-09-10 12:50:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:50:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:50:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:50:24 - Sincroniza Leirilis->Portal
+2025-09-10 12:50:24 - Procurar diferenças - Início
+2025-09-10 12:50:27 - Procurar diferenças - Fim (0)
+2025-09-10 12:50:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:50:27 - Processo finalizado.
+2025-09-10 12:55:21 - ***************************************************************
+2025-09-10 12:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 12:55:21 - Carregar dados Leirilis - Início
+2025-09-10 12:55:21 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 12:55:21 - Carregar dados Portal - Início
+2025-09-10 12:55:22 - Carregar dados Portal - Fim (7886)
+2025-09-10 12:55:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 12:55:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 12:55:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 12:55:24 - Sincroniza Leirilis->Portal
+2025-09-10 12:55:24 - Procurar diferenças - Início
+2025-09-10 12:55:27 - Procurar diferenças - Fim (0)
+2025-09-10 12:55:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 12:55:27 - Processo finalizado.
+2025-09-10 13:00:23 - ***************************************************************
+2025-09-10 13:00:23 - Sincroniza Portal->Leirilis
+2025-09-10 13:00:23 - Carregar dados Leirilis - Início
+2025-09-10 13:00:23 - Carregar dados Leirilis - Fim (7886)
+2025-09-10 13:00:23 - Carregar dados Portal - Início
+2025-09-10 13:00:23 - Carregar dados Portal - Fim (7886)
+2025-09-10 13:00:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:00:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:00:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:00:26 - Sincroniza Leirilis->Portal
+2025-09-10 13:00:26 - Procurar diferenças - Início
+2025-09-10 13:00:29 - Procurar diferenças - Fim (0)
+2025-09-10 13:00:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:00:29 - Processo finalizado.
+2025-09-10 13:05:26 - ***************************************************************
+2025-09-10 13:05:26 - Sincroniza Portal->Leirilis
+2025-09-10 13:05:26 - Carregar dados Leirilis - Início
+2025-09-10 13:05:26 - Carregar dados Leirilis - Fim (7878)
+2025-09-10 13:05:26 - Carregar dados Portal - Início
+2025-09-10 13:05:26 - Carregar dados Portal - Fim (7886)
+2025-09-10 13:05:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:05:29 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 13:05:29 - 1 . Deletado 2 - 0986424332(1.000000)
+2025-09-10 13:05:29 - 2 . Deletado 2 - 0986479S29(2.000000)
+2025-09-10 13:05:29 - 3 . Deletado 2 - P08 A1334(1.000000)
+2025-09-10 13:05:30 - 4 . Deletado 2 - 1987473069(2.000000)
+2025-09-10 13:05:30 - 5 . Deletado 2 - F026402110(1.000000)
+2025-09-10 13:05:30 - 6 . Deletado 2 - F026407001(2.000000)
+2025-09-10 13:05:30 - 7 . Deletado 2 - 0986494819(3.000000)
+2025-09-10 13:05:30 - 8 . Deletado 2 - S13 62936431(3.000000)
+2025-09-10 13:05:30 - 9 . Deletado 2 - S13 99136339(1.000000)
+2025-09-10 13:05:30 - Portal/Leirilis Atualizado.
+2025-09-10 13:05:30 - Sincroniza Leirilis->Portal
+2025-09-10 13:05:30 - Procurar diferenças - Início
+2025-09-10 13:05:33 - Procurar diferenças - Fim (1)
+2025-09-10 13:05:33 - 1 . Inserido 2 - 0986494819(2.000000)
+2025-09-10 13:05:33 - Leirilis/Portal Atualizado.
+2025-09-10 13:05:33 - Processo finalizado.
+2025-09-10 13:10:21 - ***************************************************************
+2025-09-10 13:10:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:10:21 - Carregar dados Leirilis - Início
+2025-09-10 13:10:22 - Carregar dados Leirilis - Fim (7878)
+2025-09-10 13:10:22 - Carregar dados Portal - Início
+2025-09-10 13:10:22 - Carregar dados Portal - Fim (7878)
+2025-09-10 13:10:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:10:25 - Procurar diferenças Portal/Leirilis - Fim (1)
+2025-09-10 13:10:25 - 1 . Deletado 2 - 1987435557(2.000000)
+2025-09-10 13:10:25 - Portal/Leirilis Atualizado.
+2025-09-10 13:10:25 - Sincroniza Leirilis->Portal
+2025-09-10 13:10:25 - Procurar diferenças - Início
+2025-09-10 13:10:28 - Procurar diferenças - Fim (1)
+2025-09-10 13:10:28 - 1 . Inserido 2 - 1987435557(1.000000)
+2025-09-10 13:10:28 - Leirilis/Portal Atualizado.
+2025-09-10 13:10:28 - Processo finalizado.
+2025-09-10 13:15:23 - ***************************************************************
+2025-09-10 13:15:23 - Sincroniza Portal->Leirilis
+2025-09-10 13:15:23 - Carregar dados Leirilis - Início
+2025-09-10 13:15:24 - Carregar dados Leirilis - Fim (7876)
+2025-09-10 13:15:24 - Carregar dados Portal - Início
+2025-09-10 13:15:24 - Carregar dados Portal - Fim (7878)
+2025-09-10 13:15:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:15:27 - Procurar diferenças Portal/Leirilis - Fim (2)
+2025-09-10 13:15:27 - 1 . Deletado 2 - 1987946582(1.000000)
+2025-09-10 13:15:27 - 2 . Deletado 2 - 1987435028(2.000000)
+2025-09-10 13:15:27 - Portal/Leirilis Atualizado.
+2025-09-10 13:15:27 - Sincroniza Leirilis->Portal
+2025-09-10 13:15:27 - Procurar diferenças - Início
+2025-09-10 13:15:29 - Procurar diferenças - Fim (0)
+2025-09-10 13:15:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:15:29 - Processo finalizado.
+2025-09-10 13:20:24 - ***************************************************************
+2025-09-10 13:20:24 - Sincroniza Portal->Leirilis
+2025-09-10 13:20:24 - Carregar dados Leirilis - Início
+2025-09-10 13:20:24 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:20:24 - Carregar dados Portal - Início
+2025-09-10 13:20:24 - Carregar dados Portal - Fim (7876)
+2025-09-10 13:20:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:20:27 - Procurar diferenças Portal/Leirilis - Fim (3)
+2025-09-10 13:20:27 - 1 . Deletado 2 - F026400220(6.000000)
+2025-09-10 13:20:27 - 2 . Deletado 2 - P08 A1725(2.000000)
+2025-09-10 13:20:27 - 3 . Deletado 2 - 3397011397(51.000000)
+2025-09-10 13:20:27 - Portal/Leirilis Atualizado.
+2025-09-10 13:20:27 - Sincroniza Leirilis->Portal
+2025-09-10 13:20:27 - Procurar diferenças - Início
+2025-09-10 13:20:29 - Procurar diferenças - Fim (2)
+2025-09-10 13:20:29 - 1 . Inserido 2 - 3397011397(45.000000)
+2025-09-10 13:20:29 - 2 . Inserido 2 - P08 A1725(1.000000)
+2025-09-10 13:20:29 - Leirilis/Portal Atualizado.
+2025-09-10 13:20:29 - Processo finalizado.
+2025-09-10 13:25:21 - ***************************************************************
+2025-09-10 13:25:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:25:21 - Carregar dados Leirilis - Início
+2025-09-10 13:25:21 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:25:21 - Carregar dados Portal - Início
+2025-09-10 13:25:21 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:25:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:25:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:25:23 - Sincroniza Leirilis->Portal
+2025-09-10 13:25:23 - Procurar diferenças - Início
+2025-09-10 13:25:26 - Procurar diferenças - Fim (0)
+2025-09-10 13:25:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:25:26 - Processo finalizado.
+2025-09-10 13:30:34 - ***************************************************************
+2025-09-10 13:30:34 - Sincroniza Portal->Leirilis
+2025-09-10 13:30:34 - Carregar dados Leirilis - Início
+2025-09-10 13:30:35 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:30:35 - Carregar dados Portal - Início
+2025-09-10 13:30:35 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:30:35 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:30:37 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:30:37 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:30:37 - Sincroniza Leirilis->Portal
+2025-09-10 13:30:37 - Procurar diferenças - Início
+2025-09-10 13:30:40 - Procurar diferenças - Fim (0)
+2025-09-10 13:30:40 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:30:40 - Processo finalizado.
+2025-09-10 13:35:21 - ***************************************************************
+2025-09-10 13:35:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:35:21 - Carregar dados Leirilis - Início
+2025-09-10 13:35:21 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:35:21 - Carregar dados Portal - Início
+2025-09-10 13:35:22 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:35:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:35:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:35:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:35:24 - Sincroniza Leirilis->Portal
+2025-09-10 13:35:24 - Procurar diferenças - Início
+2025-09-10 13:35:26 - Procurar diferenças - Fim (0)
+2025-09-10 13:35:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:35:26 - Processo finalizado.
+2025-09-10 13:40:21 - ***************************************************************
+2025-09-10 13:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:40:21 - Carregar dados Leirilis - Início
+2025-09-10 13:40:21 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:40:21 - Carregar dados Portal - Início
+2025-09-10 13:40:21 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:40:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:40:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:40:23 - Sincroniza Leirilis->Portal
+2025-09-10 13:40:23 - Procurar diferenças - Início
+2025-09-10 13:40:25 - Procurar diferenças - Fim (0)
+2025-09-10 13:40:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:40:25 - Processo finalizado.
+2025-09-10 13:45:21 - ***************************************************************
+2025-09-10 13:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:45:21 - Carregar dados Leirilis - Início
+2025-09-10 13:45:21 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:45:21 - Carregar dados Portal - Início
+2025-09-10 13:45:21 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:45:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:45:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:45:24 - Sincroniza Leirilis->Portal
+2025-09-10 13:45:24 - Procurar diferenças - Início
+2025-09-10 13:45:27 - Procurar diferenças - Fim (0)
+2025-09-10 13:45:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:45:27 - Processo finalizado.
+2025-09-10 13:50:21 - ***************************************************************
+2025-09-10 13:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 13:50:21 - Carregar dados Leirilis - Início
+2025-09-10 13:50:21 - Carregar dados Leirilis - Fim (7875)
+2025-09-10 13:50:21 - Carregar dados Portal - Início
+2025-09-10 13:50:21 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:50:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:50:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 13:50:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 13:50:23 - Sincroniza Leirilis->Portal
+2025-09-10 13:50:23 - Procurar diferenças - Início
+2025-09-10 13:50:26 - Procurar diferenças - Fim (0)
+2025-09-10 13:50:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 13:50:26 - Processo finalizado.
+2025-09-10 13:55:20 - ***************************************************************
+2025-09-10 13:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 13:55:20 - Carregar dados Leirilis - Início
+2025-09-10 13:55:21 - Carregar dados Leirilis - Fim (7874)
+2025-09-10 13:55:21 - Carregar dados Portal - Início
+2025-09-10 13:55:21 - Carregar dados Portal - Fim (7875)
+2025-09-10 13:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 13:55:24 - Procurar diferenças Portal/Leirilis - Fim (2)
+2025-09-10 13:55:24 - 1 . Deletado 2 - 1987474550(8.000000)
+2025-09-10 13:55:24 - 2 . Deletado 2 - LE GDB2088(1.000000)
+2025-09-10 13:55:24 - Portal/Leirilis Atualizado.
+2025-09-10 13:55:24 - Sincroniza Leirilis->Portal
+2025-09-10 13:55:24 - Procurar diferenças - Início
+2025-09-10 13:55:28 - Procurar diferenças - Fim (1)
+2025-09-10 13:55:28 - 1 . Inserido 2 - 1987474550(6.000000)
+2025-09-10 13:55:28 - Leirilis/Portal Atualizado.
+2025-09-10 13:55:28 - Processo finalizado.
+2025-09-10 14:00:22 - ***************************************************************
+2025-09-10 14:00:22 - Sincroniza Portal->Leirilis
+2025-09-10 14:00:22 - Carregar dados Leirilis - Início
+2025-09-10 14:00:23 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:00:23 - Carregar dados Portal - Início
+2025-09-10 14:00:23 - Carregar dados Portal - Fim (7874)
+2025-09-10 14:00:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:00:27 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 14:00:27 - 1 . Deletado 2 - 0986479395(2.000000)
+2025-09-10 14:00:27 - 2 . Deletado 2 - 0986490500(1.000000)
+2025-09-10 14:00:27 - 3 . Deletado 2 - 3397014122(8.000000)
+2025-09-10 14:00:27 - 4 . Deletado 2 - F026400693(2.000000)
+2025-09-10 14:00:27 - 5 . Deletado 2 - F026407238(7.000000)
+2025-09-10 14:00:27 - 6 . Deletado 2 - F026402839(8.000000)
+2025-09-10 14:00:27 - 7 . Deletado 2 - F026400567(2.000000)
+2025-09-10 14:00:27 - 8 . Deletado 2 - F026400028(1.000000)
+2025-09-10 14:00:27 - 9 . Deletado 2 - F026400159(1.000000)
+2025-09-10 14:00:27 - 10 . Deletado 2 - T06 50-02667(1.000000)
+2025-09-10 14:00:27 - Portal/Leirilis Atualizado.
+2025-09-10 14:00:27 - Sincroniza Leirilis->Portal
+2025-09-10 14:00:27 - Procurar diferenças - Início
+2025-09-10 14:00:32 - Procurar diferenças - Fim (5)
+2025-09-10 14:00:32 - 1 . Inserido 2 - 3397014122(5.000000)
+2025-09-10 14:00:32 - 2 . Inserido 2 - F026400567(1.000000)
+2025-09-10 14:00:32 - 3 . Inserido 2 - F026400693(1.000000)
+2025-09-10 14:00:32 - 4 . Inserido 2 - F026402839(3.000000)
+2025-09-10 14:00:32 - 5 . Inserido 2 - F026407238(6.000000)
+2025-09-10 14:00:32 - Leirilis/Portal Atualizado.
+2025-09-10 14:00:32 - Processo finalizado.
+2025-09-10 14:05:22 - ***************************************************************
+2025-09-10 14:05:22 - Sincroniza Portal->Leirilis
+2025-09-10 14:05:22 - Carregar dados Leirilis - Início
+2025-09-10 14:05:23 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:05:23 - Carregar dados Portal - Início
+2025-09-10 14:05:23 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:05:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:05:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:05:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:05:26 - Sincroniza Leirilis->Portal
+2025-09-10 14:05:26 - Procurar diferenças - Início
+2025-09-10 14:05:29 - Procurar diferenças - Fim (0)
+2025-09-10 14:05:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:05:29 - Processo finalizado.
+2025-09-10 14:10:21 - ***************************************************************
+2025-09-10 14:10:21 - Sincroniza Portal->Leirilis
+2025-09-10 14:10:21 - Carregar dados Leirilis - Início
+2025-09-10 14:10:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:10:21 - Carregar dados Portal - Início
+2025-09-10 14:10:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:10:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:10:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:10:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:10:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:10:25 - Procurar diferenças - Início
+2025-09-10 14:10:29 - Procurar diferenças - Fim (0)
+2025-09-10 14:10:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:10:29 - Processo finalizado.
+2025-09-10 14:15:20 - ***************************************************************
+2025-09-10 14:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 14:15:20 - Carregar dados Leirilis - Início
+2025-09-10 14:15:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:15:21 - Carregar dados Portal - Início
+2025-09-10 14:15:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:15:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:15:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:15:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:15:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:15:25 - Procurar diferenças - Início
+2025-09-10 14:15:29 - Procurar diferenças - Fim (0)
+2025-09-10 14:15:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:15:29 - Processo finalizado.
+2025-09-10 14:20:21 - ***************************************************************
+2025-09-10 14:20:21 - Sincroniza Portal->Leirilis
+2025-09-10 14:20:21 - Carregar dados Leirilis - Início
+2025-09-10 14:20:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:20:21 - Carregar dados Portal - Início
+2025-09-10 14:20:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:20:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:20:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:20:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:20:25 - Procurar diferenças - Início
+2025-09-10 14:20:29 - Procurar diferenças - Fim (0)
+2025-09-10 14:20:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:20:29 - Processo finalizado.
+2025-09-10 14:25:20 - ***************************************************************
+2025-09-10 14:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 14:25:20 - Carregar dados Leirilis - Início
+2025-09-10 14:25:20 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:25:20 - Carregar dados Portal - Início
+2025-09-10 14:25:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:25:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:25:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:25:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:25:25 - Procurar diferenças - Início
+2025-09-10 14:25:30 - Procurar diferenças - Fim (0)
+2025-09-10 14:25:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:25:30 - Processo finalizado.
+2025-09-10 14:30:21 - ***************************************************************
+2025-09-10 14:30:21 - Sincroniza Portal->Leirilis
+2025-09-10 14:30:21 - Carregar dados Leirilis - Início
+2025-09-10 14:30:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:30:21 - Carregar dados Portal - Início
+2025-09-10 14:30:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:30:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:30:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:30:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:30:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:30:25 - Procurar diferenças - Início
+2025-09-10 14:30:29 - Procurar diferenças - Fim (0)
+2025-09-10 14:30:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:30:29 - Processo finalizado.
+2025-09-10 14:35:20 - ***************************************************************
+2025-09-10 14:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 14:35:20 - Carregar dados Leirilis - Início
+2025-09-10 14:35:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:35:21 - Carregar dados Portal - Início
+2025-09-10 14:35:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:35:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:35:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:35:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:35:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:35:25 - Procurar diferenças - Início
+2025-09-10 14:35:30 - Procurar diferenças - Fim (0)
+2025-09-10 14:35:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:35:30 - Processo finalizado.
+2025-09-10 14:40:20 - ***************************************************************
+2025-09-10 14:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 14:40:20 - Carregar dados Leirilis - Início
+2025-09-10 14:40:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:40:21 - Carregar dados Portal - Início
+2025-09-10 14:40:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:40:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:40:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:40:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:40:25 - Procurar diferenças - Início
+2025-09-10 14:40:30 - Procurar diferenças - Fim (0)
+2025-09-10 14:40:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:40:30 - Processo finalizado.
+2025-09-10 14:45:21 - ***************************************************************
+2025-09-10 14:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 14:45:21 - Carregar dados Leirilis - Início
+2025-09-10 14:45:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:45:21 - Carregar dados Portal - Início
+2025-09-10 14:45:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:45:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:45:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:45:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:45:25 - Procurar diferenças - Início
+2025-09-10 14:45:28 - Procurar diferenças - Fim (0)
+2025-09-10 14:45:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:45:28 - Processo finalizado.
+2025-09-10 14:50:21 - ***************************************************************
+2025-09-10 14:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 14:50:21 - Carregar dados Leirilis - Início
+2025-09-10 14:50:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:50:21 - Carregar dados Portal - Início
+2025-09-10 14:50:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:50:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:50:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:50:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:50:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:50:25 - Procurar diferenças - Início
+2025-09-10 14:50:30 - Procurar diferenças - Fim (0)
+2025-09-10 14:50:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:50:30 - Processo finalizado.
+2025-09-10 14:55:20 - ***************************************************************
+2025-09-10 14:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 14:55:20 - Carregar dados Leirilis - Início
+2025-09-10 14:55:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 14:55:21 - Carregar dados Portal - Início
+2025-09-10 14:55:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 14:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 14:55:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 14:55:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 14:55:25 - Sincroniza Leirilis->Portal
+2025-09-10 14:55:25 - Procurar diferenças - Início
+2025-09-10 14:55:28 - Procurar diferenças - Fim (0)
+2025-09-10 14:55:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 14:55:28 - Processo finalizado.
+2025-09-10 15:00:24 - ***************************************************************
+2025-09-10 15:00:24 - Sincroniza Portal->Leirilis
+2025-09-10 15:00:24 - Carregar dados Leirilis - Início
+2025-09-10 15:00:24 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:00:24 - Carregar dados Portal - Início
+2025-09-10 15:00:25 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:00:25 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:00:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:00:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:00:28 - Sincroniza Leirilis->Portal
+2025-09-10 15:00:28 - Procurar diferenças - Início
+2025-09-10 15:00:31 - Procurar diferenças - Fim (0)
+2025-09-10 15:00:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:00:31 - Processo finalizado.
+2025-09-10 15:05:26 - ***************************************************************
+2025-09-10 15:05:26 - Sincroniza Portal->Leirilis
+2025-09-10 15:05:26 - Carregar dados Leirilis - Início
+2025-09-10 15:05:27 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:05:27 - Carregar dados Portal - Início
+2025-09-10 15:05:27 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:05:27 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:05:30 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:05:30 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:05:30 - Sincroniza Leirilis->Portal
+2025-09-10 15:05:30 - Procurar diferenças - Início
+2025-09-10 15:05:32 - Procurar diferenças - Fim (0)
+2025-09-10 15:05:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:05:32 - Processo finalizado.
+2025-09-10 15:10:21 - ***************************************************************
+2025-09-10 15:10:21 - Sincroniza Portal->Leirilis
+2025-09-10 15:10:21 - Carregar dados Leirilis - Início
+2025-09-10 15:10:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:10:21 - Carregar dados Portal - Início
+2025-09-10 15:10:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:10:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:10:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:10:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:10:26 - Sincroniza Leirilis->Portal
+2025-09-10 15:10:26 - Procurar diferenças - Início
+2025-09-10 15:10:31 - Procurar diferenças - Fim (0)
+2025-09-10 15:10:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:10:31 - Processo finalizado.
+2025-09-10 15:15:20 - ***************************************************************
+2025-09-10 15:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:15:20 - Carregar dados Leirilis - Início
+2025-09-10 15:15:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:15:21 - Carregar dados Portal - Início
+2025-09-10 15:15:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:15:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:15:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:15:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:15:24 - Sincroniza Leirilis->Portal
+2025-09-10 15:15:24 - Procurar diferenças - Início
+2025-09-10 15:15:29 - Procurar diferenças - Fim (0)
+2025-09-10 15:15:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:15:29 - Processo finalizado.
+2025-09-10 15:20:20 - ***************************************************************
+2025-09-10 15:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:20:20 - Carregar dados Leirilis - Início
+2025-09-10 15:20:20 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:20:20 - Carregar dados Portal - Início
+2025-09-10 15:20:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:20:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:20:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:20:25 - Sincroniza Leirilis->Portal
+2025-09-10 15:20:25 - Procurar diferenças - Início
+2025-09-10 15:20:30 - Procurar diferenças - Fim (0)
+2025-09-10 15:20:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:20:30 - Processo finalizado.
+2025-09-10 15:25:20 - ***************************************************************
+2025-09-10 15:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:25:20 - Carregar dados Leirilis - Início
+2025-09-10 15:25:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:25:21 - Carregar dados Portal - Início
+2025-09-10 15:25:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:25:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:25:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:25:26 - Sincroniza Leirilis->Portal
+2025-09-10 15:25:26 - Procurar diferenças - Início
+2025-09-10 15:25:30 - Procurar diferenças - Fim (0)
+2025-09-10 15:25:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:25:30 - Processo finalizado.
+2025-09-10 15:30:21 - ***************************************************************
+2025-09-10 15:30:21 - Sincroniza Portal->Leirilis
+2025-09-10 15:30:21 - Carregar dados Leirilis - Início
+2025-09-10 15:30:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:30:21 - Carregar dados Portal - Início
+2025-09-10 15:30:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:30:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:30:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:30:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:30:25 - Sincroniza Leirilis->Portal
+2025-09-10 15:30:25 - Procurar diferenças - Início
+2025-09-10 15:30:29 - Procurar diferenças - Fim (0)
+2025-09-10 15:30:29 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:30:29 - Processo finalizado.
+2025-09-10 15:35:20 - ***************************************************************
+2025-09-10 15:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:35:20 - Carregar dados Leirilis - Início
+2025-09-10 15:35:20 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:35:20 - Carregar dados Portal - Início
+2025-09-10 15:35:20 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:35:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:35:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:35:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:35:25 - Sincroniza Leirilis->Portal
+2025-09-10 15:35:25 - Procurar diferenças - Início
+2025-09-10 15:35:30 - Procurar diferenças - Fim (0)
+2025-09-10 15:35:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:35:30 - Processo finalizado.
+2025-09-10 15:40:20 - ***************************************************************
+2025-09-10 15:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:40:20 - Carregar dados Leirilis - Início
+2025-09-10 15:40:20 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:40:20 - Carregar dados Portal - Início
+2025-09-10 15:40:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:40:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:40:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:40:26 - Sincroniza Leirilis->Portal
+2025-09-10 15:40:26 - Procurar diferenças - Início
+2025-09-10 15:40:31 - Procurar diferenças - Fim (0)
+2025-09-10 15:40:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:40:31 - Processo finalizado.
+2025-09-10 15:45:20 - ***************************************************************
+2025-09-10 15:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:45:20 - Carregar dados Leirilis - Início
+2025-09-10 15:45:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:45:21 - Carregar dados Portal - Início
+2025-09-10 15:45:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:45:27 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:45:27 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:45:27 - Sincroniza Leirilis->Portal
+2025-09-10 15:45:27 - Procurar diferenças - Início
+2025-09-10 15:45:34 - Procurar diferenças - Fim (0)
+2025-09-10 15:45:34 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:45:34 - Processo finalizado.
+2025-09-10 15:50:20 - ***************************************************************
+2025-09-10 15:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:50:20 - Carregar dados Leirilis - Início
+2025-09-10 15:50:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:50:21 - Carregar dados Portal - Início
+2025-09-10 15:50:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:50:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:50:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:50:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:50:26 - Sincroniza Leirilis->Portal
+2025-09-10 15:50:26 - Procurar diferenças - Início
+2025-09-10 15:50:31 - Procurar diferenças - Fim (0)
+2025-09-10 15:50:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:50:31 - Processo finalizado.
+2025-09-10 15:55:20 - ***************************************************************
+2025-09-10 15:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 15:55:20 - Carregar dados Leirilis - Início
+2025-09-10 15:55:21 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 15:55:21 - Carregar dados Portal - Início
+2025-09-10 15:55:21 - Carregar dados Portal - Fim (7869)
+2025-09-10 15:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 15:55:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 15:55:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 15:55:26 - Sincroniza Leirilis->Portal
+2025-09-10 15:55:26 - Procurar diferenças - Início
+2025-09-10 15:55:32 - Procurar diferenças - Fim (0)
+2025-09-10 15:55:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 15:55:32 - Processo finalizado.
+2025-09-10 16:00:25 - ***************************************************************
+2025-09-10 16:00:25 - Sincroniza Portal->Leirilis
+2025-09-10 16:00:25 - Carregar dados Leirilis - Início
+2025-09-10 16:00:26 - Carregar dados Leirilis - Fim (7869)
+2025-09-10 16:00:26 - Carregar dados Portal - Início
+2025-09-10 16:00:26 - Carregar dados Portal - Fim (7869)
+2025-09-10 16:00:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:00:32 - Procurar diferenças Portal/Leirilis - Fim (3)
+2025-09-10 16:00:32 - 1 . Deletado 2 - 1457433575(4.000000)
+2025-09-10 16:00:32 - 2 . Deletado 2 - F026400171(3.000000)
+2025-09-10 16:00:32 - 3 . Deletado 2 - F026400374(5.000000)
+2025-09-10 16:00:32 - Portal/Leirilis Atualizado.
+2025-09-10 16:00:32 - Sincroniza Leirilis->Portal
+2025-09-10 16:00:32 - Procurar diferenças - Início
+2025-09-10 16:00:37 - Procurar diferenças - Fim (3)
+2025-09-10 16:00:37 - 1 . Inserido 2 - 1457433575(2.000000)
+2025-09-10 16:00:37 - 2 . Inserido 2 - F026400171(2.000000)
+2025-09-10 16:00:37 - 3 . Inserido 2 - F026400374(3.000000)
+2025-09-10 16:00:37 - Leirilis/Portal Atualizado.
+2025-09-10 16:00:37 - Processo finalizado.
+2025-09-10 16:05:22 - ***************************************************************
+2025-09-10 16:05:22 - Sincroniza Portal->Leirilis
+2025-09-10 16:05:22 - Carregar dados Leirilis - Início
+2025-09-10 16:05:22 - Carregar dados Leirilis - Fim (7864)
+2025-09-10 16:05:22 - Carregar dados Portal - Início
+2025-09-10 16:05:22 - Carregar dados Portal - Fim (7869)
+2025-09-10 16:05:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:05:28 - Procurar diferenças Portal/Leirilis - Fim (7)
+2025-09-10 16:05:28 - 1 . Deletado 2 - S13 30936006(1.000000)
+2025-09-10 16:05:28 - 2 . Deletado 2 - S13 33109138(1.000000)
+2025-09-10 16:05:28 - 3 . Deletado 2 - S13 40919508(2.000000)
+2025-09-10 16:05:28 - 4 . Deletado 2 - L11 3500101(1.000000)
+2025-09-10 16:05:28 - 5 . Deletado 2 - S13 32919386(1.000000)
+2025-09-10 16:05:28 - 6 . Deletado 2 - L11 3821301(2.000000)
+2025-09-10 16:05:28 - 7 . Deletado 2 - S13 11931784(2.000000)
+2025-09-10 16:05:28 - Portal/Leirilis Atualizado.
+2025-09-10 16:05:28 - Sincroniza Leirilis->Portal
+2025-09-10 16:05:28 - Procurar diferenças - Início
+2025-09-10 16:05:34 - Procurar diferenças - Fim (2)
+2025-09-10 16:05:34 - 1 . Inserido 2 - L11 3821301(1.000000)
+2025-09-10 16:05:34 - 2 . Inserido 2 - S13 11931784(1.000000)
+2025-09-10 16:05:34 - Leirilis/Portal Atualizado.
+2025-09-10 16:05:34 - Processo finalizado.
+2025-09-10 16:10:21 - ***************************************************************
+2025-09-10 16:10:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:10:21 - Carregar dados Leirilis - Início
+2025-09-10 16:10:21 - Carregar dados Leirilis - Fim (7864)
+2025-09-10 16:10:21 - Carregar dados Portal - Início
+2025-09-10 16:10:21 - Carregar dados Portal - Fim (7864)
+2025-09-10 16:10:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:10:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 16:10:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 16:10:26 - Sincroniza Leirilis->Portal
+2025-09-10 16:10:26 - Procurar diferenças - Início
+2025-09-10 16:10:31 - Procurar diferenças - Fim (0)
+2025-09-10 16:10:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:10:31 - Processo finalizado.
+2025-09-10 16:15:21 - ***************************************************************
+2025-09-10 16:15:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:15:21 - Carregar dados Leirilis - Início
+2025-09-10 16:15:22 - Carregar dados Leirilis - Fim (7864)
+2025-09-10 16:15:22 - Carregar dados Portal - Início
+2025-09-10 16:15:22 - Carregar dados Portal - Fim (7864)
+2025-09-10 16:15:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:15:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 16:15:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 16:15:28 - Sincroniza Leirilis->Portal
+2025-09-10 16:15:28 - Procurar diferenças - Início
+2025-09-10 16:15:33 - Procurar diferenças - Fim (0)
+2025-09-10 16:15:33 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:15:33 - Processo finalizado.
+2025-09-10 16:20:21 - ***************************************************************
+2025-09-10 16:20:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:20:21 - Carregar dados Leirilis - Início
+2025-09-10 16:20:21 - Carregar dados Leirilis - Fim (7842)
+2025-09-10 16:20:21 - Carregar dados Portal - Início
+2025-09-10 16:20:21 - Carregar dados Portal - Fim (7864)
+2025-09-10 16:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:20:27 - Procurar diferenças Portal/Leirilis - Fim (23)
+2025-09-10 16:20:27 - 1 . Deletado 3 - 0258017025(2.000000)
+2025-09-10 16:20:27 - 2 . Deletado 3 - 0258986501(1.000000)
+2025-09-10 16:20:27 - 3 . Deletado 3 - 0332209211(2.000000)
+2025-09-10 16:20:27 - 4 . Deletado 3 - 1987302105(2.000000)
+2025-09-10 16:20:28 - 5 . Deletado 3 - 1987302235(10.000000)
+2025-09-10 16:20:28 - 6 . Deletado 3 - 1987302512(40.000000)
+2025-09-10 16:20:28 - 7 . Deletado 3 - 1987302520(10.000000)
+2025-09-10 16:20:28 - 8 . Deletado 3 - 1987302524(50.000000)
+2025-09-10 16:20:28 - 9 . Deletado 3 - 1987470040(1.000000)
+2025-09-10 16:20:28 - 10 . Deletado 3 - 1987945742(1.000000)
+2025-09-10 16:20:28 - 11 . Deletado 3 - 1987946022(2.000000)
+2025-09-10 16:20:28 - 12 . Deletado 3 - 1987946063(5.000000)
+2025-09-10 16:20:28 - 13 . Deletado 3 - 1987946077(5.000000)
+2025-09-10 16:20:28 - 14 . Deletado 3 - 1987946238(1.000000)
+2025-09-10 16:20:28 - 15 . Deletado 3 - 1987946326(1.000000)
+2025-09-10 16:20:28 - 16 . Deletado 3 - 1987946340(1.000000)
+2025-09-10 16:20:28 - 17 . Deletado 3 - 1987946431(1.000000)
+2025-09-10 16:20:28 - 18 . Deletado 3 - 1987946468(1.000000)
+2025-09-10 16:20:28 - 19 . Deletado 3 - 1987946928(1.000000)
+2025-09-10 16:20:28 - 20 . Deletado 3 - 1987946982(1.000000)
+2025-09-10 16:20:28 - 21 . Deletado 3 - 1987948189(1.000000)
+2025-09-10 16:20:28 - 22 . Deletado 3 - 1987948253(1.000000)
+2025-09-10 16:20:28 - 23 . Deletado 3 - 1987948498(1.000000)
+2025-09-10 16:20:28 - Portal/Leirilis Atualizado.
+2025-09-10 16:20:28 - Sincroniza Leirilis->Portal
+2025-09-10 16:20:28 - Procurar diferenças - Início
+2025-09-10 16:20:34 - Procurar diferenças - Fim (1)
+2025-09-10 16:20:34 - 1 . Inserido 3 - 1987302512(10.000000)
+2025-09-10 16:20:34 - Leirilis/Portal Atualizado.
+2025-09-10 16:20:34 - Processo finalizado.
+2025-09-10 16:25:21 - ***************************************************************
+2025-09-10 16:25:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:25:21 - Carregar dados Leirilis - Início
+2025-09-10 16:25:21 - Carregar dados Leirilis - Fim (7842)
+2025-09-10 16:25:21 - Carregar dados Portal - Início
+2025-09-10 16:25:21 - Carregar dados Portal - Fim (7842)
+2025-09-10 16:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:25:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 16:25:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 16:25:26 - Sincroniza Leirilis->Portal
+2025-09-10 16:25:26 - Procurar diferenças - Início
+2025-09-10 16:25:32 - Procurar diferenças - Fim (0)
+2025-09-10 16:25:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:25:32 - Processo finalizado.
+2025-09-10 16:30:32 - ***************************************************************
+2025-09-10 16:30:32 - Sincroniza Portal->Leirilis
+2025-09-10 16:30:32 - Carregar dados Leirilis - Início
+2025-09-10 16:30:32 - Carregar dados Leirilis - Fim (7842)
+2025-09-10 16:30:32 - Carregar dados Portal - Início
+2025-09-10 16:30:33 - Carregar dados Portal - Fim (7842)
+2025-09-10 16:30:33 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:30:38 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 16:30:38 - Nenhuma diferença encontrada no Portal.
+2025-09-10 16:30:38 - Sincroniza Leirilis->Portal
+2025-09-10 16:30:38 - Procurar diferenças - Início
+2025-09-10 16:30:44 - Procurar diferenças - Fim (0)
+2025-09-10 16:30:44 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:30:44 - Processo finalizado.
+2025-09-10 16:35:20 - ***************************************************************
+2025-09-10 16:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 16:35:20 - Carregar dados Leirilis - Início
+2025-09-10 16:35:21 - Carregar dados Leirilis - Fim (7774)
+2025-09-10 16:35:21 - Carregar dados Portal - Início
+2025-09-10 16:35:21 - Carregar dados Portal - Fim (7842)
+2025-09-10 16:35:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:35:26 - Procurar diferenças Portal/Leirilis - Fim (73)
+2025-09-10 16:35:26 - 1 . Deletado 2 - 0450905926(1.000000)
+2025-09-10 16:35:26 - 2 . Deletado 2 - 0986494403(1.000000)
+2025-09-10 16:35:26 - 3 . Deletado 4 - S13 10107466(2.000000)
+2025-09-10 16:35:26 - 4 . Deletado 4 - S13 10916094(1.000000)
+2025-09-10 16:35:26 - 5 . Deletado 4 - S13 10916870(1.000000)
+2025-09-10 16:35:26 - 6 . Deletado 4 - S13 10930552(2.000000)
+2025-09-10 16:35:26 - 7 . Deletado 4 - S13 10938807(1.000000)
+2025-09-10 16:35:26 - 8 . Deletado 4 - S13 20106265(1.000000)
+2025-09-10 16:35:26 - 9 . Deletado 4 - S13 20916863(1.000000)
+2025-09-10 16:35:26 - 10 . Deletado 4 - S13 20916910(1.000000)
+2025-09-10 16:35:26 - 11 . Deletado 4 - S13 20918535(2.000000)
+2025-09-10 16:35:26 - 12 . Deletado 4 - S13 20924471(2.000000)
+2025-09-10 16:35:26 - 13 . Deletado 4 - S13 20930541(2.000000)
+2025-09-10 16:35:26 - 14 . Deletado 4 - S13 20933552(1.000000)
+2025-09-10 16:35:26 - 15 . Deletado 4 - S13 20939138(2.000000)
+2025-09-10 16:35:26 - 16 . Deletado 4 - S13 20939925(1.000000)
+2025-09-10 16:35:26 - 17 . Deletado 4 - S13 22116113(1.000000)
+2025-09-10 16:35:26 - 18 . Deletado 4 - S13 30104496(2.000000)
+2025-09-10 16:35:26 - 19 . Deletado 4 - S13 30104507(2.000000)
+2025-09-10 16:35:26 - 20 . Deletado 4 - S13 30106129(1.000000)
+2025-09-10 16:35:26 - 21 . Deletado 4 - S13 30130031(1.000000)
+2025-09-10 16:35:27 - 22 . Deletado 4 - S13 30560025(2.000000)
+2025-09-10 16:35:27 - 23 . Deletado 4 - S13 30916488(1.000000)
+2025-09-10 16:35:27 - 24 . Deletado 4 - S13 30916860(1.000000)
+2025-09-10 16:35:27 - 25 . Deletado 4 - S13 30928673(2.000000)
+2025-09-10 16:35:27 - 26 . Deletado 4 - S13 30931978(1.000000)
+2025-09-10 16:35:27 - 27 . Deletado 4 - S13 30936348(1.000000)
+2025-09-10 16:35:27 - 28 . Deletado 4 - S13 30937687(1.000000)
+2025-09-10 16:35:27 - 29 . Deletado 4 - S13 33100185(1.000000)
+2025-09-10 16:35:27 - 30 . Deletado 4 - S13 33100272(1.000000)
+2025-09-10 16:35:27 - 31 . Deletado 4 - S13 33100984(1.000000)
+2025-09-10 16:35:27 - 32 . Deletado 4 - S13 33102649(1.000000)
+2025-09-10 16:35:27 - 33 . Deletado 4 - S13 33108306(1.000000)
+2025-09-10 16:35:27 - 34 . Deletado 4 - S13 40103032(1.000000)
+2025-09-10 16:35:27 - 35 . Deletado 4 - S13 40916030(1.000000)
+2025-09-10 16:35:27 - 36 . Deletado 4 - S13 40916492(1.000000)
+2025-09-10 16:35:27 - 37 . Deletado 4 - S13 40924615(2.000000)
+2025-09-10 16:35:27 - 38 . Deletado 4 - S13 40926328(1.000000)
+2025-09-10 16:35:27 - 39 . Deletado 4 - S13 40928116(1.000000)
+2025-09-10 16:35:27 - 40 . Deletado 4 - S13 40938228(1.000000)
+2025-09-10 16:35:27 - 41 . Deletado 4 - S13 50916279(1.000000)
+2025-09-10 16:35:27 - 42 . Deletado 4 - S13 50916820(1.000000)
+2025-09-10 16:35:27 - 43 . Deletado 4 - S13 50924566(2.000000)
+2025-09-10 16:35:27 - 44 . Deletado 4 - S13 60550002(1.000000)
+2025-09-10 16:35:27 - 45 . Deletado 4 - S13 60909071(2.000000)
+2025-09-10 16:35:27 - 46 . Deletado 4 - S13 60909073(2.000000)
+2025-09-10 16:35:27 - 47 . Deletado 4 - S13 60916523(1.000000)
+2025-09-10 16:35:27 - 48 . Deletado 4 - S13 60934457(1.000000)
+2025-09-10 16:35:27 - 49 . Deletado 4 - S13 60948627(1.000000)
+2025-09-10 16:35:27 - 50 . Deletado 4 - S13 62105715(2.000000)
+2025-09-10 16:35:27 - 51 . Deletado 4 - S13 62106066(1.000000)
+2025-09-10 16:35:28 - 52 . Deletado 4 - S13 62560002(1.000000)
+2025-09-10 16:35:28 - 53 . Deletado 4 - S13 62916237(1.000000)
+2025-09-10 16:35:28 - 54 . Deletado 4 - S13 62916575(1.000000)
+2025-09-10 16:35:28 - 55 . Deletado 4 - S13 62916830(1.000000)
+2025-09-10 16:35:28 - 56 . Deletado 4 - S13 62916831(1.000000)
+2025-09-10 16:35:28 - 57 . Deletado 4 - S13 62917822(2.000000)
+2025-09-10 16:35:28 - 58 . Deletado 4 - S13 62917911(1.000000)
+2025-09-10 16:35:28 - 59 . Deletado 4 - S13 62921121(2.000000)
+2025-09-10 16:35:28 - 60 . Deletado 4 - S13 64130014(1.000000)
+2025-09-10 16:35:28 - 61 . Deletado 4 - S13 64916957(1.000000)
+2025-09-10 16:35:28 - 62 . Deletado 4 - S13 70928178(2.000000)
+2025-09-10 16:35:28 - 63 . Deletado 4 - S13 70936611(1.000000)
+2025-09-10 16:35:28 - 64 . Deletado 4 - S13 70936864(2.000000)
+2025-09-10 16:35:28 - 65 . Deletado 4 - S13 70938391(1.000000)
+2025-09-10 16:35:28 - 66 . Deletado 4 - S13 70943902(2.000000)
+2025-09-10 16:35:28 - 67 . Deletado 4 - S13 72116104(1.000000)
+2025-09-10 16:35:28 - 68 . Deletado 4 - S13 80928437(2.000000)
+2025-09-10 16:35:28 - 69 . Deletado 4 - S13 99906129(1.000000)
+2025-09-10 16:35:28 - 70 . Deletado 4 - S13 99908367(2.000000)
+2025-09-10 16:35:28 - 71 . Deletado 2 - P08 AH186(1.000000)
+2025-09-10 16:35:28 - 72 . Deletado 2 - S13 60103189(1.000000)
+2025-09-10 16:35:28 - 73 . Deletado 2 - S13 99901089(12.000000)
+2025-09-10 16:35:28 - Portal/Leirilis Atualizado.
+2025-09-10 16:35:28 - Sincroniza Leirilis->Portal
+2025-09-10 16:35:28 - Procurar diferenças - Início
+2025-09-10 16:35:34 - Procurar diferenças - Fim (5)
+2025-09-10 16:35:34 - 1 . Inserido 2 - S13 99901089(10.000000)
+2025-09-10 16:35:34 - 2 . Inserido 4 - S13 20939138(1.000000)
+2025-09-10 16:35:34 - 3 . Inserido 4 - S13 30928673(1.000000)
+2025-09-10 16:35:34 - 4 . Inserido 4 - S13 40924615(1.000000)
+2025-09-10 16:35:34 - 5 . Inserido 4 - S13 99908367(1.000000)
+2025-09-10 16:35:34 - Leirilis/Portal Atualizado.
+2025-09-10 16:35:34 - Processo finalizado.
+2025-09-10 16:40:21 - ***************************************************************
+2025-09-10 16:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:40:21 - Carregar dados Leirilis - Início
+2025-09-10 16:40:21 - Carregar dados Leirilis - Fim (7767)
+2025-09-10 16:40:21 - Carregar dados Portal - Início
+2025-09-10 16:40:21 - Carregar dados Portal - Fim (7774)
+2025-09-10 16:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:40:26 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 16:40:26 - 1 . Deletado 2 - 0450907006(1.000000)
+2025-09-10 16:40:26 - 2 . Deletado 2 - 0580464087(1.000000)
+2025-09-10 16:40:26 - 3 . Deletado 2 - P08 FCS770(4.000000)
+2025-09-10 16:40:26 - 4 . Deletado 2 - LE GDB1478(3.000000)
+2025-09-10 16:40:26 - 5 . Deletado 2 - 1987432220(1.000000)
+2025-09-10 16:40:26 - 6 . Deletado 2 - 3397007538(1.000000)
+2025-09-10 16:40:26 - 7 . Deletado 2 - 3397008938(8.000000)
+2025-09-10 16:40:26 - 8 . Deletado 2 - 3397118984(3.000000)
+2025-09-10 16:40:26 - 9 . Deletado 2 - D06 KTC1002(1.000000)
+2025-09-10 16:40:26 - 10 . Deletado 2 - F026400342(1.000000)
+2025-09-10 16:40:26 - Portal/Leirilis Atualizado.
+2025-09-10 16:40:26 - Sincroniza Leirilis->Portal
+2025-09-10 16:40:26 - Procurar diferenças - Início
+2025-09-10 16:40:31 - Procurar diferenças - Fim (3)
+2025-09-10 16:40:31 - 1 . Inserido 2 - 3397008938(3.000000)
+2025-09-10 16:40:31 - 2 . Inserido 2 - 3397118984(1.000000)
+2025-09-10 16:40:31 - 3 . Inserido 2 - P08 FCS770(1.000000)
+2025-09-10 16:40:31 - Leirilis/Portal Atualizado.
+2025-09-10 16:40:31 - Processo finalizado.
+2025-09-10 16:45:21 - ***************************************************************
+2025-09-10 16:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 16:45:21 - Carregar dados Leirilis - Início
+2025-09-10 16:45:21 - Carregar dados Leirilis - Fim (7766)
+2025-09-10 16:45:21 - Carregar dados Portal - Início
+2025-09-10 16:45:21 - Carregar dados Portal - Fim (7767)
+2025-09-10 16:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:45:26 - Procurar diferenças Portal/Leirilis - Fim (2)
+2025-09-10 16:45:26 - 1 . Deletado 2 - 3397011391(16.000000)
+2025-09-10 16:45:26 - 2 . Deletado 2 - B07 ADBP230026(1.000000)
+2025-09-10 16:45:26 - Portal/Leirilis Atualizado.
+2025-09-10 16:45:26 - Sincroniza Leirilis->Portal
+2025-09-10 16:45:26 - Procurar diferenças - Início
+2025-09-10 16:45:32 - Procurar diferenças - Fim (1)
+2025-09-10 16:45:32 - 1 . Inserido 2 - 3397011391(8.000000)
+2025-09-10 16:45:32 - Leirilis/Portal Atualizado.
+2025-09-10 16:45:32 - Processo finalizado.
+2025-09-10 16:50:22 - ***************************************************************
+2025-09-10 16:50:22 - Sincroniza Portal->Leirilis
+2025-09-10 16:50:22 - Carregar dados Leirilis - Início
+2025-09-10 16:50:22 - Carregar dados Leirilis - Fim (7759)
+2025-09-10 16:50:22 - Carregar dados Portal - Início
+2025-09-10 16:50:22 - Carregar dados Portal - Fim (7766)
+2025-09-10 16:50:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:50:27 - Procurar diferenças Portal/Leirilis - Fim (7)
+2025-09-10 16:50:27 - 1 . Deletado 3 - B07 ADBP420074(2.000000)
+2025-09-10 16:50:27 - 2 . Deletado 3 - B07 ADF124210(3.000000)
+2025-09-10 16:50:27 - 3 . Deletado 3 - LE GDB1495(1.000000)
+2025-09-10 16:50:27 - 4 . Deletado 3 - LE GDB1500(1.000000)
+2025-09-10 16:50:27 - 5 . Deletado 3 - LE GDB1583(1.000000)
+2025-09-10 16:50:27 - 6 . Deletado 3 - LE GDB1957(1.000000)
+2025-09-10 16:50:27 - 7 . Deletado 3 - LE GDB2042(1.000000)
+2025-09-10 16:50:27 - Portal/Leirilis Atualizado.
+2025-09-10 16:50:27 - Sincroniza Leirilis->Portal
+2025-09-10 16:50:27 - Procurar diferenças - Início
+2025-09-10 16:50:32 - Procurar diferenças - Fim (0)
+2025-09-10 16:50:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:50:32 - Processo finalizado.
+2025-09-10 16:55:20 - ***************************************************************
+2025-09-10 16:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 16:55:20 - Carregar dados Leirilis - Início
+2025-09-10 16:55:21 - Carregar dados Leirilis - Fim (7759)
+2025-09-10 16:55:21 - Carregar dados Portal - Início
+2025-09-10 16:55:21 - Carregar dados Portal - Fim (7759)
+2025-09-10 16:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 16:55:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 16:55:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 16:55:25 - Sincroniza Leirilis->Portal
+2025-09-10 16:55:25 - Procurar diferenças - Início
+2025-09-10 16:55:30 - Procurar diferenças - Fim (0)
+2025-09-10 16:55:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 16:55:30 - Processo finalizado.
+2025-09-10 17:00:22 - ***************************************************************
+2025-09-10 17:00:22 - Sincroniza Portal->Leirilis
+2025-09-10 17:00:22 - Carregar dados Leirilis - Início
+2025-09-10 17:00:22 - Carregar dados Leirilis - Fim (7759)
+2025-09-10 17:00:22 - Carregar dados Portal - Início
+2025-09-10 17:00:22 - Carregar dados Portal - Fim (7759)
+2025-09-10 17:00:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:00:29 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 17:00:29 - Nenhuma diferença encontrada no Portal.
+2025-09-10 17:00:29 - Sincroniza Leirilis->Portal
+2025-09-10 17:00:29 - Procurar diferenças - Início
+2025-09-10 17:00:35 - Procurar diferenças - Fim (0)
+2025-09-10 17:00:35 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:00:35 - Processo finalizado.
+2025-09-10 17:05:31 - ***************************************************************
+2025-09-10 17:05:31 - Sincroniza Portal->Leirilis
+2025-09-10 17:05:31 - Carregar dados Leirilis - Início
+2025-09-10 17:05:31 - Carregar dados Leirilis - Fim (7757)
+2025-09-10 17:05:31 - Carregar dados Portal - Início
+2025-09-10 17:05:32 - Carregar dados Portal - Fim (7759)
+2025-09-10 17:05:32 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:05:38 - Procurar diferenças Portal/Leirilis - Fim (3)
+2025-09-10 17:05:38 - 1 . Deletado 2 - 0450905326(1.000000)
+2025-09-10 17:05:38 - 2 . Deletado 2 - P08 AH282(2.000000)
+2025-09-10 17:05:38 - 3 . Deletado 2 - SX 560287(2.000000)
+2025-09-10 17:05:38 - Portal/Leirilis Atualizado.
+2025-09-10 17:05:38 - Sincroniza Leirilis->Portal
+2025-09-10 17:05:38 - Procurar diferenças - Início
+2025-09-10 17:05:44 - Procurar diferenças - Fim (1)
+2025-09-10 17:05:44 - 1 . Inserido 2 - P08 AH282(1.000000)
+2025-09-10 17:05:44 - Leirilis/Portal Atualizado.
+2025-09-10 17:05:44 - Processo finalizado.
+2025-09-10 17:10:24 - ***************************************************************
+2025-09-10 17:10:24 - Sincroniza Portal->Leirilis
+2025-09-10 17:10:24 - Carregar dados Leirilis - Início
+2025-09-10 17:10:24 - Carregar dados Leirilis - Fim (7753)
+2025-09-10 17:10:24 - Carregar dados Portal - Início
+2025-09-10 17:10:24 - Carregar dados Portal - Fim (7757)
+2025-09-10 17:10:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:10:30 - Procurar diferenças Portal/Leirilis - Fim (7)
+2025-09-10 17:10:30 - 1 . Deletado 2 - P08 A1177(1.000000)
+2025-09-10 17:10:30 - 2 . Deletado 2 - 0986478868(2.000000)
+2025-09-10 17:10:30 - 3 . Deletado 2 - 1987302251(30.000000)
+2025-09-10 17:10:30 - 4 . Deletado 2 - LE GS8756(1.000000)
+2025-09-10 17:10:30 - 5 . Deletado 2 - P08 A1268(1.000000)
+2025-09-10 17:10:30 - 6 . Deletado 2 - P08 A1314(3.000000)
+2025-09-10 17:10:30 - 7 . Deletado 2 - P08 CS762(2.000000)
+2025-09-10 17:10:30 - Portal/Leirilis Atualizado.
+2025-09-10 17:10:30 - Sincroniza Leirilis->Portal
+2025-09-10 17:10:30 - Procurar diferenças - Início
+2025-09-10 17:10:37 - Procurar diferenças - Fim (3)
+2025-09-10 17:10:37 - 1 . Inserido 2 - 1987302251(29.000000)
+2025-09-10 17:10:37 - 2 . Inserido 2 - P08 A1314(2.000000)
+2025-09-10 17:10:37 - 3 . Inserido 2 - P08 CS762(1.000000)
+2025-09-10 17:10:37 - Leirilis/Portal Atualizado.
+2025-09-10 17:10:37 - Processo finalizado.
+2025-09-10 17:15:21 - ***************************************************************
+2025-09-10 17:15:21 - Sincroniza Portal->Leirilis
+2025-09-10 17:15:21 - Carregar dados Leirilis - Início
+2025-09-10 17:15:21 - Carregar dados Leirilis - Fim (7749)
+2025-09-10 17:15:21 - Carregar dados Portal - Início
+2025-09-10 17:15:21 - Carregar dados Portal - Fim (7753)
+2025-09-10 17:15:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:15:27 - Procurar diferenças Portal/Leirilis - Fim (6)
+2025-09-10 17:15:27 - 1 . Deletado 2 - 0986479A93(2.000000)
+2025-09-10 17:15:27 - 2 . Deletado 2 - 1987302207(20.000000)
+2025-09-10 17:15:27 - 3 . Deletado 2 - F026402204(6.000000)
+2025-09-10 17:15:27 - 4 . Deletado 2 - LE GDB2169(1.000000)
+2025-09-10 17:15:27 - 5 . Deletado 2 - P08 LS225(1.000000)
+2025-09-10 17:15:27 - 6 . Deletado 2 - S05 VKDY323045(1.000000)
+2025-09-10 17:15:27 - Portal/Leirilis Atualizado.
+2025-09-10 17:15:27 - Sincroniza Leirilis->Portal
+2025-09-10 17:15:27 - Procurar diferenças - Início
+2025-09-10 17:15:34 - Procurar diferenças - Fim (2)
+2025-09-10 17:15:34 - 1 . Inserido 2 - 1987302207(16.000000)
+2025-09-10 17:15:34 - 2 . Inserido 2 - F026402204(4.000000)
+2025-09-10 17:15:34 - Leirilis/Portal Atualizado.
+2025-09-10 17:15:34 - Processo finalizado.
+2025-09-10 17:20:22 - ***************************************************************
+2025-09-10 17:20:22 - Sincroniza Portal->Leirilis
+2025-09-10 17:20:22 - Carregar dados Leirilis - Início
+2025-09-10 17:20:22 - Carregar dados Leirilis - Fim (7725)
+2025-09-10 17:20:22 - Carregar dados Portal - Início
+2025-09-10 17:20:22 - Carregar dados Portal - Fim (7749)
+2025-09-10 17:20:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:20:28 - Procurar diferenças Portal/Leirilis - Fim (24)
+2025-09-10 17:20:28 - 1 . Deletado 4 - S13 10107223(2.000000)
+2025-09-10 17:20:28 - 2 . Deletado 4 - S13 10107224(2.000000)
+2025-09-10 17:20:28 - 3 . Deletado 4 - S13 10107501(2.000000)
+2025-09-10 17:20:28 - 4 . Deletado 4 - S13 10936124(1.000000)
+2025-09-10 17:20:28 - 5 . Deletado 4 - S13 11104102(2.000000)
+2025-09-10 17:20:28 - 6 . Deletado 4 - S13 20927061(1.000000)
+2025-09-10 17:20:28 - 7 . Deletado 4 - S13 30130071(1.000000)
+2025-09-10 17:20:28 - 8 . Deletado 4 - S13 30937400(8.000000)
+2025-09-10 17:20:28 - 9 . Deletado 4 - S13 30939095(12.000000)
+2025-09-10 17:20:28 - 10 . Deletado 4 - S13 30944201(1.000000)
+2025-09-10 17:20:28 - 11 . Deletado 4 - S13 33102501(2.000000)
+2025-09-10 17:20:28 - 12 . Deletado 4 - S13 33102886(1.000000)
+2025-09-10 17:20:28 - 13 . Deletado 4 - S13 40917210(2.000000)
+2025-09-10 17:20:28 - 14 . Deletado 4 - S13 40917310(2.000000)
+2025-09-10 17:20:28 - 15 . Deletado 4 - S13 42916942(1.000000)
+2025-09-10 17:20:28 - 16 . Deletado 4 - S13 60922698(2.000000)
+2025-09-10 17:20:28 - 17 . Deletado 4 - S13 60924157(1.000000)
+2025-09-10 17:20:28 - 18 . Deletado 4 - S13 60938307(2.000000)
+2025-09-10 17:20:28 - 19 . Deletado 4 - S13 62921966(2.000000)
+2025-09-10 17:20:29 - 20 . Deletado 4 - S13 62926924(1.000000)
+2025-09-10 17:20:29 - 21 . Deletado 4 - S13 62944090(2.000000)
+2025-09-10 17:20:29 - 22 . Deletado 4 - S13 70916876(1.000000)
+2025-09-10 17:20:29 - 23 . Deletado 4 - S13 74914075(2.000000)
+2025-09-10 17:20:29 - 24 . Deletado 4 - S13 81929981(2.000000)
+2025-09-10 17:20:29 - Portal/Leirilis Atualizado.
+2025-09-10 17:20:29 - Sincroniza Leirilis->Portal
+2025-09-10 17:20:29 - Procurar diferenças - Início
+2025-09-10 17:20:34 - Procurar diferenças - Fim (0)
+2025-09-10 17:20:34 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:20:34 - Processo finalizado.
+2025-09-10 17:25:20 - ***************************************************************
+2025-09-10 17:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 17:25:20 - Carregar dados Leirilis - Início
+2025-09-10 17:25:21 - Carregar dados Leirilis - Fim (7725)
+2025-09-10 17:25:21 - Carregar dados Portal - Início
+2025-09-10 17:25:21 - Carregar dados Portal - Fim (7725)
+2025-09-10 17:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:25:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 17:25:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 17:25:25 - Sincroniza Leirilis->Portal
+2025-09-10 17:25:25 - Procurar diferenças - Início
+2025-09-10 17:25:30 - Procurar diferenças - Fim (0)
+2025-09-10 17:25:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:25:30 - Processo finalizado.
+2025-09-10 17:30:21 - ***************************************************************
+2025-09-10 17:30:21 - Sincroniza Portal->Leirilis
+2025-09-10 17:30:21 - Carregar dados Leirilis - Início
+2025-09-10 17:30:22 - Carregar dados Leirilis - Fim (7725)
+2025-09-10 17:30:22 - Carregar dados Portal - Início
+2025-09-10 17:30:22 - Carregar dados Portal - Fim (7725)
+2025-09-10 17:30:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:30:27 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 17:30:27 - Nenhuma diferença encontrada no Portal.
+2025-09-10 17:30:27 - Sincroniza Leirilis->Portal
+2025-09-10 17:30:27 - Procurar diferenças - Início
+2025-09-10 17:30:32 - Procurar diferenças - Fim (0)
+2025-09-10 17:30:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:30:32 - Processo finalizado.
+2025-09-10 17:35:23 - ***************************************************************
+2025-09-10 17:35:23 - Sincroniza Portal->Leirilis
+2025-09-10 17:35:23 - Carregar dados Leirilis - Início
+2025-09-10 17:35:24 - Carregar dados Leirilis - Fim (7722)
+2025-09-10 17:35:24 - Carregar dados Portal - Início
+2025-09-10 17:35:24 - Carregar dados Portal - Fim (7725)
+2025-09-10 17:35:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:35:29 - Procurar diferenças Portal/Leirilis - Fim (4)
+2025-09-10 17:35:29 - 1 . Deletado 2 - L11 60804170(1.000000)
+2025-09-10 17:35:29 - 2 . Deletado 2 - L11 63420090(1.000000)
+2025-09-10 17:35:29 - 3 . Deletado 2 - L11 60811090(1.000000)
+2025-09-10 17:35:29 - 4 . Deletado 2 - L11 60816930(2.000000)
+2025-09-10 17:35:29 - Portal/Leirilis Atualizado.
+2025-09-10 17:35:29 - Sincroniza Leirilis->Portal
+2025-09-10 17:35:29 - Procurar diferenças - Início
+2025-09-10 17:35:34 - Procurar diferenças - Fim (1)
+2025-09-10 17:35:34 - 1 . Inserido 2 - L11 60816930(1.000000)
+2025-09-10 17:35:34 - Leirilis/Portal Atualizado.
+2025-09-10 17:35:34 - Processo finalizado.
+2025-09-10 17:40:21 - ***************************************************************
+2025-09-10 17:40:21 - Sincroniza Portal->Leirilis
+2025-09-10 17:40:21 - Carregar dados Leirilis - Início
+2025-09-10 17:40:21 - Carregar dados Leirilis - Fim (7722)
+2025-09-10 17:40:21 - Carregar dados Portal - Início
+2025-09-10 17:40:21 - Carregar dados Portal - Fim (7722)
+2025-09-10 17:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:40:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 17:40:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 17:40:26 - Sincroniza Leirilis->Portal
+2025-09-10 17:40:26 - Procurar diferenças - Início
+2025-09-10 17:40:30 - Procurar diferenças - Fim (0)
+2025-09-10 17:40:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:40:30 - Processo finalizado.
+2025-09-10 17:45:21 - ***************************************************************
+2025-09-10 17:45:21 - Sincroniza Portal->Leirilis
+2025-09-10 17:45:21 - Carregar dados Leirilis - Início
+2025-09-10 17:45:21 - Carregar dados Leirilis - Fim (7722)
+2025-09-10 17:45:21 - Carregar dados Portal - Início
+2025-09-10 17:45:21 - Carregar dados Portal - Fim (7722)
+2025-09-10 17:45:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:45:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 17:45:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 17:45:26 - Sincroniza Leirilis->Portal
+2025-09-10 17:45:26 - Procurar diferenças - Início
+2025-09-10 17:45:31 - Procurar diferenças - Fim (0)
+2025-09-10 17:45:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 17:45:31 - Processo finalizado.
+2025-09-10 17:50:23 - ***************************************************************
+2025-09-10 17:50:23 - Sincroniza Portal->Leirilis
+2025-09-10 17:50:23 - Carregar dados Leirilis - Início
+2025-09-10 17:50:23 - Carregar dados Leirilis - Fim (7693)
+2025-09-10 17:50:23 - Carregar dados Portal - Início
+2025-09-10 17:50:23 - Carregar dados Portal - Fim (7722)
+2025-09-10 17:50:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:50:28 - Procurar diferenças Portal/Leirilis - Fim (30)
+2025-09-10 17:50:28 - 1 . Deletado 3 - FB 07989(1.000000)
+2025-09-10 17:50:28 - 2 . Deletado 3 - FB 19752(2.000000)
+2025-09-10 17:50:28 - 3 . Deletado 3 - FB 19917(3.000000)
+2025-09-10 17:50:28 - 4 . Deletado 3 - FB 31278(1.000000)
+2025-09-10 17:50:28 - 5 . Deletado 3 - FB 44797(3.000000)
+2025-09-10 17:50:28 - 6 . Deletado 3 - I03 3090702(1.000000)
+2025-09-10 17:50:28 - 7 . Deletado 3 - LE 1108050(53.000000)
+2025-09-10 17:50:28 - 8 . Deletado 3 - LE 134492(3.000000)
+2025-09-10 17:50:28 - 9 . Deletado 3 - LE 15/17(1.000000)
+2025-09-10 17:50:28 - 10 . Deletado 3 - LE 170790(9.000000)
+2025-09-10 17:50:28 - 11 . Deletado 3 - LE 180017(5.000000)
+2025-09-10 17:50:28 - 12 . Deletado 3 - LE 180103(4.000000)
+2025-09-10 17:50:28 - 13 . Deletado 3 - LE 180104(4.000000)
+2025-09-10 17:50:28 - 14 . Deletado 3 - LE 190248(100.000000)
+2025-09-10 17:50:28 - 15 . Deletado 3 - LE 192587(100.000000)
+2025-09-10 17:50:28 - 16 . Deletado 3 - LE 232041OE(2.000000)
+2025-09-10 17:50:28 - 17 . Deletado 3 - LE 232131200(2.000000)
+2025-09-10 17:50:29 - 18 . Deletado 3 - LE 301100000(9.000000)
+2025-09-10 17:50:29 - 19 . Deletado 3 - LE 301296100(4.000000)
+2025-09-10 17:50:29 - 20 . Deletado 3 - LE 301470200(10.000000)
+2025-09-10 17:50:29 - 21 . Deletado 3 - LE 301581100(7.000000)
+2025-09-10 17:50:29 - 22 . Deletado 3 - LE 330597(1.000000)
+2025-09-10 17:50:29 - 23 . Deletado 3 - LE 460139(1.000000)
+2025-09-10 17:50:29 - 24 . Deletado 3 - LE 4914312(1.000000)
+2025-09-10 17:50:29 - 25 . Deletado 3 - LE 819T(1.000000)
+2025-09-10 17:50:29 - 26 . Deletado 3 - LE BH11017(1.000000)
+2025-09-10 17:50:29 - 27 . Deletado 3 - LE CAR10606(1.000000)
+2025-09-10 17:50:29 - 28 . Deletado 3 - LE CWR71032(1.000000)
+2025-09-10 17:50:29 - 29 . Deletado 3 - LE FHK2709R(2.000000)
+2025-09-10 17:50:29 - 30 . Deletado 3 - P07 CR1620-00B(10.000000)
+2025-09-10 17:50:29 - Portal/Leirilis Atualizado.
+2025-09-10 17:50:29 - Sincroniza Leirilis->Portal
+2025-09-10 17:50:29 - Procurar diferenças - Início
+2025-09-10 17:50:34 - Procurar diferenças - Fim (1)
+2025-09-10 17:50:34 - 1 . Inserido 3 - LE 192587(77.000000)
+2025-09-10 17:50:34 - Leirilis/Portal Atualizado.
+2025-09-10 17:50:34 - Processo finalizado.
+2025-09-10 17:55:21 - ***************************************************************
+2025-09-10 17:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 17:55:21 - Carregar dados Leirilis - Início
+2025-09-10 17:55:22 - Carregar dados Leirilis - Fim (7690)
+2025-09-10 17:55:22 - Carregar dados Portal - Início
+2025-09-10 17:55:22 - Carregar dados Portal - Fim (7693)
+2025-09-10 17:55:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 17:55:27 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 17:55:27 - 1 . Deletado 2 - L11 3694101(1.000000)
+2025-09-10 17:55:27 - 2 . Deletado 2 - L11 3818701(3.000000)
+2025-09-10 17:55:27 - 3 . Deletado 2 - L11 3931001(1.000000)
+2025-09-10 17:55:27 - 4 . Deletado 2 - L11 3500301(2.000000)
+2025-09-10 17:55:27 - 5 . Deletado 2 - L11 3693901(3.000000)
+2025-09-10 17:55:27 - 6 . Deletado 2 - L11 3865001(2.000000)
+2025-09-10 17:55:27 - 7 . Deletado 2 - L11 3566402(2.000000)
+2025-09-10 17:55:27 - 8 . Deletado 2 - L11 3931101(2.000000)
+2025-09-10 17:55:27 - 9 . Deletado 2 - L11 3958201(3.000000)
+2025-09-10 17:55:27 - Portal/Leirilis Atualizado.
+2025-09-10 17:55:27 - Sincroniza Leirilis->Portal
+2025-09-10 17:55:27 - Procurar diferenças - Início
+2025-09-10 17:55:32 - Procurar diferenças - Fim (6)
+2025-09-10 17:55:32 - 1 . Inserido 2 - L11 3500301(1.000000)
+2025-09-10 17:55:32 - 2 . Inserido 2 - L11 3566402(1.000000)
+2025-09-10 17:55:32 - 3 . Inserido 2 - L11 3693901(1.000000)
+2025-09-10 17:55:32 - 4 . Inserido 2 - L11 3865001(1.000000)
+2025-09-10 17:55:32 - 5 . Inserido 2 - L11 3931101(1.000000)
+2025-09-10 17:55:32 - 6 . Inserido 2 - L11 3958201(1.000000)
+2025-09-10 17:55:32 - Leirilis/Portal Atualizado.
+2025-09-10 17:55:32 - Processo finalizado.
+2025-09-10 18:00:21 - ***************************************************************
+2025-09-10 18:00:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:00:21 - Carregar dados Leirilis - Início
+2025-09-10 18:00:21 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:00:21 - Carregar dados Portal - Início
+2025-09-10 18:00:21 - Carregar dados Portal - Fim (7690)
+2025-09-10 18:00:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:00:26 - Procurar diferenças Portal/Leirilis - Fim (1)
+2025-09-10 18:00:26 - 1 . Deletado 2 - L11 3767301(1.000000)
+2025-09-10 18:00:26 - Portal/Leirilis Atualizado.
+2025-09-10 18:00:26 - Sincroniza Leirilis->Portal
+2025-09-10 18:00:26 - Procurar diferenças - Início
+2025-09-10 18:00:31 - Procurar diferenças - Fim (0)
+2025-09-10 18:00:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:00:31 - Processo finalizado.
+2025-09-10 18:05:25 - ***************************************************************
+2025-09-10 18:05:25 - Sincroniza Portal->Leirilis
+2025-09-10 18:05:25 - Carregar dados Leirilis - Início
+2025-09-10 18:05:26 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:05:26 - Carregar dados Portal - Início
+2025-09-10 18:05:26 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:05:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:05:32 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:05:32 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:05:32 - Sincroniza Leirilis->Portal
+2025-09-10 18:05:32 - Procurar diferenças - Início
+2025-09-10 18:05:38 - Procurar diferenças - Fim (0)
+2025-09-10 18:05:38 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:05:38 - Processo finalizado.
+2025-09-10 18:10:21 - ***************************************************************
+2025-09-10 18:10:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:10:21 - Carregar dados Leirilis - Início
+2025-09-10 18:10:22 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:10:22 - Carregar dados Portal - Início
+2025-09-10 18:10:22 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:10:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:10:27 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:10:27 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:10:27 - Sincroniza Leirilis->Portal
+2025-09-10 18:10:27 - Procurar diferenças - Início
+2025-09-10 18:10:32 - Procurar diferenças - Fim (0)
+2025-09-10 18:10:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:10:32 - Processo finalizado.
+2025-09-10 18:15:21 - ***************************************************************
+2025-09-10 18:15:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:15:21 - Carregar dados Leirilis - Início
+2025-09-10 18:15:21 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:15:21 - Carregar dados Portal - Início
+2025-09-10 18:15:22 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:15:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:15:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:15:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:15:26 - Sincroniza Leirilis->Portal
+2025-09-10 18:15:26 - Procurar diferenças - Início
+2025-09-10 18:15:31 - Procurar diferenças - Fim (0)
+2025-09-10 18:15:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:15:31 - Processo finalizado.
+2025-09-10 18:20:20 - ***************************************************************
+2025-09-10 18:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 18:20:20 - Carregar dados Leirilis - Início
+2025-09-10 18:20:20 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:20:20 - Carregar dados Portal - Início
+2025-09-10 18:20:21 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:20:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:20:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:20:25 - Sincroniza Leirilis->Portal
+2025-09-10 18:20:25 - Procurar diferenças - Início
+2025-09-10 18:20:30 - Procurar diferenças - Fim (0)
+2025-09-10 18:20:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:20:30 - Processo finalizado.
+2025-09-10 18:25:20 - ***************************************************************
+2025-09-10 18:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 18:25:20 - Carregar dados Leirilis - Início
+2025-09-10 18:25:21 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:25:21 - Carregar dados Portal - Início
+2025-09-10 18:25:21 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:25:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:25:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:25:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:25:25 - Sincroniza Leirilis->Portal
+2025-09-10 18:25:25 - Procurar diferenças - Início
+2025-09-10 18:25:30 - Procurar diferenças - Fim (0)
+2025-09-10 18:25:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:25:30 - Processo finalizado.
+2025-09-10 18:30:21 - ***************************************************************
+2025-09-10 18:30:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:30:21 - Carregar dados Leirilis - Início
+2025-09-10 18:30:21 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:30:21 - Carregar dados Portal - Início
+2025-09-10 18:30:21 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:30:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:30:27 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:30:27 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:30:27 - Sincroniza Leirilis->Portal
+2025-09-10 18:30:27 - Procurar diferenças - Início
+2025-09-10 18:30:32 - Procurar diferenças - Fim (0)
+2025-09-10 18:30:32 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:30:32 - Processo finalizado.
+2025-09-10 18:35:22 - ***************************************************************
+2025-09-10 18:35:22 - Sincroniza Portal->Leirilis
+2025-09-10 18:35:22 - Carregar dados Leirilis - Início
+2025-09-10 18:35:22 - Carregar dados Leirilis - Fim (7689)
+2025-09-10 18:35:22 - Carregar dados Portal - Início
+2025-09-10 18:35:22 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:35:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:35:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:35:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:35:25 - Sincroniza Leirilis->Portal
+2025-09-10 18:35:25 - Procurar diferenças - Início
+2025-09-10 18:35:28 - Procurar diferenças - Fim (0)
+2025-09-10 18:35:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:35:28 - Processo finalizado.
+2025-09-10 18:40:20 - ***************************************************************
+2025-09-10 18:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 18:40:20 - Carregar dados Leirilis - Início
+2025-09-10 18:40:21 - Carregar dados Leirilis - Fim (7687)
+2025-09-10 18:40:21 - Carregar dados Portal - Início
+2025-09-10 18:40:21 - Carregar dados Portal - Fim (7689)
+2025-09-10 18:40:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:40:26 - Procurar diferenças Portal/Leirilis - Fim (6)
+2025-09-10 18:40:26 - 1 . Deletado 2 - 1987435149(10.000000)
+2025-09-10 18:40:26 - 2 . Deletado 2 - 3397006830(5.000000)
+2025-09-10 18:40:26 - 3 . Deletado 2 - 3397018300(2.000000)
+2025-09-10 18:40:26 - 4 . Deletado 2 - B07 ADP152214(2.000000)
+2025-09-10 18:40:26 - 5 . Deletado 2 - B07 ADP152234(15.000000)
+2025-09-10 18:40:26 - 6 . Deletado 2 - S13 20926941(1.000000)
+2025-09-10 18:40:26 - Portal/Leirilis Atualizado.
+2025-09-10 18:40:26 - Sincroniza Leirilis->Portal
+2025-09-10 18:40:26 - Procurar diferenças - Início
+2025-09-10 18:40:31 - Procurar diferenças - Fim (4)
+2025-09-10 18:40:31 - 1 . Inserido 2 - 1987435149(2.000000)
+2025-09-10 18:40:31 - 2 . Inserido 2 - 3397006830(4.000000)
+2025-09-10 18:40:31 - 3 . Inserido 2 - B07 ADP152214(1.000000)
+2025-09-10 18:40:31 - 4 . Inserido 2 - B07 ADP152234(11.000000)
+2025-09-10 18:40:31 - Leirilis/Portal Atualizado.
+2025-09-10 18:40:31 - Processo finalizado.
+2025-09-10 18:45:20 - ***************************************************************
+2025-09-10 18:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 18:45:20 - Carregar dados Leirilis - Início
+2025-09-10 18:45:20 - Carregar dados Leirilis - Fim (7687)
+2025-09-10 18:45:20 - Carregar dados Portal - Início
+2025-09-10 18:45:20 - Carregar dados Portal - Fim (7687)
+2025-09-10 18:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:45:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:45:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:45:26 - Sincroniza Leirilis->Portal
+2025-09-10 18:45:26 - Procurar diferenças - Início
+2025-09-10 18:45:31 - Procurar diferenças - Fim (0)
+2025-09-10 18:45:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:45:31 - Processo finalizado.
+2025-09-10 18:50:21 - ***************************************************************
+2025-09-10 18:50:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:50:21 - Carregar dados Leirilis - Início
+2025-09-10 18:50:21 - Carregar dados Leirilis - Fim (7687)
+2025-09-10 18:50:21 - Carregar dados Portal - Início
+2025-09-10 18:50:22 - Carregar dados Portal - Fim (7687)
+2025-09-10 18:50:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:50:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 18:50:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 18:50:24 - Sincroniza Leirilis->Portal
+2025-09-10 18:50:24 - Procurar diferenças - Início
+2025-09-10 18:50:27 - Procurar diferenças - Fim (0)
+2025-09-10 18:50:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 18:50:27 - Processo finalizado.
+2025-09-10 18:55:21 - ***************************************************************
+2025-09-10 18:55:21 - Sincroniza Portal->Leirilis
+2025-09-10 18:55:21 - Carregar dados Leirilis - Início
+2025-09-10 18:55:21 - Carregar dados Leirilis - Fim (7681)
+2025-09-10 18:55:21 - Carregar dados Portal - Início
+2025-09-10 18:55:21 - Carregar dados Portal - Fim (7687)
+2025-09-10 18:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 18:55:24 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 18:55:24 - 1 . Deletado 2 - 0281006108(2.000000)
+2025-09-10 18:55:25 - 2 . Deletado 2 - T06 50-08519(1.000000)
+2025-09-10 18:55:25 - 3 . Deletado 7 - 0986479575(1.000000)
+2025-09-10 18:55:25 - 4 . Deletado 2 - F026407073(2.000000)
+2025-09-10 18:55:25 - 5 . Deletado 2 - F026400459(2.000000)
+2025-09-10 18:55:25 - 6 . Deletado 2 - 1987301049(2.000000)
+2025-09-10 18:55:25 - 7 . Deletado 2 - 1457429194(12.000000)
+2025-09-10 18:55:25 - 8 . Deletado 2 - 3397014116(2.000000)
+2025-09-10 18:55:25 - 9 . Deletado 2 - LE 843069(1.000000)
+2025-09-10 18:55:25 - 10 . Deletado 2 - P08 FCS783(2.000000)
+2025-09-10 18:55:25 - Portal/Leirilis Atualizado.
+2025-09-10 18:55:25 - Sincroniza Leirilis->Portal
+2025-09-10 18:55:25 - Procurar diferenças - Início
+2025-09-10 18:55:28 - Procurar diferenças - Fim (4)
+2025-09-10 18:55:28 - 1 . Inserido 2 - 0281006108(1.000000)
+2025-09-10 18:55:28 - 2 . Inserido 2 - 1457429194(10.000000)
+2025-09-10 18:55:28 - 3 . Inserido 2 - F026400459(1.000000)
+2025-09-10 18:55:28 - 4 . Inserido 2 - P08 FCS783(1.000000)
+2025-09-10 18:55:28 - Leirilis/Portal Atualizado.
+2025-09-10 18:55:28 - Processo finalizado.
+2025-09-10 19:00:37 - ***************************************************************
+2025-09-10 19:00:37 - Sincroniza Portal->Leirilis
+2025-09-10 19:00:37 - Carregar dados Leirilis - Início
+2025-09-10 19:00:37 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:00:37 - Carregar dados Portal - Início
+2025-09-10 19:00:37 - Carregar dados Portal - Fim (7681)
+2025-09-10 19:00:37 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:00:41 - Procurar diferenças Portal/Leirilis - Fim (6)
+2025-09-10 19:00:41 - 1 . Deletado 2 - 3397015451(2.000000)
+2025-09-10 19:00:42 - 2 . Deletado 2 - 1987432012(1.000000)
+2025-09-10 19:00:42 - 3 . Deletado 2 - 3397011430(1.000000)
+2025-09-10 19:00:42 - 4 . Deletado 2 - V01 826843(1.000000)
+2025-09-10 19:00:42 - 5 . Deletado 2 - 3397006838(26.000000)
+2025-09-10 19:00:42 - 6 . Deletado 2 - LE GDB1040(2.000000)
+2025-09-10 19:00:42 - Portal/Leirilis Atualizado.
+2025-09-10 19:00:42 - Sincroniza Leirilis->Portal
+2025-09-10 19:00:42 - Procurar diferenças - Início
+2025-09-10 19:00:46 - Procurar diferenças - Fim (3)
+2025-09-10 19:00:46 - 1 . Inserido 2 - 3397006838(5.000000)
+2025-09-10 19:00:46 - 2 . Inserido 2 - 3397015451(1.000000)
+2025-09-10 19:00:46 - 3 . Inserido 2 - LE GDB1040(1.000000)
+2025-09-10 19:00:46 - Leirilis/Portal Atualizado.
+2025-09-10 19:00:46 - Processo finalizado.
+2025-09-10 19:05:26 - ***************************************************************
+2025-09-10 19:05:26 - Sincroniza Portal->Leirilis
+2025-09-10 19:05:26 - Carregar dados Leirilis - Início
+2025-09-10 19:05:26 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:05:26 - Carregar dados Portal - Início
+2025-09-10 19:05:26 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:05:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:05:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:05:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:05:28 - Sincroniza Leirilis->Portal
+2025-09-10 19:05:28 - Procurar diferenças - Início
+2025-09-10 19:05:30 - Procurar diferenças - Fim (0)
+2025-09-10 19:05:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:05:30 - Processo finalizado.
+2025-09-10 19:10:22 - ***************************************************************
+2025-09-10 19:10:22 - Sincroniza Portal->Leirilis
+2025-09-10 19:10:22 - Carregar dados Leirilis - Início
+2025-09-10 19:10:22 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:10:22 - Carregar dados Portal - Início
+2025-09-10 19:10:22 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:10:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:10:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:10:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:10:24 - Sincroniza Leirilis->Portal
+2025-09-10 19:10:24 - Procurar diferenças - Início
+2025-09-10 19:10:26 - Procurar diferenças - Fim (0)
+2025-09-10 19:10:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:10:26 - Processo finalizado.
+2025-09-10 19:15:22 - ***************************************************************
+2025-09-10 19:15:22 - Sincroniza Portal->Leirilis
+2025-09-10 19:15:22 - Carregar dados Leirilis - Início
+2025-09-10 19:15:22 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:15:22 - Carregar dados Portal - Início
+2025-09-10 19:15:22 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:15:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:15:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:15:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:15:25 - Sincroniza Leirilis->Portal
+2025-09-10 19:15:25 - Procurar diferenças - Início
+2025-09-10 19:15:28 - Procurar diferenças - Fim (0)
+2025-09-10 19:15:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:15:28 - Processo finalizado.
+2025-09-10 19:20:20 - ***************************************************************
+2025-09-10 19:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 19:20:20 - Carregar dados Leirilis - Início
+2025-09-10 19:20:20 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:20:20 - Carregar dados Portal - Início
+2025-09-10 19:20:20 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:20:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:20:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:20:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:20:23 - Sincroniza Leirilis->Portal
+2025-09-10 19:20:23 - Procurar diferenças - Início
+2025-09-10 19:20:25 - Procurar diferenças - Fim (0)
+2025-09-10 19:20:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:20:25 - Processo finalizado.
+2025-09-10 19:25:20 - ***************************************************************
+2025-09-10 19:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 19:25:20 - Carregar dados Leirilis - Início
+2025-09-10 19:25:20 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:25:20 - Carregar dados Portal - Início
+2025-09-10 19:25:20 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:25:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:25:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:25:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:25:22 - Sincroniza Leirilis->Portal
+2025-09-10 19:25:22 - Procurar diferenças - Início
+2025-09-10 19:25:25 - Procurar diferenças - Fim (0)
+2025-09-10 19:25:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:25:25 - Processo finalizado.
+2025-09-10 19:30:31 - ***************************************************************
+2025-09-10 19:30:31 - Sincroniza Portal->Leirilis
+2025-09-10 19:30:31 - Carregar dados Leirilis - Início
+2025-09-10 19:30:31 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:30:31 - Carregar dados Portal - Início
+2025-09-10 19:30:31 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:30:31 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:30:34 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:30:34 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:30:34 - Sincroniza Leirilis->Portal
+2025-09-10 19:30:34 - Procurar diferenças - Início
+2025-09-10 19:30:36 - Procurar diferenças - Fim (0)
+2025-09-10 19:30:36 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:30:36 - Processo finalizado.
+2025-09-10 19:35:26 - ***************************************************************
+2025-09-10 19:35:26 - Sincroniza Portal->Leirilis
+2025-09-10 19:35:26 - Carregar dados Leirilis - Início
+2025-09-10 19:35:26 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:35:26 - Carregar dados Portal - Início
+2025-09-10 19:35:26 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:35:26 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:35:28 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:35:28 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:35:28 - Sincroniza Leirilis->Portal
+2025-09-10 19:35:28 - Procurar diferenças - Início
+2025-09-10 19:35:30 - Procurar diferenças - Fim (0)
+2025-09-10 19:35:30 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:35:30 - Processo finalizado.
+2025-09-10 19:40:22 - ***************************************************************
+2025-09-10 19:40:22 - Sincroniza Portal->Leirilis
+2025-09-10 19:40:22 - Carregar dados Leirilis - Início
+2025-09-10 19:40:22 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:40:22 - Carregar dados Portal - Início
+2025-09-10 19:40:22 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:40:22 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:40:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:40:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:40:24 - Sincroniza Leirilis->Portal
+2025-09-10 19:40:24 - Procurar diferenças - Início
+2025-09-10 19:40:26 - Procurar diferenças - Fim (0)
+2025-09-10 19:40:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:40:26 - Processo finalizado.
+2025-09-10 19:45:20 - ***************************************************************
+2025-09-10 19:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 19:45:20 - Carregar dados Leirilis - Início
+2025-09-10 19:45:20 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:45:20 - Carregar dados Portal - Início
+2025-09-10 19:45:20 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:45:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:45:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:45:22 - Sincroniza Leirilis->Portal
+2025-09-10 19:45:22 - Procurar diferenças - Início
+2025-09-10 19:45:25 - Procurar diferenças - Fim (0)
+2025-09-10 19:45:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:45:25 - Processo finalizado.
+2025-09-10 19:50:20 - ***************************************************************
+2025-09-10 19:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 19:50:20 - Carregar dados Leirilis - Início
+2025-09-10 19:50:20 - Carregar dados Leirilis - Fim (7678)
+2025-09-10 19:50:20 - Carregar dados Portal - Início
+2025-09-10 19:50:20 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:50:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:50:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 19:50:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 19:50:22 - Sincroniza Leirilis->Portal
+2025-09-10 19:50:22 - Procurar diferenças - Início
+2025-09-10 19:50:25 - Procurar diferenças - Fim (0)
+2025-09-10 19:50:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 19:50:25 - Processo finalizado.
+2025-09-10 19:55:20 - ***************************************************************
+2025-09-10 19:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 19:55:20 - Carregar dados Leirilis - Início
+2025-09-10 19:55:20 - Carregar dados Leirilis - Fim (7671)
+2025-09-10 19:55:20 - Carregar dados Portal - Início
+2025-09-10 19:55:21 - Carregar dados Portal - Fim (7678)
+2025-09-10 19:55:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 19:55:23 - Procurar diferenças Portal/Leirilis - Fim (15)
+2025-09-10 19:55:23 - 1 . Deletado 2 - 0986080710(1.000000)
+2025-09-10 19:55:23 - 2 . Deletado 2 - 0986080710C(1.000000)
+2025-09-10 19:55:23 - 3 . Deletado 2 - P08 C507A(2.000000)
+2025-09-10 19:55:23 - 4 . Deletado 2 - 0986479R63(12.000000)
+2025-09-10 19:55:23 - 5 . Deletado 2 - P08 A1342(1.000000)
+2025-09-10 19:55:23 - 6 . Deletado 2 - F026407066(2.000000)
+2025-09-10 19:55:23 - 7 . Deletado 2 - 0986021651(2.000000)
+2025-09-10 19:55:23 - 8 . Deletado 2 - 0986021651C(2.000000)
+2025-09-10 19:55:23 - 9 . Deletado 2 - 0242145535(6.000000)
+2025-09-10 19:55:23 - 10 . Deletado 2 - S13 70949722(1.000000)
+2025-09-10 19:55:23 - 11 . Deletado 2 - F026400376(5.000000)
+2025-09-10 19:55:23 - 12 . Deletado 2 - B07 ADG02129(1.000000)
+2025-09-10 19:55:23 - 13 . Deletado 2 - F026407096(2.000000)
+2025-09-10 19:55:23 - 14 . Deletado 2 - T06 50-06291(1.000000)
+2025-09-10 19:55:23 - 15 . Deletado 2 - F026407204(11.000000)
+2025-09-10 19:55:23 - Portal/Leirilis Atualizado.
+2025-09-10 19:55:23 - Sincroniza Leirilis->Portal
+2025-09-10 19:55:23 - Procurar diferenças - Início
+2025-09-10 19:55:25 - Procurar diferenças - Fim (8)
+2025-09-10 19:55:25 - 1 . Inserido 2 - 0986021651(1.000000)
+2025-09-10 19:55:25 - 2 . Inserido 2 - 0986021651C(1.000000)
+2025-09-10 19:55:25 - 3 . Inserido 2 - 0986479R63(10.000000)
+2025-09-10 19:55:25 - 4 . Inserido 2 - F026400376(2.000000)
+2025-09-10 19:55:25 - 5 . Inserido 2 - F026407066(1.000000)
+2025-09-10 19:55:25 - 6 . Inserido 2 - F026407096(1.000000)
+2025-09-10 19:55:25 - 7 . Inserido 2 - F026407204(7.000000)
+2025-09-10 19:55:25 - 8 . Inserido 2 - P08 C507A(1.000000)
+2025-09-10 19:55:25 - Leirilis/Portal Atualizado.
+2025-09-10 19:55:25 - Processo finalizado.
+2025-09-10 20:00:20 - ***************************************************************
+2025-09-10 20:00:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:00:20 - Carregar dados Leirilis - Início
+2025-09-10 20:00:21 - Carregar dados Leirilis - Fim (7671)
+2025-09-10 20:00:21 - Carregar dados Portal - Início
+2025-09-10 20:00:21 - Carregar dados Portal - Fim (7671)
+2025-09-10 20:00:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:00:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:00:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:00:23 - Sincroniza Leirilis->Portal
+2025-09-10 20:00:23 - Procurar diferenças - Início
+2025-09-10 20:00:25 - Procurar diferenças - Fim (0)
+2025-09-10 20:00:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:00:25 - Processo finalizado.
+2025-09-10 20:05:22 - ***************************************************************
+2025-09-10 20:05:22 - Sincroniza Portal->Leirilis
+2025-09-10 20:05:22 - Carregar dados Leirilis - Início
+2025-09-10 20:05:23 - Carregar dados Leirilis - Fim (7671)
+2025-09-10 20:05:23 - Carregar dados Portal - Início
+2025-09-10 20:05:23 - Carregar dados Portal - Fim (7671)
+2025-09-10 20:05:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:05:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:05:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:05:25 - Sincroniza Leirilis->Portal
+2025-09-10 20:05:25 - Procurar diferenças - Início
+2025-09-10 20:05:27 - Procurar diferenças - Fim (0)
+2025-09-10 20:05:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:05:27 - Processo finalizado.
+2025-09-10 20:10:20 - ***************************************************************
+2025-09-10 20:10:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:10:20 - Carregar dados Leirilis - Início
+2025-09-10 20:10:20 - Carregar dados Leirilis - Fim (7671)
+2025-09-10 20:10:20 - Carregar dados Portal - Início
+2025-09-10 20:10:20 - Carregar dados Portal - Fim (7671)
+2025-09-10 20:10:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:10:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:10:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:10:22 - Sincroniza Leirilis->Portal
+2025-09-10 20:10:22 - Procurar diferenças - Início
+2025-09-10 20:10:25 - Procurar diferenças - Fim (0)
+2025-09-10 20:10:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:10:25 - Processo finalizado.
+2025-09-10 20:15:20 - ***************************************************************
+2025-09-10 20:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:15:20 - Carregar dados Leirilis - Início
+2025-09-10 20:15:20 - Carregar dados Leirilis - Fim (7668)
+2025-09-10 20:15:20 - Carregar dados Portal - Início
+2025-09-10 20:15:20 - Carregar dados Portal - Fim (7671)
+2025-09-10 20:15:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:15:22 - Procurar diferenças Portal/Leirilis - Fim (4)
+2025-09-10 20:15:22 - 1 . Deletado 2 - L11 60090840(1.000000)
+2025-09-10 20:15:22 - 2 . Deletado 2 - S13 99908367(1.000000)
+2025-09-10 20:15:22 - 3 . Deletado 2 - S13 50916279(1.000000)
+2025-09-10 20:15:23 - 4 . Deletado 2 - S13 60948627(2.000000)
+2025-09-10 20:15:23 - Portal/Leirilis Atualizado.
+2025-09-10 20:15:23 - Sincroniza Leirilis->Portal
+2025-09-10 20:15:23 - Procurar diferenças - Início
+2025-09-10 20:15:25 - Procurar diferenças - Fim (1)
+2025-09-10 20:15:25 - 1 . Inserido 2 - S13 60948627(1.000000)
+2025-09-10 20:15:25 - Leirilis/Portal Atualizado.
+2025-09-10 20:15:25 - Processo finalizado.
+2025-09-10 20:20:20 - ***************************************************************
+2025-09-10 20:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:20:20 - Carregar dados Leirilis - Início
+2025-09-10 20:20:20 - Carregar dados Leirilis - Fim (7668)
+2025-09-10 20:20:20 - Carregar dados Portal - Início
+2025-09-10 20:20:21 - Carregar dados Portal - Fim (7668)
+2025-09-10 20:20:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:20:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:20:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:20:23 - Sincroniza Leirilis->Portal
+2025-09-10 20:20:23 - Procurar diferenças - Início
+2025-09-10 20:20:25 - Procurar diferenças - Fim (0)
+2025-09-10 20:20:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:20:25 - Processo finalizado.
+2025-09-10 20:25:20 - ***************************************************************
+2025-09-10 20:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:25:20 - Carregar dados Leirilis - Início
+2025-09-10 20:25:20 - Carregar dados Leirilis - Fim (7662)
+2025-09-10 20:25:20 - Carregar dados Portal - Início
+2025-09-10 20:25:20 - Carregar dados Portal - Fim (7668)
+2025-09-10 20:25:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:25:22 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 20:25:22 - 1 . Deletado 2 - 0986221057(1.000000)
+2025-09-10 20:25:22 - 2 . Deletado 2 - P08 AHC286(1.000000)
+2025-09-10 20:25:23 - 3 . Deletado 2 - 0986452042(2.000000)
+2025-09-10 20:25:23 - 4 . Deletado 2 - P08 C848(1.000000)
+2025-09-10 20:25:23 - 5 . Deletado 2 - B07 ADN12539(2.000000)
+2025-09-10 20:25:23 - 6 . Deletado 2 - D06 KTBWP2961(3.000000)
+2025-09-10 20:25:23 - 7 . Deletado 2 - F026407155(1.000000)
+2025-09-10 20:25:23 - 8 . Deletado 2 - P08 FCS837(2.000000)
+2025-09-10 20:25:23 - 9 . Deletado 2 - P08 A1314(2.000000)
+2025-09-10 20:25:23 - Portal/Leirilis Atualizado.
+2025-09-10 20:25:23 - Sincroniza Leirilis->Portal
+2025-09-10 20:25:23 - Procurar diferenças - Início
+2025-09-10 20:25:25 - Procurar diferenças - Fim (3)
+2025-09-10 20:25:25 - 1 . Inserido 2 - 0986452042(1.000000)
+2025-09-10 20:25:25 - 2 . Inserido 2 - P08 A1314(1.000000)
+2025-09-10 20:25:25 - 3 . Inserido 2 - P08 FCS837(1.000000)
+2025-09-10 20:25:25 - Leirilis/Portal Atualizado.
+2025-09-10 20:25:25 - Processo finalizado.
+2025-09-10 20:30:20 - ***************************************************************
+2025-09-10 20:30:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:30:20 - Carregar dados Leirilis - Início
+2025-09-10 20:30:20 - Carregar dados Leirilis - Fim (7662)
+2025-09-10 20:30:20 - Carregar dados Portal - Início
+2025-09-10 20:30:20 - Carregar dados Portal - Fim (7662)
+2025-09-10 20:30:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:30:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:30:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:30:22 - Sincroniza Leirilis->Portal
+2025-09-10 20:30:22 - Procurar diferenças - Início
+2025-09-10 20:30:24 - Procurar diferenças - Fim (0)
+2025-09-10 20:30:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:30:24 - Processo finalizado.
+2025-09-10 20:35:20 - ***************************************************************
+2025-09-10 20:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:35:20 - Carregar dados Leirilis - Início
+2025-09-10 20:35:20 - Carregar dados Leirilis - Fim (7662)
+2025-09-10 20:35:20 - Carregar dados Portal - Início
+2025-09-10 20:35:20 - Carregar dados Portal - Fim (7662)
+2025-09-10 20:35:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:35:24 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 20:35:24 - Nenhuma diferença encontrada no Portal.
+2025-09-10 20:35:24 - Sincroniza Leirilis->Portal
+2025-09-10 20:35:24 - Procurar diferenças - Início
+2025-09-10 20:35:26 - Procurar diferenças - Fim (0)
+2025-09-10 20:35:26 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 20:35:26 - Processo finalizado.
+2025-09-10 20:40:20 - ***************************************************************
+2025-09-10 20:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:40:20 - Carregar dados Leirilis - Início
+2025-09-10 20:40:20 - Carregar dados Leirilis - Fim (7657)
+2025-09-10 20:40:20 - Carregar dados Portal - Início
+2025-09-10 20:40:20 - Carregar dados Portal - Fim (7662)
+2025-09-10 20:40:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:40:24 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 20:40:24 - 1 . Deletado 2 - F026407238(6.000000)
+2025-09-10 20:40:24 - 2 . Deletado 2 - 0986084980(1.000000)
+2025-09-10 20:40:24 - 3 . Deletado 2 - 0986084980C(1.000000)
+2025-09-10 20:40:24 - 4 . Deletado 2 - 0986479058(4.000000)
+2025-09-10 20:40:24 - 5 . Deletado 2 - 0986479718(2.000000)
+2025-09-10 20:40:24 - 6 . Deletado 2 - D06 KTBWP8860(8.000000)
+2025-09-10 20:40:24 - 7 . Deletado 2 - P08 FCS863(1.000000)
+2025-09-10 20:40:24 - 8 . Deletado 2 - 1987432413(1.000000)
+2025-09-10 20:40:24 - 9 . Deletado 2 - F026402076(2.000000)
+2025-09-10 20:40:24 - Portal/Leirilis Atualizado.
+2025-09-10 20:40:24 - Sincroniza Leirilis->Portal
+2025-09-10 20:40:24 - Procurar diferenças - Início
+2025-09-10 20:40:28 - Procurar diferenças - Fim (4)
+2025-09-10 20:40:28 - 1 . Inserido 2 - 0986479058(2.000000)
+2025-09-10 20:40:28 - 2 . Inserido 2 - D06 KTBWP8860(3.000000)
+2025-09-10 20:40:28 - 3 . Inserido 2 - F026402076(1.000000)
+2025-09-10 20:40:28 - 4 . Inserido 2 - F026407238(2.000000)
+2025-09-10 20:40:28 - Leirilis/Portal Atualizado.
+2025-09-10 20:40:28 - Processo finalizado.
+2025-09-10 20:45:20 - ***************************************************************
+2025-09-10 20:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:45:20 - Carregar dados Leirilis - Início
+2025-09-10 20:45:20 - Carregar dados Leirilis - Fim (7641)
+2025-09-10 20:45:20 - Carregar dados Portal - Início
+2025-09-10 20:45:20 - Carregar dados Portal - Fim (7657)
+2025-09-10 20:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:45:24 - Procurar diferenças Portal/Leirilis - Fim (27)
+2025-09-10 20:45:24 - 1 . Deletado 2 - 1987435149(2.000000)
+2025-09-10 20:45:24 - 2 . Deletado 2 - 0986479R63(10.000000)
+2025-09-10 20:45:25 - 3 . Deletado 2 - P08 A1315(1.000000)
+2025-09-10 20:45:25 - 4 . Deletado 2 - 0986494011(1.000000)
+2025-09-10 20:45:25 - 5 . Deletado 2 - P08 L267D(5.000000)
+2025-09-10 20:45:25 - 6 . Deletado 2 - 0986479D90(2.000000)
+2025-09-10 20:45:25 - 7 . Deletado 2 - F026400379(9.000000)
+2025-09-10 20:45:25 - 8 . Deletado 2 - F026402289(2.000000)
+2025-09-10 20:45:25 - 9 . Deletado 2 - 1457429193(6.000000)
+2025-09-10 20:45:25 - 10 . Deletado 2 - 1987302202(100.000000)
+2025-09-10 20:45:25 - 11 . Deletado 2 - 3397011392(47.000000)
+2025-09-10 20:45:25 - 12 . Deletado 2 - F026407347(6.000000)
+2025-09-10 20:45:25 - 13 . Deletado 2 - LE 10.9037(1.000000)
+2025-09-10 20:45:25 - 14 . Deletado 2 - LE GDB1413(1.000000)
+2025-09-10 20:45:25 - 15 . Deletado 2 - S05 VKM31034(1.000000)
+2025-09-10 20:45:25 - 16 . Deletado 2 - 3397006831(12.000000)
+2025-09-10 20:45:25 - 17 . Deletado 2 - S13 40924615(3.000000)
+2025-09-10 20:45:25 - 18 . Deletado 2 - 3397006840(7.000000)
+2025-09-10 20:45:25 - 19 . Deletado 2 - F026400058(1.000000)
+2025-09-10 20:45:25 - 20 . Deletado 2 - F026400114(1.000000)
+2025-09-10 20:45:25 - 21 . Deletado 2 - F026400172(1.000000)
+2025-09-10 20:45:25 - 22 . Deletado 2 - F026402254(1.000000)
+2025-09-10 20:45:25 - 23 . Deletado 2 - L11 3961101(1.000000)
+2025-09-10 20:45:25 - 24 . Deletado 2 - L11 60807200(1.000000)
+2025-09-10 20:45:25 - 25 . Deletado 2 - P08 A1055(2.000000)
+2025-09-10 20:45:25 - 26 . Deletado 2 - P08 AH238(1.000000)
+2025-09-10 20:45:25 - 27 . Deletado 2 - P08 LS910(7.000000)
+2025-09-10 20:45:25 - Portal/Leirilis Atualizado.
+2025-09-10 20:45:25 - Sincroniza Leirilis->Portal
+2025-09-10 20:45:25 - Procurar diferenças - Início
+2025-09-10 20:45:29 - Procurar diferenças - Fim (11)
+2025-09-10 20:45:29 - 1 . Inserido 2 - 0986479R63(6.000000)
+2025-09-10 20:45:29 - 2 . Inserido 2 - 1457429193(2.000000)
+2025-09-10 20:45:29 - 3 . Inserido 2 - 3397006831(5.000000)
+2025-09-10 20:45:29 - 4 . Inserido 2 - 3397006840(5.000000)
+2025-09-10 20:45:29 - 5 . Inserido 2 - 3397011392(42.000000)
+2025-09-10 20:45:29 - 6 . Inserido 2 - F026400379(7.000000)
+2025-09-10 20:45:29 - 7 . Inserido 2 - F026402289(1.000000)
+2025-09-10 20:45:29 - 8 . Inserido 2 - F026407347(4.000000)
+2025-09-10 20:45:29 - 9 . Inserido 2 - P08 A1055(1.000000)
+2025-09-10 20:45:29 - 10 . Inserido 2 - P08 LS910(6.000000)
+2025-09-10 20:45:29 - 11 . Inserido 2 - S13 40924615(2.000000)
+2025-09-10 20:45:29 - Leirilis/Portal Atualizado.
+2025-09-10 20:45:29 - Processo finalizado.
+2025-09-10 20:50:20 - ***************************************************************
+2025-09-10 20:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:50:20 - Carregar dados Leirilis - Início
+2025-09-10 20:50:20 - Carregar dados Leirilis - Fim (7636)
+2025-09-10 20:50:20 - Carregar dados Portal - Início
+2025-09-10 20:50:20 - Carregar dados Portal - Fim (7641)
+2025-09-10 20:50:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:50:24 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 20:50:24 - 1 . Deletado 2 - P08 FCS704(6.000000)
+2025-09-10 20:50:24 - 2 . Deletado 2 - 0281004148(1.000000)
+2025-09-10 20:50:24 - 3 . Deletado 2 - F026407125(4.000000)
+2025-09-10 20:50:24 - 4 . Deletado 2 - 0986461768(1.000000)
+2025-09-10 20:50:24 - 5 . Deletado 2 - B07 ADC48753(2.000000)
+2025-09-10 20:50:24 - 6 . Deletado 2 - F026402206(1.000000)
+2025-09-10 20:50:24 - 7 . Deletado 2 - F032132657(1.000000)
+2025-09-10 20:50:24 - 8 . Deletado 2 - F026407245(3.000000)
+2025-09-10 20:50:24 - 9 . Deletado 2 - 3397005695(6.000000)
+2025-09-10 20:50:24 - Portal/Leirilis Atualizado.
+2025-09-10 20:50:24 - Sincroniza Leirilis->Portal
+2025-09-10 20:50:24 - Procurar diferenças - Início
+2025-09-10 20:50:29 - Procurar diferenças - Fim (4)
+2025-09-10 20:50:29 - 1 . Inserido 2 - 3397005695(3.000000)
+2025-09-10 20:50:29 - 2 . Inserido 2 - B07 ADC48753(1.000000)
+2025-09-10 20:50:29 - 3 . Inserido 2 - F026407245(2.000000)
+2025-09-10 20:50:29 - 4 . Inserido 2 - P08 FCS704(2.000000)
+2025-09-10 20:50:29 - Leirilis/Portal Atualizado.
+2025-09-10 20:50:29 - Processo finalizado.
+2025-09-10 20:55:20 - ***************************************************************
+2025-09-10 20:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 20:55:20 - Carregar dados Leirilis - Início
+2025-09-10 20:55:20 - Carregar dados Leirilis - Fim (7629)
+2025-09-10 20:55:20 - Carregar dados Portal - Início
+2025-09-10 20:55:20 - Carregar dados Portal - Fim (7636)
+2025-09-10 20:55:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 20:55:23 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 20:55:23 - 1 . Deletado 2 - 0986082580(1.000000)
+2025-09-10 20:55:23 - 2 . Deletado 2 - 0986082580C(1.000000)
+2025-09-10 20:55:23 - 3 . Deletado 2 - SX 3000950115(2.000000)
+2025-09-10 20:55:23 - 4 . Deletado 2 - 0250202036(2.000000)
+2025-09-10 20:55:23 - 5 . Deletado 2 - 1987432114(1.000000)
+2025-09-10 20:55:23 - 6 . Deletado 2 - P08 LS946(17.000000)
+2025-09-10 20:55:23 - 7 . Deletado 2 - L11 3566302(2.000000)
+2025-09-10 20:55:23 - 8 . Deletado 2 - P08 L339(4.000000)
+2025-09-10 20:55:23 - 9 . Deletado 2 - T06 50-04605(1.000000)
+2025-09-10 20:55:23 - Portal/Leirilis Atualizado.
+2025-09-10 20:55:23 - Sincroniza Leirilis->Portal
+2025-09-10 20:55:23 - Procurar diferenças - Início
+2025-09-10 20:55:26 - Procurar diferenças - Fim (2)
+2025-09-10 20:55:26 - 1 . Inserido 2 - L11 3566302(1.000000)
+2025-09-10 20:55:26 - 2 . Inserido 2 - P08 L339(1.000000)
+2025-09-10 20:55:26 - Leirilis/Portal Atualizado.
+2025-09-10 20:55:26 - Processo finalizado.
+2025-09-10 21:00:22 - ***************************************************************
+2025-09-10 21:00:22 - Sincroniza Portal->Leirilis
+2025-09-10 21:00:22 - Carregar dados Leirilis - Início
+2025-09-10 21:00:23 - Carregar dados Leirilis - Fim (7623)
+2025-09-10 21:00:23 - Carregar dados Portal - Início
+2025-09-10 21:00:23 - Carregar dados Portal - Fim (7629)
+2025-09-10 21:00:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:00:26 - Procurar diferenças Portal/Leirilis - Fim (9)
+2025-09-10 21:00:26 - 1 . Deletado 2 - 3397006830(4.000000)
+2025-09-10 21:00:26 - 2 . Deletado 2 - 0986021651(1.000000)
+2025-09-10 21:00:27 - 3 . Deletado 2 - 0986021651C(1.000000)
+2025-09-10 21:00:27 - 4 . Deletado 2 - 1987432215(1.000000)
+2025-09-10 21:00:27 - 5 . Deletado 2 - 1987435062(4.000000)
+2025-09-10 21:00:27 - 6 . Deletado 2 - F00ZW00003(1.000000)
+2025-09-10 21:00:27 - 7 . Deletado 2 - SX 313566(1.000000)
+2025-09-10 21:00:27 - 8 . Deletado 2 - LE DF4184(3.000000)
+2025-09-10 21:00:27 - 9 . Deletado 2 - P08 CS499(2.000000)
+2025-09-10 21:00:27 - Portal/Leirilis Atualizado.
+2025-09-10 21:00:27 - Sincroniza Leirilis->Portal
+2025-09-10 21:00:27 - Procurar diferenças - Início
+2025-09-10 21:00:30 - Procurar diferenças - Fim (3)
+2025-09-10 21:00:30 - 1 . Inserido 2 - 3397006830(3.000000)
+2025-09-10 21:00:30 - 2 . Inserido 2 - LE DF4184(2.000000)
+2025-09-10 21:00:30 - 3 . Inserido 2 - P08 CS499(1.000000)
+2025-09-10 21:00:30 - Leirilis/Portal Atualizado.
+2025-09-10 21:00:30 - Processo finalizado.
+2025-09-10 21:05:23 - ***************************************************************
+2025-09-10 21:05:23 - Sincroniza Portal->Leirilis
+2025-09-10 21:05:23 - Carregar dados Leirilis - Início
+2025-09-10 21:05:23 - Carregar dados Leirilis - Fim (7613)
+2025-09-10 21:05:23 - Carregar dados Portal - Início
+2025-09-10 21:05:23 - Carregar dados Portal - Fim (7623)
+2025-09-10 21:05:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:05:25 - Procurar diferenças Portal/Leirilis - Fim (14)
+2025-09-10 21:05:25 - 1 . Deletado 2 - 0986479396(2.000000)
+2025-09-10 21:05:25 - 2 . Deletado 2 - P08 C507A(1.000000)
+2025-09-10 21:05:25 - 3 . Deletado 2 - SX 2294002491(3.000000)
+2025-09-10 21:05:25 - 4 . Deletado 2 - 3397014122(5.000000)
+2025-09-10 21:05:25 - 5 . Deletado 2 - 0986494458(1.000000)
+2025-09-10 21:05:25 - 6 . Deletado 2 - S05 VKJP01001S(2.000000)
+2025-09-10 21:05:26 - 7 . Deletado 2 - 3397118929(3.000000)
+2025-09-10 21:05:26 - 8 . Deletado 2 - 1987946933(1.000000)
+2025-09-10 21:05:26 - 9 . Deletado 2 - 0986494247(2.000000)
+2025-09-10 21:05:26 - 10 . Deletado 2 - LE GDB1563(1.000000)
+2025-09-10 21:05:26 - 11 . Deletado 2 - LE GDB1992(1.000000)
+2025-09-10 21:05:26 - 12 . Deletado 2 - B07 ADT380145(1.000000)
+2025-09-10 21:05:26 - 13 . Deletado 2 - F026400203(1.000000)
+2025-09-10 21:05:26 - 14 . Deletado 2 - 0250201035(6.000000)
+2025-09-10 21:05:26 - Portal/Leirilis Atualizado.
+2025-09-10 21:05:26 - Sincroniza Leirilis->Portal
+2025-09-10 21:05:26 - Procurar diferenças - Início
+2025-09-10 21:05:28 - Procurar diferenças - Fim (4)
+2025-09-10 21:05:28 - 1 . Inserido 2 - 0250201035(4.000000)
+2025-09-10 21:05:28 - 2 . Inserido 2 - 0986494247(1.000000)
+2025-09-10 21:05:28 - 3 . Inserido 2 - 3397014122(4.000000)
+2025-09-10 21:05:28 - 4 . Inserido 2 - SX 2294002491(2.000000)
+2025-09-10 21:05:28 - Leirilis/Portal Atualizado.
+2025-09-10 21:05:28 - Processo finalizado.
+2025-09-10 21:10:20 - ***************************************************************
+2025-09-10 21:10:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:10:20 - Carregar dados Leirilis - Início
+2025-09-10 21:10:20 - Carregar dados Leirilis - Fim (7608)
+2025-09-10 21:10:20 - Carregar dados Portal - Início
+2025-09-10 21:10:20 - Carregar dados Portal - Fim (7613)
+2025-09-10 21:10:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:10:22 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 21:10:22 - 1 . Deletado 2 - 0986494819(2.000000)
+2025-09-10 21:10:22 - 2 . Deletado 2 - F026400559(6.000000)
+2025-09-10 21:10:22 - 3 . Deletado 2 - 1457434300(1.000000)
+2025-09-10 21:10:23 - 4 . Deletado 2 - 0986452044(8.000000)
+2025-09-10 21:10:23 - 5 . Deletado 2 - 0986494085(1.000000)
+2025-09-10 21:10:23 - 6 . Deletado 2 - 0986494994(1.000000)
+2025-09-10 21:10:23 - 7 . Deletado 2 - 1987432542(1.000000)
+2025-09-10 21:10:23 - 8 . Deletado 2 - F026400582(5.000000)
+2025-09-10 21:10:23 - 9 . Deletado 2 - L11 3550301(1.000000)
+2025-09-10 21:10:23 - 10 . Deletado 2 - L11 3931301(2.000000)
+2025-09-10 21:10:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:10:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:10:23 - Procurar diferenças - Início
+2025-09-10 21:10:25 - Procurar diferenças - Fim (5)
+2025-09-10 21:10:25 - 1 . Inserido 2 - 0986452044(4.000000)
+2025-09-10 21:10:25 - 2 . Inserido 2 - 0986494819(1.000000)
+2025-09-10 21:10:25 - 3 . Inserido 2 - F026400559(3.000000)
+2025-09-10 21:10:25 - 4 . Inserido 2 - F026400582(3.000000)
+2025-09-10 21:10:25 - 5 . Inserido 2 - L11 3931301(1.000000)
+2025-09-10 21:10:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:10:25 - Processo finalizado.
+2025-09-10 21:15:20 - ***************************************************************
+2025-09-10 21:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:15:20 - Carregar dados Leirilis - Início
+2025-09-10 21:15:20 - Carregar dados Leirilis - Fim (7595)
+2025-09-10 21:15:20 - Carregar dados Portal - Início
+2025-09-10 21:15:20 - Carregar dados Portal - Fim (7608)
+2025-09-10 21:15:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:15:22 - Procurar diferenças Portal/Leirilis - Fim (21)
+2025-09-10 21:15:22 - 1 . Deletado 2 - 1457434453(1.000000)
+2025-09-10 21:15:22 - 2 . Deletado 2 - P08 FCS783(1.000000)
+2025-09-10 21:15:22 - 3 . Deletado 2 - 3397006831(5.000000)
+2025-09-10 21:15:22 - 4 . Deletado 2 - P08 LS910(6.000000)
+2025-09-10 21:15:22 - 5 . Deletado 2 - 1987435551(2.000000)
+2025-09-10 21:15:22 - 6 . Deletado 2 - F026407302(2.000000)
+2025-09-10 21:15:22 - 7 . Deletado 2 - P08 A1292(1.000000)
+2025-09-10 21:15:22 - 8 . Deletado 2 - 3397009843(2.000000)
+2025-09-10 21:15:23 - 9 . Deletado 2 - 0242240648(6.000000)
+2025-09-10 21:15:23 - 10 . Deletado 2 - 0250202142(12.000000)
+2025-09-10 21:15:23 - 11 . Deletado 2 - 1986S00820(1.000000)
+2025-09-10 21:15:23 - 12 . Deletado 2 - 0986494053(3.000000)
+2025-09-10 21:15:23 - 13 . Deletado 2 - F026400194(1.000000)
+2025-09-10 21:15:23 - 14 . Deletado 2 - LE DF6534(1.000000)
+2025-09-10 21:15:23 - 15 . Deletado 2 - 1987473544(4.000000)
+2025-09-10 21:15:23 - 16 . Deletado 2 - B07 ADK82232(3.000000)
+2025-09-10 21:15:23 - 17 . Deletado 2 - B07 ADP154211(1.000000)
+2025-09-10 21:15:23 - 18 . Deletado 2 - S13 50916820(2.000000)
+2025-09-10 21:15:23 - 19 . Deletado 2 - L11 3961001(1.000000)
+2025-09-10 21:15:23 - 20 . Deletado 2 - LE GDB2071(1.000000)
+2025-09-10 21:15:23 - 21 . Deletado 2 - S05 VKJP01003(4.000000)
+2025-09-10 21:15:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:15:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:15:23 - Procurar diferenças - Início
+2025-09-10 21:15:25 - Procurar diferenças - Fim (8)
+2025-09-10 21:15:25 - 1 . Inserido 2 - 0250202142(8.000000)
+2025-09-10 21:15:25 - 2 . Inserido 2 - 0986494053(2.000000)
+2025-09-10 21:15:25 - 3 . Inserido 2 - 1987435551(1.000000)
+2025-09-10 21:15:25 - 4 . Inserido 2 - 1987473544(3.000000)
+2025-09-10 21:15:25 - 5 . Inserido 2 - 3397009843(1.000000)
+2025-09-10 21:15:25 - 6 . Inserido 2 - B07 ADK82232(1.000000)
+2025-09-10 21:15:25 - 7 . Inserido 2 - S05 VKJP01003(3.000000)
+2025-09-10 21:15:25 - 8 . Inserido 2 - S13 50916820(1.000000)
+2025-09-10 21:15:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:15:25 - Processo finalizado.
+2025-09-10 21:20:20 - ***************************************************************
+2025-09-10 21:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:20:20 - Carregar dados Leirilis - Início
+2025-09-10 21:20:20 - Carregar dados Leirilis - Fim (7590)
+2025-09-10 21:20:20 - Carregar dados Portal - Início
+2025-09-10 21:20:20 - Carregar dados Portal - Fim (7595)
+2025-09-10 21:20:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:20:22 - Procurar diferenças Portal/Leirilis - Fim (8)
+2025-09-10 21:20:22 - 1 . Deletado 2 - 3397007116(3.000000)
+2025-09-10 21:20:22 - 2 . Deletado 2 - F026402120(2.000000)
+2025-09-10 21:20:22 - 3 . Deletado 2 - 1457429256(9.000000)
+2025-09-10 21:20:22 - 4 . Deletado 2 - F026407095(2.000000)
+2025-09-10 21:20:22 - 5 . Deletado 2 - F026400596(1.000000)
+2025-09-10 21:20:23 - 6 . Deletado 2 - P08 CS618(3.000000)
+2025-09-10 21:20:23 - 7 . Deletado 2 - LE 38810A2(1.000000)
+2025-09-10 21:20:23 - 8 . Deletado 2 - LE 83864(1.000000)
+2025-09-10 21:20:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:20:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:20:23 - Procurar diferenças - Início
+2025-09-10 21:20:25 - Procurar diferenças - Fim (3)
+2025-09-10 21:20:25 - 1 . Inserido 2 - 1457429256(6.000000)
+2025-09-10 21:20:25 - 2 . Inserido 2 - 3397007116(1.000000)
+2025-09-10 21:20:25 - 3 . Inserido 2 - F026402120(1.000000)
+2025-09-10 21:20:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:20:25 - Processo finalizado.
+2025-09-10 21:25:20 - ***************************************************************
+2025-09-10 21:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:25:20 - Carregar dados Leirilis - Início
+2025-09-10 21:25:20 - Carregar dados Leirilis - Fim (7590)
+2025-09-10 21:25:20 - Carregar dados Portal - Início
+2025-09-10 21:25:20 - Carregar dados Portal - Fim (7590)
+2025-09-10 21:25:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:25:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 21:25:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 21:25:22 - Sincroniza Leirilis->Portal
+2025-09-10 21:25:22 - Procurar diferenças - Início
+2025-09-10 21:25:24 - Procurar diferenças - Fim (0)
+2025-09-10 21:25:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 21:25:24 - Processo finalizado.
+2025-09-10 21:30:20 - ***************************************************************
+2025-09-10 21:30:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:30:20 - Carregar dados Leirilis - Início
+2025-09-10 21:30:20 - Carregar dados Leirilis - Fim (7581)
+2025-09-10 21:30:20 - Carregar dados Portal - Início
+2025-09-10 21:30:20 - Carregar dados Portal - Fim (7590)
+2025-09-10 21:30:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:30:22 - Procurar diferenças Portal/Leirilis - Fim (15)
+2025-09-10 21:30:22 - 1 . Deletado 2 - 1457434106(3.000000)
+2025-09-10 21:30:22 - 2 . Deletado 2 - 1457429256(6.000000)
+2025-09-10 21:30:22 - 3 . Deletado 2 - S13 10916870(1.000000)
+2025-09-10 21:30:23 - 4 . Deletado 2 - 0986424795(3.000000)
+2025-09-10 21:30:23 - 5 . Deletado 2 - 0986478853(4.000000)
+2025-09-10 21:30:23 - 6 . Deletado 2 - 1987432228(7.000000)
+2025-09-10 21:30:23 - 7 . Deletado 2 - 1987479107(7.000000)
+2025-09-10 21:30:23 - 8 . Deletado 2 - F026400217(1.000000)
+2025-09-10 21:30:23 - 9 . Deletado 2 - P08 L994(1.000000)
+2025-09-10 21:30:23 - 10 . Deletado 2 - D03 C111(1.000000)
+2025-09-10 21:30:23 - 11 . Deletado 2 - F026402040(1.000000)
+2025-09-10 21:30:23 - 12 . Deletado 2 - L11 2963403(1.000000)
+2025-09-10 21:30:23 - 13 . Deletado 2 - P08 L509(7.000000)
+2025-09-10 21:30:23 - 14 . Deletado 2 - 0242140557(2.000000)
+2025-09-10 21:30:23 - 15 . Deletado 2 - F026400438(5.000000)
+2025-09-10 21:30:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:30:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:30:23 - Procurar diferenças - Início
+2025-09-10 21:30:25 - Procurar diferenças - Fim (6)
+2025-09-10 21:30:25 - 1 . Inserido 2 - 0986424795(1.000000)
+2025-09-10 21:30:25 - 2 . Inserido 2 - 0986478853(2.000000)
+2025-09-10 21:30:25 - 3 . Inserido 2 - 1457429256(2.000000)
+2025-09-10 21:30:25 - 4 . Inserido 2 - 1987432228(4.000000)
+2025-09-10 21:30:25 - 5 . Inserido 2 - F026400438(4.000000)
+2025-09-10 21:30:25 - 6 . Inserido 2 - P08 L509(4.000000)
+2025-09-10 21:30:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:30:25 - Processo finalizado.
+2025-09-10 21:35:20 - ***************************************************************
+2025-09-10 21:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:35:20 - Carregar dados Leirilis - Início
+2025-09-10 21:35:20 - Carregar dados Leirilis - Fim (7565)
+2025-09-10 21:35:20 - Carregar dados Portal - Início
+2025-09-10 21:35:20 - Carregar dados Portal - Fim (7581)
+2025-09-10 21:35:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:35:22 - Procurar diferenças Portal/Leirilis - Fim (19)
+2025-09-10 21:35:22 - 1 . Deletado 2 - 0258006799(1.000000)
+2025-09-10 21:35:22 - 2 . Deletado 2 - 1987432228(4.000000)
+2025-09-10 21:35:22 - 3 . Deletado 2 - 0986021810(1.000000)
+2025-09-10 21:35:22 - 4 . Deletado 2 - 0986021810C(1.000000)
+2025-09-10 21:35:22 - 5 . Deletado 2 - 0986022020(1.000000)
+2025-09-10 21:35:23 - 6 . Deletado 2 - 0986022020C(1.000000)
+2025-09-10 21:35:23 - 7 . Deletado 2 - P08 L358A(1.000000)
+2025-09-10 21:35:23 - 8 . Deletado 2 - 0986467720(5.000000)
+2025-09-10 21:35:23 - 9 . Deletado 2 - 0986494488(1.000000)
+2025-09-10 21:35:23 - 10 . Deletado 2 - 0986494162(1.000000)
+2025-09-10 21:35:23 - 11 . Deletado 2 - 0986494658(1.000000)
+2025-09-10 21:35:23 - 12 . Deletado 2 - 3397118905(1.000000)
+2025-09-10 21:35:23 - 13 . Deletado 2 - LE 3234208(1.000000)
+2025-09-10 21:35:23 - 14 . Deletado 2 - LE 8530144(1.000000)
+2025-09-10 21:35:23 - 15 . Deletado 2 - S13 30230004(1.000000)
+2025-09-10 21:35:23 - 16 . Deletado 2 - 3397016304(1.000000)
+2025-09-10 21:35:23 - 17 . Deletado 2 - 3397118933(2.000000)
+2025-09-10 21:35:23 - 18 . Deletado 2 - P08 EP204(2.000000)
+2025-09-10 21:35:23 - 19 . Deletado 2 - S13 20916884(1.000000)
+2025-09-10 21:35:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:35:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:35:23 - Procurar diferenças - Início
+2025-09-10 21:35:25 - Procurar diferenças - Fim (3)
+2025-09-10 21:35:25 - 1 . Inserido 2 - 0986467720(4.000000)
+2025-09-10 21:35:25 - 2 . Inserido 2 - 1987432228(3.000000)
+2025-09-10 21:35:25 - 3 . Inserido 2 - P08 EP204(1.000000)
+2025-09-10 21:35:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:35:25 - Processo finalizado.
+2025-09-10 21:40:20 - ***************************************************************
+2025-09-10 21:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:40:20 - Carregar dados Leirilis - Início
+2025-09-10 21:40:20 - Carregar dados Leirilis - Fim (7559)
+2025-09-10 21:40:20 - Carregar dados Portal - Início
+2025-09-10 21:40:20 - Carregar dados Portal - Fim (7565)
+2025-09-10 21:40:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:40:22 - Procurar diferenças Portal/Leirilis - Fim (12)
+2025-09-10 21:40:22 - 1 . Deletado 2 - SX 317266(2.000000)
+2025-09-10 21:40:22 - 2 . Deletado 2 - F026402289(1.000000)
+2025-09-10 21:40:22 - 3 . Deletado 2 - F026407347(4.000000)
+2025-09-10 21:40:22 - 4 . Deletado 2 - S13 64107972(3.000000)
+2025-09-10 21:40:22 - 5 . Deletado 2 - 1987302071(168.000000)
+2025-09-10 21:40:23 - 6 . Deletado 2 - 3397007555(3.000000)
+2025-09-10 21:40:23 - 7 . Deletado 2 - 3397118990(1.000000)
+2025-09-10 21:40:23 - 8 . Deletado 2 - 3397007313(1.000000)
+2025-09-10 21:40:23 - 9 . Deletado 2 - LE GDB1984(2.000000)
+2025-09-10 21:40:23 - 10 . Deletado 2 - D06 KTBWP3600(4.000000)
+2025-09-10 21:40:23 - 11 . Deletado 2 - P08 FCS822(2.000000)
+2025-09-10 21:40:23 - 12 . Deletado 2 - SX 900082(2.000000)
+2025-09-10 21:40:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:40:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:40:23 - Procurar diferenças - Início
+2025-09-10 21:40:25 - Procurar diferenças - Fim (6)
+2025-09-10 21:40:25 - 1 . Inserido 2 - 1987302071(99.000000)
+2025-09-10 21:40:25 - 2 . Inserido 2 - D06 KTBWP3600(1.000000)
+2025-09-10 21:40:25 - 3 . Inserido 2 - F026407347(3.000000)
+2025-09-10 21:40:25 - 4 . Inserido 2 - P08 FCS822(1.000000)
+2025-09-10 21:40:25 - 5 . Inserido 2 - S13 64107972(2.000000)
+2025-09-10 21:40:25 - 6 . Inserido 2 - SX 900082(1.000000)
+2025-09-10 21:40:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:40:25 - Processo finalizado.
+2025-09-10 21:45:20 - ***************************************************************
+2025-09-10 21:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:45:20 - Carregar dados Leirilis - Início
+2025-09-10 21:45:20 - Carregar dados Leirilis - Fim (7550)
+2025-09-10 21:45:20 - Carregar dados Portal - Início
+2025-09-10 21:45:20 - Carregar dados Portal - Fim (7559)
+2025-09-10 21:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:45:22 - Procurar diferenças Portal/Leirilis - Fim (15)
+2025-09-10 21:45:22 - 1 . Deletado 2 - 0986494432(1.000000)
+2025-09-10 21:45:22 - 2 . Deletado 2 - 0986424833(1.000000)
+2025-09-10 21:45:23 - 3 . Deletado 2 - P08 AHC319(2.000000)
+2025-09-10 21:45:23 - 4 . Deletado 2 - SX 311346(2.000000)
+2025-09-10 21:45:23 - 5 . Deletado 2 - P08 A1384(3.000000)
+2025-09-10 21:45:23 - 6 . Deletado 2 - 3397011396(12.000000)
+2025-09-10 21:45:23 - 7 . Deletado 2 - 3397011393(71.000000)
+2025-09-10 21:45:23 - 8 . Deletado 2 - F026400501(4.000000)
+2025-09-10 21:45:23 - 9 . Deletado 2 - LE GDB1919(2.000000)
+2025-09-10 21:45:23 - 10 . Deletado 2 - P07 12342PRC1(8.000000)
+2025-09-10 21:45:23 - 11 . Deletado 2 - D06 DT1153H(1.000000)
+2025-09-10 21:45:23 - 12 . Deletado 2 - LE 500000(2.000000)
+2025-09-10 21:45:23 - 13 . Deletado 2 - LE RLP5-12(1.000000)
+2025-09-10 21:45:23 - 14 . Deletado 2 - P08 A1247(2.000000)
+2025-09-10 21:45:23 - 15 . Deletado 2 - S13 60929586(1.000000)
+2025-09-10 21:45:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:45:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:45:23 - Procurar diferenças - Início
+2025-09-10 21:45:25 - Procurar diferenças - Fim (6)
+2025-09-10 21:45:25 - 1 . Inserido 2 - 3397011393(59.000000)
+2025-09-10 21:45:25 - 2 . Inserido 2 - 3397011396(6.000000)
+2025-09-10 21:45:25 - 3 . Inserido 2 - F026400501(2.000000)
+2025-09-10 21:45:25 - 4 . Inserido 2 - LE 500000(1.000000)
+2025-09-10 21:45:25 - 5 . Inserido 2 - P08 A1247(1.000000)
+2025-09-10 21:45:25 - 6 . Inserido 2 - P08 A1384(2.000000)
+2025-09-10 21:45:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:45:25 - Processo finalizado.
+2025-09-10 21:50:20 - ***************************************************************
+2025-09-10 21:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:50:20 - Carregar dados Leirilis - Início
+2025-09-10 21:50:20 - Carregar dados Leirilis - Fim (7525)
+2025-09-10 21:50:20 - Carregar dados Portal - Início
+2025-09-10 21:50:20 - Carregar dados Portal - Fim (7550)
+2025-09-10 21:50:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:50:22 - Procurar diferenças Portal/Leirilis - Fim (34)
+2025-09-10 21:50:22 - 1 . Deletado 2 - 0986435102(1.000000)
+2025-09-10 21:50:22 - 2 . Deletado 2 - 0986435102C(1.000000)
+2025-09-10 21:50:22 - 3 . Deletado 2 - P08 A1569(10.000000)
+2025-09-10 21:50:22 - 4 . Deletado 2 - 0986320133(1.000000)
+2025-09-10 21:50:22 - 5 . Deletado 2 - 0273014059(7.000000)
+2025-09-10 21:50:22 - 6 . Deletado 2 - 3397007696(2.000000)
+2025-09-10 21:50:23 - 7 . Deletado 2 - P08 L466(1.000000)
+2025-09-10 21:50:23 - 8 . Deletado 2 - P08 FCS822(1.000000)
+2025-09-10 21:50:23 - 9 . Deletado 2 - 0258027151(1.000000)
+2025-09-10 21:50:23 - 10 . Deletado 2 - F026400693(1.000000)
+2025-09-10 21:50:23 - 11 . Deletado 2 - 3397007467(1.000000)
+2025-09-10 21:50:23 - 12 . Deletado 2 - 3397006837(8.000000)
+2025-09-10 21:50:23 - 13 . Deletado 2 - 0986435248(1.000000)
+2025-09-10 21:50:23 - 14 . Deletado 2 - 0986435248C(1.000000)
+2025-09-10 21:50:23 - 15 . Deletado 2 - F026407153(3.000000)
+2025-09-10 21:50:23 - 16 . Deletado 2 - 1457433273(1.000000)
+2025-09-10 21:50:23 - 17 . Deletado 2 - 5000000150(4.000000)
+2025-09-10 21:50:23 - 18 . Deletado 2 - 1987432020(1.000000)
+2025-09-10 21:50:23 - 19 . Deletado 2 - 0986494027(7.000000)
+2025-09-10 21:50:23 - 20 . Deletado 2 - LE GDB3332(3.000000)
+2025-09-10 21:50:23 - 21 . Deletado 2 - P08 C827(7.000000)
+2025-09-10 21:50:23 - 22 . Deletado 2 - S13 30106129(1.000000)
+2025-09-10 21:50:23 - 23 . Deletado 2 - 1987302031(4.000000)
+2025-09-10 21:50:23 - 24 . Deletado 2 - 1457429261(3.000000)
+2025-09-10 21:50:23 - 25 . Deletado 2 - LE 83993(3.000000)
+2025-09-10 21:50:23 - 26 . Deletado 2 - 1987435096(1.000000)
+2025-09-10 21:50:23 - 27 . Deletado 2 - 1987479106(3.000000)
+2025-09-10 21:50:23 - 28 . Deletado 2 - S13 40927869(1.000000)
+2025-09-10 21:50:23 - 29 . Deletado 2 - T06 50-09281(1.000000)
+2025-09-10 21:50:23 - 30 . Deletado 2 - D06 6PK1070(2.000000)
+2025-09-10 21:50:23 - 31 . Deletado 2 - D06 DPV1059K(1.000000)
+2025-09-10 21:50:23 - 32 . Deletado 2 - LE GBS2517(1.000000)
+2025-09-10 21:50:23 - 33 . Deletado 2 - M11 01063(2.000000)
+2025-09-10 21:50:23 - 34 . Deletado 2 - P08 L411(3.000000)
+2025-09-10 21:50:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:50:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:50:23 - Procurar diferenças - Início
+2025-09-10 21:50:25 - Procurar diferenças - Fim (9)
+2025-09-10 21:50:25 - 1 . Inserido 2 - 0273014059(5.000000)
+2025-09-10 21:50:26 - 2 . Inserido 2 - 0986494027(4.000000)
+2025-09-10 21:50:26 - 3 . Inserido 2 - 1457429261(2.000000)
+2025-09-10 21:50:26 - 4 . Inserido 2 - 3397006837(3.000000)
+2025-09-10 21:50:26 - 5 . Inserido 2 - LE 83993(2.000000)
+2025-09-10 21:50:26 - 6 . Inserido 2 - M11 01063(1.000000)
+2025-09-10 21:50:26 - 7 . Inserido 2 - P08 A1569(7.000000)
+2025-09-10 21:50:26 - 8 . Inserido 2 - P08 C827(6.000000)
+2025-09-10 21:50:26 - 9 . Inserido 2 - P08 L411(2.000000)
+2025-09-10 21:50:26 - Leirilis/Portal Atualizado.
+2025-09-10 21:50:26 - Processo finalizado.
+2025-09-10 21:55:20 - ***************************************************************
+2025-09-10 21:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 21:55:20 - Carregar dados Leirilis - Início
+2025-09-10 21:55:20 - Carregar dados Leirilis - Fim (7513)
+2025-09-10 21:55:20 - Carregar dados Portal - Início
+2025-09-10 21:55:20 - Carregar dados Portal - Fim (7525)
+2025-09-10 21:55:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 21:55:22 - Procurar diferenças Portal/Leirilis - Fim (17)
+2025-09-10 21:55:22 - 1 . Deletado 2 - P08 A1056(1.000000)
+2025-09-10 21:55:22 - 2 . Deletado 2 - P08 L991(6.000000)
+2025-09-10 21:55:22 - 3 . Deletado 2 - 0261230284(1.000000)
+2025-09-10 21:55:22 - 4 . Deletado 2 - P08 L509(4.000000)
+2025-09-10 21:55:22 - 5 . Deletado 2 - F026407147(1.000000)
+2025-09-10 21:55:22 - 6 . Deletado 2 - 0580464086(1.000000)
+2025-09-10 21:55:22 - 7 . Deletado 2 - P08 A1089(1.000000)
+2025-09-10 21:55:23 - 8 . Deletado 2 - P08 A325(2.000000)
+2025-09-10 21:55:23 - 9 . Deletado 2 - 1987432078(7.000000)
+2025-09-10 21:55:23 - 10 . Deletado 2 - F026400177(1.000000)
+2025-09-10 21:55:23 - 11 . Deletado 2 - F026400200(1.000000)
+2025-09-10 21:55:23 - 12 . Deletado 2 - F026400350(1.000000)
+2025-09-10 21:55:23 - 13 . Deletado 2 - LE 232120100(3.000000)
+2025-09-10 21:55:23 - 14 . Deletado 2 - P07 12342WVUSM(3.000000)
+2025-09-10 21:55:23 - 15 . Deletado 2 - P08 A1808(2.000000)
+2025-09-10 21:55:23 - 16 . Deletado 2 - P08 AHC167(1.000000)
+2025-09-10 21:55:23 - 17 . Deletado 2 - P08 LS489A(1.000000)
+2025-09-10 21:55:23 - Portal/Leirilis Atualizado.
+2025-09-10 21:55:23 - Sincroniza Leirilis->Portal
+2025-09-10 21:55:23 - Procurar diferenças - Início
+2025-09-10 21:55:25 - Procurar diferenças - Fim (5)
+2025-09-10 21:55:25 - 1 . Inserido 2 - 1987432078(3.000000)
+2025-09-10 21:55:25 - 2 . Inserido 2 - P08 A1808(1.000000)
+2025-09-10 21:55:25 - 3 . Inserido 2 - P08 A325(1.000000)
+2025-09-10 21:55:25 - 4 . Inserido 2 - P08 L509(3.000000)
+2025-09-10 21:55:25 - 5 . Inserido 2 - P08 L991(3.000000)
+2025-09-10 21:55:25 - Leirilis/Portal Atualizado.
+2025-09-10 21:55:25 - Processo finalizado.
+2025-09-10 22:00:23 - ***************************************************************
+2025-09-10 22:00:23 - Sincroniza Portal->Leirilis
+2025-09-10 22:00:23 - Carregar dados Leirilis - Início
+2025-09-10 22:00:23 - Carregar dados Leirilis - Fim (7505)
+2025-09-10 22:00:23 - Carregar dados Portal - Início
+2025-09-10 22:00:23 - Carregar dados Portal - Fim (7513)
+2025-09-10 22:00:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:00:25 - Procurar diferenças Portal/Leirilis - Fim (10)
+2025-09-10 22:00:25 - 1 . Deletado 2 - 0986479138(2.000000)
+2025-09-10 22:00:25 - 2 . Deletado 2 - 0986494914(1.000000)
+2025-09-10 22:00:25 - 3 . Deletado 2 - 0986FA1120(1.000000)
+2025-09-10 22:00:25 - 4 . Deletado 2 - F026407238(2.000000)
+2025-09-10 22:00:25 - 5 . Deletado 2 - 1987473070(4.000000)
+2025-09-10 22:00:25 - 6 . Deletado 2 - F026400600(5.000000)
+2025-09-10 22:00:25 - 7 . Deletado 2 - SIGBVU(7.500000)
+2025-09-10 22:00:25 - 8 . Deletado 2 - L11 4461101(1.000000)
+2025-09-10 22:00:25 - 9 . Deletado 2 - S13 62945691(1.000000)
+2025-09-10 22:00:25 - 10 . Deletado 2 - 0342311003(1.000000)
+2025-09-10 22:00:25 - Portal/Leirilis Atualizado.
+2025-09-10 22:00:25 - Sincroniza Leirilis->Portal
+2025-09-10 22:00:25 - Procurar diferenças - Início
+2025-09-10 22:00:27 - Procurar diferenças - Fim (2)
+2025-09-10 22:00:27 - 1 . Inserido 2 - F026400600(2.000000)
+2025-09-10 22:00:27 - 2 . Inserido 2 - SIGBVU(6.500000)
+2025-09-10 22:00:27 - Leirilis/Portal Atualizado.
+2025-09-10 22:00:27 - Processo finalizado.
+2025-09-10 22:05:23 - ***************************************************************
+2025-09-10 22:05:23 - Sincroniza Portal->Leirilis
+2025-09-10 22:05:23 - Carregar dados Leirilis - Início
+2025-09-10 22:05:23 - Carregar dados Leirilis - Fim (7505)
+2025-09-10 22:05:23 - Carregar dados Portal - Início
+2025-09-10 22:05:24 - Carregar dados Portal - Fim (7505)
+2025-09-10 22:05:24 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:05:26 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:05:26 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:05:26 - Sincroniza Leirilis->Portal
+2025-09-10 22:05:26 - Procurar diferenças - Início
+2025-09-10 22:05:28 - Procurar diferenças - Fim (0)
+2025-09-10 22:05:28 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:05:28 - Processo finalizado.
+2025-09-10 22:10:20 - ***************************************************************
+2025-09-10 22:10:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:10:20 - Carregar dados Leirilis - Início
+2025-09-10 22:10:21 - Carregar dados Leirilis - Fim (7491)
+2025-09-10 22:10:21 - Carregar dados Portal - Início
+2025-09-10 22:10:21 - Carregar dados Portal - Fim (7505)
+2025-09-10 22:10:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:10:23 - Procurar diferenças Portal/Leirilis - Fim (19)
+2025-09-10 22:10:23 - 1 . Deletado 2 - 0986019940(1.000000)
+2025-09-10 22:10:23 - 2 . Deletado 2 - 0986019940C(1.000000)
+2025-09-10 22:10:23 - 3 . Deletado 2 - 0986083660(1.000000)
+2025-09-10 22:10:23 - 4 . Deletado 2 - 0986083660C(1.000000)
+2025-09-10 22:10:23 - 5 . Deletado 2 - 0986494536(1.000000)
+2025-09-10 22:10:23 - 6 . Deletado 2 - F026402862(9.000000)
+2025-09-10 22:10:23 - 7 . Deletado 2 - 1987435026(13.000000)
+2025-09-10 22:10:23 - 8 . Deletado 2 - 3397009843(1.000000)
+2025-09-10 22:10:23 - 9 . Deletado 2 - 0281006076(2.000000)
+2025-09-10 22:10:23 - 10 . Deletado 2 - 0986494487(1.000000)
+2025-09-10 22:10:23 - 11 . Deletado 2 - 0451103365(1.000000)
+2025-09-10 22:10:23 - 12 . Deletado 2 - P08 LS386(1.000000)
+2025-09-10 22:10:23 - 13 . Deletado 2 - B07 ADK88106(2.000000)
+2025-09-10 22:10:23 - 14 . Deletado 2 - F026400287(22.000000)
+2025-09-10 22:10:23 - 15 . Deletado 2 - LE 831053(1.000000)
+2025-09-10 22:10:23 - 16 . Deletado 2 - 1987435525(2.000000)
+2025-09-10 22:10:23 - 17 . Deletado 2 - S13 60936607(2.000000)
+2025-09-10 22:10:23 - 18 . Deletado 2 - V01 251310(1.000000)
+2025-09-10 22:10:23 - 19 . Deletado 2 - 3397007504(2.000000)
+2025-09-10 22:10:23 - Portal/Leirilis Atualizado.
+2025-09-10 22:10:23 - Sincroniza Leirilis->Portal
+2025-09-10 22:10:23 - Procurar diferenças - Início
+2025-09-10 22:10:25 - Procurar diferenças - Fim (5)
+2025-09-10 22:10:25 - 1 . Inserido 2 - 1987435026(8.000000)
+2025-09-10 22:10:25 - 2 . Inserido 2 - 1987435525(1.000000)
+2025-09-10 22:10:25 - 3 . Inserido 2 - 3397007504(1.000000)
+2025-09-10 22:10:25 - 4 . Inserido 2 - F026400287(14.000000)
+2025-09-10 22:10:25 - 5 . Inserido 2 - F026402862(6.000000)
+2025-09-10 22:10:25 - Leirilis/Portal Atualizado.
+2025-09-10 22:10:25 - Processo finalizado.
+2025-09-10 22:15:20 - ***************************************************************
+2025-09-10 22:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:15:20 - Carregar dados Leirilis - Início
+2025-09-10 22:15:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:15:20 - Carregar dados Portal - Início
+2025-09-10 22:15:20 - Carregar dados Portal - Fim (7491)
+2025-09-10 22:15:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:15:22 - Procurar diferenças Portal/Leirilis - Fim (20)
+2025-09-10 22:15:22 - 1 . Deletado 2 - 0986494247(1.000000)
+2025-09-10 22:15:22 - 2 . Deletado 2 - F026400376(2.000000)
+2025-09-10 22:15:22 - 3 . Deletado 2 - 1987435525(1.000000)
+2025-09-10 22:15:22 - 4 . Deletado 2 - P08 L339(1.000000)
+2025-09-10 22:15:22 - 5 . Deletado 2 - 1987435143(4.000000)
+2025-09-10 22:15:22 - 6 . Deletado 2 - 1987435112(1.000000)
+2025-09-10 22:15:22 - 7 . Deletado 2 - 0986494294(2.000000)
+2025-09-10 22:15:22 - 8 . Deletado 2 - 0986494372(1.000000)
+2025-09-10 22:15:22 - 9 . Deletado 2 - 1457429252(1.000000)
+2025-09-10 22:15:22 - 10 . Deletado 2 - 0986494663(1.000000)
+2025-09-10 22:15:22 - 11 . Deletado 2 - 1987432304(1.000000)
+2025-09-10 22:15:23 - 12 . Deletado 2 - D06 6PK962(1.000000)
+2025-09-10 22:15:23 - 13 . Deletado 2 - F026002480(1.000000)
+2025-09-10 22:15:23 - 14 . Deletado 2 - B07 ADV182216(3.000000)
+2025-09-10 22:15:23 - 15 . Deletado 2 - D06 DT1110H(2.000000)
+2025-09-10 22:15:23 - 16 . Deletado 2 - 1987945704(2.000000)
+2025-09-10 22:15:23 - 17 . Deletado 2 - P08 AHC191(2.000000)
+2025-09-10 22:15:23 - 18 . Deletado 2 - S13 40850002(1.000000)
+2025-09-10 22:15:23 - 19 . Deletado 2 - P07 85126VIC1(1.000000)
+2025-09-10 22:15:23 - 20 . Deletado 2 - P08 FCS916(1.000000)
+2025-09-10 22:15:23 - Portal/Leirilis Atualizado.
+2025-09-10 22:15:23 - Sincroniza Leirilis->Portal
+2025-09-10 22:15:23 - Procurar diferenças - Início
+2025-09-10 22:15:25 - Procurar diferenças - Fim (5)
+2025-09-10 22:15:25 - 1 . Inserido 2 - 0986494294(1.000000)
+2025-09-10 22:15:25 - 2 . Inserido 2 - 1987435143(3.000000)
+2025-09-10 22:15:25 - 3 . Inserido 2 - B07 ADV182216(2.000000)
+2025-09-10 22:15:25 - 4 . Inserido 2 - D06 DT1110H(1.000000)
+2025-09-10 22:15:25 - 5 . Inserido 2 - P08 AHC191(1.000000)
+2025-09-10 22:15:25 - Leirilis/Portal Atualizado.
+2025-09-10 22:15:25 - Processo finalizado.
+2025-09-10 22:20:20 - ***************************************************************
+2025-09-10 22:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:20:20 - Carregar dados Leirilis - Início
+2025-09-10 22:20:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:20:20 - Carregar dados Portal - Início
+2025-09-10 22:20:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:20:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:20:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:20:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:20:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:20:22 - Procurar diferenças - Início
+2025-09-10 22:20:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:20:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:20:24 - Processo finalizado.
+2025-09-10 22:25:20 - ***************************************************************
+2025-09-10 22:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:25:20 - Carregar dados Leirilis - Início
+2025-09-10 22:25:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:25:20 - Carregar dados Portal - Início
+2025-09-10 22:25:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:25:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:25:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:25:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:25:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:25:22 - Procurar diferenças - Início
+2025-09-10 22:25:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:25:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:25:24 - Processo finalizado.
+2025-09-10 22:30:20 - ***************************************************************
+2025-09-10 22:30:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:30:20 - Carregar dados Leirilis - Início
+2025-09-10 22:30:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:30:20 - Carregar dados Portal - Início
+2025-09-10 22:30:21 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:30:21 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:30:23 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:30:23 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:30:23 - Sincroniza Leirilis->Portal
+2025-09-10 22:30:23 - Procurar diferenças - Início
+2025-09-10 22:30:25 - Procurar diferenças - Fim (0)
+2025-09-10 22:30:25 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:30:25 - Processo finalizado.
+2025-09-10 22:35:20 - ***************************************************************
+2025-09-10 22:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:35:20 - Carregar dados Leirilis - Início
+2025-09-10 22:35:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:35:20 - Carregar dados Portal - Início
+2025-09-10 22:35:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:35:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:35:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:35:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:35:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:35:22 - Procurar diferenças - Início
+2025-09-10 22:35:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:35:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:35:24 - Processo finalizado.
+2025-09-10 22:40:20 - ***************************************************************
+2025-09-10 22:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:40:20 - Carregar dados Leirilis - Início
+2025-09-10 22:40:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:40:20 - Carregar dados Portal - Início
+2025-09-10 22:40:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:40:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:40:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:40:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:40:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:40:22 - Procurar diferenças - Início
+2025-09-10 22:40:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:40:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:40:24 - Processo finalizado.
+2025-09-10 22:45:20 - ***************************************************************
+2025-09-10 22:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:45:20 - Carregar dados Leirilis - Início
+2025-09-10 22:45:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:45:20 - Carregar dados Portal - Início
+2025-09-10 22:45:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:45:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:45:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:45:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:45:22 - Procurar diferenças - Início
+2025-09-10 22:45:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:45:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:45:24 - Processo finalizado.
+2025-09-10 22:50:20 - ***************************************************************
+2025-09-10 22:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:50:20 - Carregar dados Leirilis - Início
+2025-09-10 22:50:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:50:20 - Carregar dados Portal - Início
+2025-09-10 22:50:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:50:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:50:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:50:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:50:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:50:22 - Procurar diferenças - Início
+2025-09-10 22:50:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:50:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:50:24 - Processo finalizado.
+2025-09-10 22:55:20 - ***************************************************************
+2025-09-10 22:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 22:55:20 - Carregar dados Leirilis - Início
+2025-09-10 22:55:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 22:55:20 - Carregar dados Portal - Início
+2025-09-10 22:55:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 22:55:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 22:55:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 22:55:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 22:55:22 - Sincroniza Leirilis->Portal
+2025-09-10 22:55:22 - Procurar diferenças - Início
+2025-09-10 22:55:24 - Procurar diferenças - Fim (0)
+2025-09-10 22:55:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 22:55:24 - Processo finalizado.
+2025-09-10 23:00:27 - ***************************************************************
+2025-09-10 23:00:27 - Sincroniza Portal->Leirilis
+2025-09-10 23:00:27 - Carregar dados Leirilis - Início
+2025-09-10 23:00:27 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:00:27 - Carregar dados Portal - Início
+2025-09-10 23:00:27 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:00:27 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:00:29 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:00:29 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:00:29 - Sincroniza Leirilis->Portal
+2025-09-10 23:00:29 - Procurar diferenças - Início
+2025-09-10 23:00:31 - Procurar diferenças - Fim (0)
+2025-09-10 23:00:31 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:00:31 - Processo finalizado.
+2025-09-10 23:05:23 - ***************************************************************
+2025-09-10 23:05:23 - Sincroniza Portal->Leirilis
+2025-09-10 23:05:23 - Carregar dados Leirilis - Início
+2025-09-10 23:05:23 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:05:23 - Carregar dados Portal - Início
+2025-09-10 23:05:23 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:05:23 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:05:25 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:05:25 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:05:25 - Sincroniza Leirilis->Portal
+2025-09-10 23:05:25 - Procurar diferenças - Início
+2025-09-10 23:05:27 - Procurar diferenças - Fim (0)
+2025-09-10 23:05:27 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:05:27 - Processo finalizado.
+2025-09-10 23:10:20 - ***************************************************************
+2025-09-10 23:10:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:10:20 - Carregar dados Leirilis - Início
+2025-09-10 23:10:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:10:20 - Carregar dados Portal - Início
+2025-09-10 23:10:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:10:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:10:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:10:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:10:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:10:22 - Procurar diferenças - Início
+2025-09-10 23:10:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:10:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:10:24 - Processo finalizado.
+2025-09-10 23:15:20 - ***************************************************************
+2025-09-10 23:15:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:15:20 - Carregar dados Leirilis - Início
+2025-09-10 23:15:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:15:20 - Carregar dados Portal - Início
+2025-09-10 23:15:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:15:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:15:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:15:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:15:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:15:22 - Procurar diferenças - Início
+2025-09-10 23:15:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:15:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:15:24 - Processo finalizado.
+2025-09-10 23:20:20 - ***************************************************************
+2025-09-10 23:20:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:20:20 - Carregar dados Leirilis - Início
+2025-09-10 23:20:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:20:20 - Carregar dados Portal - Início
+2025-09-10 23:20:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:20:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:20:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:20:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:20:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:20:22 - Procurar diferenças - Início
+2025-09-10 23:20:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:20:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:20:24 - Processo finalizado.
+2025-09-10 23:25:20 - ***************************************************************
+2025-09-10 23:25:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:25:20 - Carregar dados Leirilis - Início
+2025-09-10 23:25:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:25:20 - Carregar dados Portal - Início
+2025-09-10 23:25:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:25:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:25:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:25:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:25:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:25:22 - Procurar diferenças - Início
+2025-09-10 23:25:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:25:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:25:24 - Processo finalizado.
+2025-09-10 23:30:20 - ***************************************************************
+2025-09-10 23:30:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:30:20 - Carregar dados Leirilis - Início
+2025-09-10 23:30:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:30:20 - Carregar dados Portal - Início
+2025-09-10 23:30:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:30:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:30:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:30:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:30:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:30:22 - Procurar diferenças - Início
+2025-09-10 23:30:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:30:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:30:24 - Processo finalizado.
+2025-09-10 23:35:20 - ***************************************************************
+2025-09-10 23:35:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:35:20 - Carregar dados Leirilis - Início
+2025-09-10 23:35:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:35:20 - Carregar dados Portal - Início
+2025-09-10 23:35:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:35:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:35:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:35:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:35:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:35:22 - Procurar diferenças - Início
+2025-09-10 23:35:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:35:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:35:24 - Processo finalizado.
+2025-09-10 23:40:20 - ***************************************************************
+2025-09-10 23:40:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:40:20 - Carregar dados Leirilis - Início
+2025-09-10 23:40:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:40:20 - Carregar dados Portal - Início
+2025-09-10 23:40:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:40:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:40:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:40:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:40:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:40:22 - Procurar diferenças - Início
+2025-09-10 23:40:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:40:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:40:24 - Processo finalizado.
+2025-09-10 23:45:20 - ***************************************************************
+2025-09-10 23:45:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:45:20 - Carregar dados Leirilis - Início
+2025-09-10 23:45:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:45:20 - Carregar dados Portal - Início
+2025-09-10 23:45:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:45:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:45:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:45:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:45:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:45:22 - Procurar diferenças - Início
+2025-09-10 23:45:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:45:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:45:24 - Processo finalizado.
+2025-09-10 23:50:20 - ***************************************************************
+2025-09-10 23:50:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:50:20 - Carregar dados Leirilis - Início
+2025-09-10 23:50:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:50:20 - Carregar dados Portal - Início
+2025-09-10 23:50:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:50:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:50:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:50:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:50:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:50:22 - Procurar diferenças - Início
+2025-09-10 23:50:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:50:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:50:24 - Processo finalizado.
+2025-09-10 23:55:20 - ***************************************************************
+2025-09-10 23:55:20 - Sincroniza Portal->Leirilis
+2025-09-10 23:55:20 - Carregar dados Leirilis - Início
+2025-09-10 23:55:20 - Carregar dados Leirilis - Fim (7476)
+2025-09-10 23:55:20 - Carregar dados Portal - Início
+2025-09-10 23:55:20 - Carregar dados Portal - Fim (7476)
+2025-09-10 23:55:20 - Procurar diferenças Portal/Leirilis - Início
+2025-09-10 23:55:22 - Procurar diferenças Portal/Leirilis - Fim (0)
+2025-09-10 23:55:22 - Nenhuma diferença encontrada no Portal.
+2025-09-10 23:55:22 - Sincroniza Leirilis->Portal
+2025-09-10 23:55:22 - Procurar diferenças - Início
+2025-09-10 23:55:24 - Procurar diferenças - Fim (0)
+2025-09-10 23:55:24 - Nenhuma diferença encontrada na Leirilis.
+2025-09-10 23:55:24 - Processo finalizado.
