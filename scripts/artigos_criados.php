@@ -1,12 +1,13 @@
 <?php
 include_once '../config.php';
-//include_once '../banco.php';
+include_once '../banco.php';
 $pag_atual="Artigos Criados a Data";
 include_once '../template/header.php';
 
-/*if (!isset($_COOKIE['login'])) : 
+
+if (!isset($_COOKIE['login'])) : 
   
-  log1($connect, $_COOKIE['login'], "Erro", $pag_atual, "Erro de acesso.");
+  log1($connect, '', "Erro", $pag_atual, "Erro de acesso.");
 
 ?>
 
@@ -23,7 +24,7 @@ include_once '../template/header.php';
 endif; 
 
 log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
-*/
+
 ?>
 
 <link rel="stylesheet" href="./artigos_criados.css" type="text/css" />
@@ -69,7 +70,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 			$dias_mes = cal_days_in_month(CAL_GREGORIAN, $mes, $ano);
 			
 			echo '<select name="dia" id="dia" value=' . $dia . '>';
-			for ($i = 1; $i <= $dias_mes; $i++) {
+			for ($i = 1; $i <= 31 /*$dias_mes*/; $i++) {
 				$padrao = $i == $dia ? " selected" : "";
 				echo '<option value="' . $i . '"' . $padrao . '>' . $i . '</option>';
 			}
@@ -112,7 +113,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 				$em=verificarReferencia($fbConexaoEM,$ref);
 				$uno=verificarReferencia($fbConexaoUNO,$ref);
 				$wms=verificarRefWMS($connWMS,$ref);
-				$dp=verificarRefPortal($connPortal,$ref);
+				$dp=buscaRefPortal($connPortal,$ref);
 				$linha=1;
 				foreach($ll as $i){
 					echo "<tr><td>$i->DT_ABERTURA</td><td>$i->REFERENCIA</td>";
@@ -145,7 +146,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 					$em=verificarReferencia($fbConexaoEM,$i->REFERENCIA);
 					$uno=verificarReferencia($fbConexaoUNO,$i->REFERENCIA);
 					$wms=verificarRefWMS($connWMS,$i->REFERENCIA);
-					$dp=verificarRefPortal($connPortal,$i->REFERENCIA);
+					$dp=buscaRefPortal($connPortal,$i->REFERENCIA);
 					echo (!$va==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
 					echo "</td><td>";
 					echo (!$bp==null) ? '<img src="../img/v.jpg" alt="Cadastrada." width=30 height=30>' : '<img src="../img/x.png" alt="Não cadastrada." width=30 height=30>';
@@ -221,7 +222,7 @@ function verificarData($conn,$data){
   return $dados;
 }
 
-function verificarRefPortal($conn, $ref){
+function buscaRefPortal($conn, $ref){
   $sql="select ProductRef referencia from NBrightBuyIdx where ProductRef ='$ref'";
 	
 	$result = sqlsrv_query($conn, $sql);

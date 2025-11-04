@@ -1,28 +1,16 @@
-.busca {
-  margin: 20px 20px ;
-  
-  /*text-align: center;*/
+.container_atualiza {
+  margin: 20px 20px;
+  width: 1250px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.busca p {
+.container_atualiza p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: black;
 }
 
-.dados_container {
-  display: flex;
-}
-
-.dados {
-  padding: 15px 15px 15px 0;
-}
-
-.escolha {
-  padding: 15px 15px 0 0;
-}
-
 .botao {
-  width: 360px;
+  width: 1200px;
   height: 30px;
   justify-content: center;
   cursor: pointer;
@@ -32,6 +20,7 @@
   color: white;
   font-weight: bold;
   font-size: 1em;
+  margin: 10px 0 10px 0;
 }
 
 .botao:hover {
@@ -39,28 +28,29 @@
   font-size: 1.1em;
 }
 
-.resultados {
+.doc_tabela {
+  width: 1180px;
   border-collapse: collapse;
-}
-
-.resultados tr, td, th {
-  border: solid 1px #07758d;
   text-align: center;
-  padding: 2px 10px 2px 10px;
 }
 
-.resultados th {
-  color: aliceblue;
-  background-color: #088fad;
+.doc_tabela tr, td, th {
+  border: solid 1px gray;
+}
+
+.doc_tb_titulo {
+  color: #07758d;
+  background-color: #a5deeb;
   position: sticky;
   top: 0;
 }
 
-.table-fixo {
-  max-height: 700px;
+.table_doc {
+  max-width: 1200px;
+  max-height: 500px;
   overflow-y: auto;
 }
 
 tr:not(:first-child):nth-child(odd) {
-    background:#e6e5e5
+    background:#f0efef
 }

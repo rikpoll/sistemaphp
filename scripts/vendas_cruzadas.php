@@ -106,8 +106,10 @@ log1($connect, $_COOKIE['login'], "Acesso", "Vendas Cruzadas", "");
         break;
     }
     
+    echo "<div class=\"table_vendas\">";
+
     print("<table>
-             <tr>
+             <tr class=\"vendas_tabela_titulo\">
                <th>Empresa</th>
                <th>Entidade</th>
                <th>Contribuinte</th>
@@ -124,7 +126,7 @@ log1($connect, $_COOKIE['login'], "Acesso", "Vendas Cruzadas", "");
 
 
     foreach($result as $i) {
-      print("<tr>
+      print("<tr \"vendas_tabela_linhas\">
                <td>{$emp_nome}</td>
                <td>".mb_convert_encoding($i->ENTI_NOME,"UTF-8","Windows-1252")."</td>
                <td>{$i->ENTI_CONTRIBUINTE}</td>
@@ -264,7 +266,9 @@ log1($connect, $_COOKIE['login'], "Acesso", "Vendas Cruzadas", "");
   }
   ?>
   </table> 
-  </div>
+
+  </div> <!-- table -->
+  </div> <!-- listar -->
 </div>
 
 <?php

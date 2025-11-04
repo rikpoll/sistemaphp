@@ -117,19 +117,93 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
           echo "<tr class=\"trdados\">";
           echo "<td>" . $i["Pkid_Artigo"] . "</td>";
           echo "<td>" . $i["Quantidade"] . "</td>";
-          echo "<td>" . $i["Tipo"] . "</td>";
+          $tipo_cx = $i["Tipo"];
+          switch ($tipo_cx) {
+            case '*':
+              $tipo_cx_des='Expedição';
+              break;
+            case '+':
+              $tipo_cx_des='Arrumação';
+              break;
+            default:
+              $tipo_cx_des=$tipo_cx;
+          }
+          echo "<td>" . $tipo_cx_des . "</td>";
           echo "<td>" . $i["Username"] . "</td>";
           echo "<td>" . $i["Notas"] . "</td>";
           echo "<td>" . $i["Pkid_Documento"] . "</td>";
           echo "<td>" . $i["Pkid_LinhaDocumento"] . "</td>";
           echo "<td>" . $i["Data"]->format("Y-m-d") . "</td>";
           echo "<td>" . $i["DiarioEntrada"] . "</td>";
+          //echo "<td>" . $i["Pkid_Palete"] . "</td>";
+          $palete = $i["Pkid_Palete"];
           echo "</tr>";
         }
         echo "</table>";
       } else {
         echo "<p>Caixa $caixa vazia na Operação.</p>";
       }
+
+      $sql_palete_num="select distinct Pkid_Palete from Operacao where Pkid_Localizacao=(select distinct Pkid from Localizacoes where Identificacao='$caixa') and Pkid_Palete is not null";
+      $result_plt_num=sqlsrv_query($connWMS, $sql_palete_num);
+
+      while($result = sqlsrv_fetch_array($result_plt_num, SQLSRV_FETCH_ASSOC)) {
+        $pn[] = $result;
+      }
+
+      if (isset($pn)) {
+        foreach($pn as $i) {
+          $palete=$i["Pkid_Palete"];
+        }
+        $sql_palete = "select * from Paletes where pkid=$palete";
+        $result_plt=sqlsrv_query($connWMS, $sql_palete);
+      
+        while($result = sqlsrv_fetch_array($result_plt, SQLSRV_FETCH_ASSOC)) {
+          $p[] = $result;
+        }
+
+        if (isset($p)) {
+          echo "<table class=\"trtabela\"><tr class=\"trtitulo\"><th colspan=\"7\">Palete</th></tr><tr class=\"trcabeca\"><th>Palete</th><th>Cliente</th><th>Codigo</th><th>Activa</th><th>Data</th><th>TA</th><th>Guia</th></tr>";
+          foreach ($p as $i) {
+            echo "<tr class=\"trdados\">";
+            echo "<td>" . $i["Pkid"] . "</td>";
+            echo "<td>" . $i["NumeroCliente"] . "</td>";
+            echo "<td>" . $i["Codigo"] . "</td>";
+
+            $ativa = $i["Activa"];
+            switch ($ativa) {
+              case 0:
+                $ativa_des='Fechada';
+                break;
+              case 1:
+                $ativa_des='Aberta';
+                break;
+              default:
+                $ativa_des=$tipo_cx;
+            }
+
+            echo "<td>" . $ativa_des . "</td>";
+            echo "<td>" . $i["DataEntrada"]->format("Y-m-d") . "</td>";
+            
+            $AnoTA=$i["AnoTA"];
+            $DiarioTA=$i["DiarioTA"];
+            $NumTA=$i["NumTA"];
+            $AnoGuia=$i["AnoGuia"];
+            $DiarioGuia=$i["DiarioGuia"];
+            $NumGuia=$i["NumGuia"];
+
+            echo ($AnoTA<>0) ? "<td>$AnoTA $DiarioTA/$NumTA</td>" : "<td></td>";
+            echo ($AnoGuia<>0) ? "<td>$AnoGuia $DiarioGuia/$NumGuia</td>" : "<td></td>";
+
+            echo "</tr>";
+          }
+          echo "</table>";
+        } else {
+          echo "<p>Caixa $caixa vazia na Operação.</p>";
+        }
+      }
+      
+      
 
       $sql_lc = "select * from Localizacoes where Identificacao='$caixa'";
       $resultlc = sqlsrv_query($connWMS, $sql_lc);
@@ -148,9 +222,9 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
           echo "<td>" . $i["Nivel"] . "</td>";
           echo "<td>" . $i["Tipo"] . "</td>";
           echo "<td>" . $i["ArmazemDestino"] . "</td>";
-          echo "<td>" . $i["Pkid_ZonaDestino"] . " - " . $i["ZonaDestino"] . "</td>";
-          echo "<td>" . $i["Pkid_PisoDestino"] . " - " . $i["PisoDestino"] . "</td>";
-          echo "<td>" . $i["Pkid_Area"] . " - " . $i["Area"] . "</td>";
+          echo "<td>" . (isset($i["Pkid_ZonaDestino"]) ? $i["Pkid_ZonaDestino"] . " - " . $i["ZonaDestino"] : "") . "</td>";
+          echo "<td>" . (isset($i["Pkid_PisoDestino"]) ? $i["Pkid_PisoDestino"] . " - " . $i["PisoDestino"] : "") . "</td>";
+          echo "<td>" . (isset($i["Pkid_Area"]) ? $i["Pkid_Area"] . " - " . $i["Area"] : "") . "</td>";
           echo "</tr>";
         }
         echo "</table>";
@@ -163,6 +237,12 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
         <form method="POST">
           <input type="hidden" name="caixa" value="<?php echo $caixa; ?>">
           <input type="submit" class="botao" value="Apagar Caixa" name="apaga_caixa"><br />
+          <?php if (!isset($o)) { ?>
+            <input type="submit" class="botao" value="Criar Operação Expedição" name="cria_op_exp"><br />
+            <input type="submit" class="botao" value="Criar Operação Arrumação" name="cria_op_arr"><br />
+          <?php } else { ?>
+            <input type="submit" class="botao" value="Liberar Caixa para Arrumação" name="libera_cx"><br />
+          <?php } ?>
         </form>
       <?php
       
@@ -178,12 +258,113 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
       $sql_del_op = "delete from Operacao where Pkid_Localizacao=(select distinct Pkid from Localizacoes where Identificacao='$caixa')";
       $delop=sqlsrv_query($connWMS, $sql_del_op);
             
+      log1($connect, $_COOKIE['login'], "Deleta", $pag_atual, "Caixa $caixa apagada");
+
+      echo "<h3>A caixa $caixa foi apagada.</h3>";
+    }
+
+    if (isset($_POST["libera_cx"])) {
+      $caixa = $_POST["caixa"];
+      
+      $sql_libera_cx = "update operacao set DiarioEntrada='CGT' where DiarioEntrada is null and pkid_localizacao=(select distinct pkid_localizacao from distribuicao where localizacao='$caixa')";
+      $libera_cx=sqlsrv_query($connWMS, $sql_libera_cx);
+                  
+      log1($connect, $_COOKIE['login'], "Libera Cx", $pag_atual, "Caixa $caixa liberada para arrumação");
+
+      echo "<h3>A caixa $caixa foi liberada para arrumação.</h3>";
+    }
+
+    if (isset($_POST["cria_op_exp"])) {
+      $caixa = $_POST["caixa"];
+      
+      $sql_dist = "select * from Distribuicao where Localizacao='$caixa'";
+      $dados_dist_ex=sqlsrv_query($connWMS, $sql_dist);
+
+      while($result = sqlsrv_fetch_array($dados_dist_ex, SQLSRV_FETCH_ASSOC)) {
+        $dados_dist[] = $result;
+      }
+
+      if (isset($dados_dist)) {
+        foreach ($dados_dist as $i) {
+          $Armazem=$i["Armazem"];
+          $Referencia=$i["Referencia"];
+          $Pkid_Artigo=$i["Pkid_Artigo"];
+          $Pkid_Localizacao=$i["Pkid_Localizacao"];
+          $Quantidade=$i["Quantidade"];
+          $Ult_Movimento=$i["Ult_Movimento"]->format("Y-m-d H:m:s.n");
+          $Pkid_DocumentoLinha=$i["Pkid_DocumentoLinha"];
+          $Username=$i["Username"];
+        }
+
+        $sql_doc = "select Pkid_Documento from DocumentosLinhas where pkid='$Pkid_DocumentoLinha'";
+        $dados_doc_ex=sqlsrv_query($connWMS, $sql_doc);
+
+        while($result = sqlsrv_fetch_array($dados_doc_ex, SQLSRV_FETCH_ASSOC)) {
+          $dados_doc[] = $result;
+        }
+
+        if (isset($dados_doc)) {
+          foreach ($dados_doc as $d) {
+            $Pkid_Documento=$d["Pkid_Documento"];
+
+            $sql_add_opr = "insert into Operacao (Pkid_Documento, Pkid_LinhaDocumento, Pkid_Artigo, Pkid_Localizacao, Quantidade, Tipo, Username, Data, Notas, Pkid_DocumentoLinha_Unlink) values ('$Pkid_Documento','$Pkid_DocumentoLinha','$Pkid_Artigo',$Pkid_Localizacao,$Quantidade,'*','$Username','$Ult_Movimento','WMS_add_separacao','$Pkid_DocumentoLinha')";
+            $dados_add_op=sqlsrv_query($connWMS, $sql_add_opr);
+          }
+
+          
+          echo "<h3>Operação criada para a caixa $caixa na expedição.</h3>";
+          log1($connect, $_COOKIE['login'], "Cria operação", $pag_atual, "Operação criada para a caixa $caixa na expedição");
+        } else {
+          echo "<h3>Erro ao recuperar documento.</h3>";
+          log1($connect, $_COOKIE['login'], "Cria operação", $pag_atual, "Erro ao criar operação para a caixa $caixa, docs");
+        }
+
+      } else {
+        log1($connect, $_COOKIE['login'], "Cria operação", $pag_atual, "Erro ao criar operação para a caixa $caixa, dados");
+        echo "<h3>Erro ao criar Operação para a Caixa $caixa!</h3>";
+      }
+
+      //$sql_del_op = "delete from Operacao where Pkid_Localizacao=(select distinct Pkid from Localizacoes where Identificacao='$caixa')";
+      //$delop=sqlsrv_query($connWMS, $sql_del_op);
+            
       //log1($connect, $_COOKIE['login'], "Deleta", $pag_atual, "Caixa $caixa apagada");
 
-      var_dump($deldt);
-      var_dump($delop);
+      //echo "<h3>caixa apagada: $caixa</h3>";
+    }
+
+    if (isset($_POST["cria_op_arr"])) {
+      $caixa = $_POST["caixa"];
       
-      echo "<h3>caixa apagada: $caixa</h3>";
+      $sql_dist = "select * from Distribuicao where Localizacao='$caixa'";
+      $dados_dist_ex=sqlsrv_query($connWMS, $sql_dist);
+
+      while($result = sqlsrv_fetch_array($dados_dist_ex, SQLSRV_FETCH_ASSOC)) {
+        $dados_dist[] = $result;
+      }
+
+      if (isset($dados_dist)) {
+        foreach ($dados_dist as $i) {
+          $Armazem=$i["Armazem"];
+          $Referencia=$i["Referencia"];
+          $Pkid_Artigo=$i["Pkid_Artigo"];
+          $Pkid_Localizacao=$i["Pkid_Localizacao"];
+          $Quantidade=$i["Quantidade"];
+          $Ult_Movimento=$i["Ult_Movimento"]->format("Y-m-d H:m:s.n");
+          $Pkid_DocumentoLinha=$i["Pkid_DocumentoLinha"];
+          $Username=$i["Username"];
+          
+          $sql_add_opr = "insert into Operacao (Pkid_Artigo, Pkid_Localizacao, Quantidade, Tipo, Username, Data, Notas, DiarioEntrada) values ('$Pkid_Artigo',$Pkid_Localizacao,$Quantidade,'+','$Username','$Ult_Movimento','WMS_add_entrada','CGT')";
+          
+          $dados_add_op=sqlsrv_query($connWMS, $sql_add_opr);
+        }
+
+        
+        echo "<h3>Operação criada para a caixa $caixa na arrumação.</h3>";
+        log1($connect, $_COOKIE['login'], "Cria operação", $pag_atual, "Operação criada para a caixa $caixa na arrumação");
+      } else {
+        log1($connect, $_COOKIE['login'], "Cria operação", $pag_atual, "Erro ao criar operação para a caixa $caixa, dados");
+        echo "<h3>Erro ao criar Operação para a Caixa $caixa!</h3>";
+      }
     }
   ?>
 

@@ -10,9 +10,13 @@
 }
 
 table, tr, td, th {
-	border: 1px solid;
-	/*border-collapse: collapse;*/
-	border-color: gray;
+	border: 1px solid lightgray;
+	border-collapse: collapse;
+  padding: 3px;
+}
+
+tr:not(:first-child):nth-child(odd) {
+    background:#D0D0D0
 }
 
 .input {
@@ -32,3 +36,16 @@ table, tr, td, th {
   background-color: #07758d;
   font-size: 1.1em;
 }
+
+.vendas_tabela_titulo {
+  color: #07758d;
+  background-color: #a5deeb;
+  position: sticky;
+  top: 0;
+}
+
+.table_vendas {
+  max-height: 800px;
+  overflow-y: auto;
+}
+

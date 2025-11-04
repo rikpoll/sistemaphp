@@ -60,6 +60,7 @@
 				$busca=array_search('busca',$permissao);
         $deleta=array_search('deleta',$permissao);
         $caixa=array_search('caixa',$permissao);
+        $sync_doc=array_search('sync_doc',$permissao);
 				
 				if ($alterar>-1 or $userAcesso==1) {
 			    echo "<p><a href=\"../scripts/altera_produto.php\">Alterar Produtos</a></p>";
@@ -108,7 +109,10 @@
 				}		
         if ($caixa>-1 or $userAcesso==1) {
 				  echo "<p><a href=\"../scripts/caixa.php\">Caixas WMS</a></p>";
-				}		
+				}
+        if ($sync_doc>-1 or $userAcesso==1) {
+				  echo "<p><a href=\"../scripts/atualiza_doc.php\">Sync Documento</a></p>";
+				}
 			?>
       </div>
       <?php else : ?>

@@ -301,7 +301,7 @@ function inventarios_ni_lista($conn) {
 	$sql="select i.codigo_inventario, i.data_preparacao, i.utilizador, i.descricao, count(o.num_linha)qtd
 				from sia_inventario i
 				left join sia_inventario_online o on o.codigo_inventario=i.codigo_inventario
-				where i.integrado='N' and i.data_preparacao<current_date-1
+				where i.integrado='N' and i.data_preparacao<current_date-1 
 				group by 1,2,3,4";
 	
 	$result=$conn->query($sql);

@@ -80,7 +80,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "Acesso liberado.");
 
     if ($opt>0) {
       $escolha=$_POST["escolha"];
-      $sql="select top 25 a.Referencia, a.Designacao, a.COD_FAMILIA Familia, a.COD_GRUPO Grupo, a.COD_MARCA_LEIRILIS Marca, a.REF_TECDOC +' | '+ a.COD_MARCA_TECDOC Tecdoc from Artigos a where ";
+      $sql="select a.Referencia, a.Designacao, a.COD_FAMILIA Familia, a.COD_GRUPO Grupo, a.COD_MARCA_LEIRILIS Marca, a.REF_TECDOC +' | '+ a.COD_MARCA_TECDOC Tecdoc from Artigos a where ";
       switch ($escolha) {
         case 'contido':
           switch ($opt) {
@@ -132,8 +132,9 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "Acesso liberado.");
 
       echo "<h3>Total encontrado: " . count($dados) . "</h3>";
 
+      echo "<div class=\"table-fixo\">";
       echo "<table class=\"resultados\" ";
-      echo "<tr><th>Referencia</th><th>Designacao</th><th>Família</th><th>Grupo</th><th>Marca</th><th>Tecdoc</th></tr>";
+      echo "<tr class=\"resultados_titulo\"><th>Referencia</th><th>Designacao</th><th>Família</th><th>Grupo</th><th>Marca</th><th>Tecdoc</th></tr>";
       foreach($dados as $d) {
         echo "<tr><td>";
         echo $d["Referencia"];
@@ -150,6 +151,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "Acesso liberado.");
         echo "</td></tr>";
       }
       echo "</table>";
+      echo "</div>";
     } else {
       echo "<h2>Digite um valor!</h2>";
     }
