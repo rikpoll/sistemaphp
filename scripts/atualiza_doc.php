@@ -231,6 +231,8 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "Acesso liberado.");
         $doc_grupo = 'ENCC';
       } elseif (str_starts_with($doc_diario, 'EF')) {
         $doc_grupo = 'ENCF';
+      } elseif (str_starts_with($doc_diario, 'EIF')) {
+        $doc_grupo = 'ENCF';
       } elseif (str_starts_with($doc_diario, 'REF')) {
         $doc_grupo = 'ENCF';
       } elseif (str_starts_with($doc_diario, 'TA')) {

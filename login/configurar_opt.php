@@ -17,6 +17,7 @@
 	$sync_equiv=array_search('equivalentes',$permissoes);
   $deleta=array_search('deleta',$permissoes);
   $caixa=array_search('caixa',$permissoes);
+  $precos_varidauto=array_search('precos_varidauto',$permissoes);
 ?>
 
 <div class="linha">
@@ -62,7 +63,10 @@
       <input type="checkbox" name="deleta" value="deleta" <?php if ($deleta>-1) {echo "checked";} ?> /><label for="deleta">Apagar Artigos</label><br>
     </div>
     <div class="seleciona">
-      <input type="checkbox" name="caixa" value="caixa" <?php if ($deleta>-1) {echo "checked";} ?> /><label for="caixa">Caixas WMS</label><br>
+      <input type="checkbox" name="caixa" value="caixa" <?php if ($caixa>-1) {echo "checked";} ?> /><label for="caixa">Caixas WMS</label><br>
+    </div>
+    <div class="seleciona">
+      <input type="checkbox" name="precos_varidauto" value="precos_varidauto" <?php if ($precos_varidauto>-1) {echo "checked";} ?> /><label for="precos_varidauto">Precos VA->WMS</label><br>
     </div>
     <div class="seleciona">
       <input type="submit" name="alterarpermissao" class="input" value="Alterar">
@@ -91,6 +95,7 @@
 	  $sync_equiv=array_search('equivalentes',$permissoes);
     $deleta=array_search('deleta',$permissoes);
     $caixa=array_search('caixa',$permissoes);
+    $precos_varidauto=array_search('precos_varidauto',$permissoes);
 
     if ($alterarprod>-1) {   
       if (!isset($_POST['alterarprod'])) {
@@ -232,6 +237,18 @@
     } else {
       if (isset($_POST['caixa'])) {
           $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'caixa')";
+          $result=$connect->query($sql);
+      } 
+    }
+
+    if ($precos_varidauto>-1) {   
+      if (!isset($_POST['precos_varidauto'])) {
+        $sql="delete from config where tipo='permissao' and user={$_POST['id']} and valor='precos_varidauto'";
+        $result=$connect->query($sql);
+      }
+    } else {
+      if (isset($_POST['precos_varidauto'])) {
+          $sql="insert into config(tipo, user, valor) values('permissao', {$_POST['id']}, 'precos_varidauto')";
           $result=$connect->query($sql);
       } 
     }
