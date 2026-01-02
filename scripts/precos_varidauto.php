@@ -108,6 +108,7 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
     <?php
       } else {
         echo "<h3>Nenhum artigo encontrado.</h3>";
+        log1($connect, $_COOKIE['login'], "Altera Preços", $artigo, "Nada encontrado.");
       }
     } 
     

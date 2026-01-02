@@ -62,13 +62,13 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 			<p class="empresa_total">
 				<?php
 					//trazer do array a quantidade que não existe no UNO
-					$dadosEM = dados( $fbConexaoEM );
+					//$dadosEM = dados( $fbConexaoEM );
 					
 					//$dadosUno = dados( $fbConexaoUNO );
-					$diffEM=array_diff(array_column($dadosEM,0,'id'), array_column($dadosUno,0,'id'));
+					//$diffEM=array_diff(array_column($dadosEM,0,'id'), array_column($dadosUno,0,'id'));
 					
 					//echo 'EM DIFF: ' . count($diffEM) . ' - Uno: ' . count($dadosUno) . ' - EM: ' . count($dadosEM);					
-					echo count($diffEM);
+					//echo count($diffEM);
 					$dadosEM=[];
 					//$dadosUno = [];
 				?>
@@ -86,14 +86,14 @@ log1($connect, $_COOKIE['login'], "Acesso", $pag_atual, "");
 			<p class="empresa_total">
 				<?php
 					//trazer do array a quantidade que não existe no UNO
-					$dadosBI = dados( $fbConexaoBP );
+					//$dadosBI = dados( $fbConexaoBP );
 					
 					//$dadosUno = dados( $fbConexaoUNO );
 					
-					$diffBI=array_diff(array_column($dadosBI,0,'id'), array_column($dadosUno,0,'id'));
+					//$diffBI=array_diff(array_column($dadosBI,0,'id'), array_column($dadosUno,0,'id'));
 					
 					//echo 'EM DIFF: ' . count($diffBI) . ' - Uno: ' . count($dadosUno) . ' - EM: ' . count($dadosBI);					
-					echo count($diffBI);
+					//echo count($diffBI);
 					
 					$dadosBI=[];
 					//$dadosUno = [];
